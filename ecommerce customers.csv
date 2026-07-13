@@ -1,0 +1,3001 @@
+customer_id,signup_date,city,state,age_group,gender,acquisition_channel
+CUST00498,2026-05-17,Ahmedabad,Gujarat,25-34,Female,Paid Ads
+CUST02873,2026-01-27,Indore,Madhya Pradesh,35-44,Male,Social Media
+CUST01530,2024-09-10,Hyderabad,Telangana,25-34,Male,Organic Search
+CUST01797,2026-02-21,Ahmedabad,Gujarat,18-24,Male,Organic Search
+CUST00910,2025-04-01,Kolkata,West Bengal,25-34,Female,Email Campaign
+CUST02110,2026-02-27,  jaipur  ,Rajasthan,45-54,Male,Paid Ads
+CUST00967,2026-01-07,KOLKATA,West Bengal,18-24,Female,Social Media
+CUST01053,2025-01-06,Indore,Madhya Pradesh,35-44,Female,Social Media
+CUST01561,2025-06-18,Delhi,Delhi,35-44,Female,Paid Ads
+CUST02644,2026-04-06,Jaipur,Rajasthan,18-24,Male,Referral
+CUST00403,2026-06-03,Pune,Maharashtra,35-44,Male,Email Campaign
+CUST00481,2025-03-10,Jaipur,Rajasthan,25-34,Female,Organic Search
+CUST01610,2024-10-14,Indore,Madhya Pradesh,35-44,Female,Social Media
+CUST02561,2025-05-10,Kolkata,West Bengal,25-34,Female,Email Campaign
+CUST01183,2024-03-22,Kolkata,West Bengal,35-44,Male,Referral
+CUST01683,2026-02-12,Indore,Madhya Pradesh,18-24,Male,Referral
+CUST00756,2025-04-04,Chandigarh,Chandigarh,18-24,Other,Direct
+CUST01581,2025-04-09,Kolkata,West Bengal,35-44,Female,Referral
+CUST01458,2025-08-27,Delhi,Delhi,35-44,Male,Social Media
+CUST00781,2024-12-24,Jaipur,Rajasthan,25-34,Female,Organic Search
+CUST00454,2025-11-21,Lucknow,Uttar Pradesh,35-44,Male,Email Campaign
+CUST02339,2024-04-14,Surat,Gujarat,18-24,Female,Paid Ads
+CUST02505,2024-02-15,Kolkata,West Bengal,25-34,Male,Referral
+CUST01320,2026-04-19,Chandigarh,Chandigarh,18-24,Male,Social Media
+CUST00810,2024-11-19,Bengaluru,Karnataka,45-54,Male,Organic Search
+CUST00314,2026-03-19,Mumbai,Maharashtra,35-44,Male,Social Media
+CUST02037,2025-12-12,Ahmedabad,Gujarat,25-34,Female,Direct
+CUST02863,2026-02-13,Bengaluru,Karnataka,25-34,Female,Paid Ads
+CUST00876,2025-12-09,Bengaluru,Karnataka,35-44,Female,Organic Search
+CUST02799,2024-11-22,Mumbai,Maharashtra,35-44,Male,Social Media
+CUST01998,2024-10-30,Indore,Madhya Pradesh,45-54,Female,Social Media
+CUST02495,2025-10-07,Hyderabad,Telangana,18-24,Female,Paid Ads
+CUST02436,2025-11-29,Bengaluru,Karnataka,35-44,Female,Referral
+CUST02830,2026-06-20,Bengaluru,Karnataka,35-44,Male,Paid Ads
+CUST01969,2025-11-12,Kolkata,West Bengal,25-34,Female,Direct
+CUST02746,2024-11-23,Chennai,Tamil Nadu,35-44,Female,Paid Ads
+CUST02003,2024-12-07,Chandigarh,Chandigarh,18-24,Female,Email Campaign
+CUST00361,2026-03-27,Kolkata,West Bengal,25-34,Female,Paid Ads
+CUST00739,2025-03-17,Mumbai,Maharashtra,55+,Male,Email Campaign
+CUST02894,2026-05-05,Mumbai,Maharashtra,35-44,Male,Social Media
+CUST02159,2024-12-31,Chennai,Tamil Nadu,18-24,Male,Social Media
+CUST00788,2025-03-09,Chennai,Tamil Nadu,45-54,Female,Social Media
+CUST00272,2024-10-21,Mumbai,Maharashtra,35-44,Male,Referral
+CUST02316,2024-11-04,Kochi,Kerala,25-34,Female,Social Media
+CUST01194,2025-01-31,Jaipur,Rajasthan,25-34,Female,Organic Search
+CUST02667,2024-08-03,Lucknow,Uttar Pradesh,55+,Male,Referral
+CUST00678,2025-02-26,Jaipur,Rajasthan,35-44,Male,Direct
+CUST00641,2024-02-25,Surat,Gujarat,35-44,Female,Organic Search
+CUST02907,2025-07-30,Bengaluru,Karnataka,45-54,Female,Paid Ads
+CUST00676,2025-03-05,Hyderabad,Telangana,25-34,Male,Direct
+CUST00513,2026-01-20,Bengaluru,Karnataka,35-44,Male,Paid Ads
+CUST00399,2024-07-27,Ahmedabad,Gujarat,25-34,Male,Email Campaign
+CUST01494,2025-06-25,Mumbai,Maharashtra,25-34,Male,Social Media
+CUST02962,2026-05-03,Hyderabad,Telangana,35-44,Male,Email Campaign
+CUST02123,2025-02-11,Indore,Madhya Pradesh,25-34,Female,Referral
+CUST00293,2024-04-27,Chennai,Tamil Nadu,25-34,Other,Organic Search
+CUST00171,2026-03-17,Chennai,Tamil Nadu,35-44,Female,Paid Ads
+CUST00260,2025-03-12,Pune,Maharashtra,35-44,Female,Email Campaign
+CUST02431,2025-07-23,LUCKNOW,Uttar Pradesh,18-24,Male,Social Media
+CUST02647,2024-03-04,Kochi,Kerala,25-34,Female,Organic Search
+CUST02268,2025-02-06,Surat,Gujarat,45-54,Female,Referral
+CUST00947,2024-03-18,Kochi,Kerala,45-54,Female,Referral
+CUST02514,2026-03-29,Hyderabad,Telangana,35-44,Male,Social Media
+CUST01965,2025-08-19,Surat,Gujarat,35-44,Male,Organic Search
+CUST00909,2026-04-23,Jaipur,Rajasthan,35-44,Female,Organic Search
+CUST00794,2024-11-01,Surat,Gujarat,18-24,Female,Organic Search
+CUST00275,2025-03-15,Chandigarh,Chandigarh,45-54,Other,Paid Ads
+CUST02831,2026-04-24,Pune,Maharashtra,18-24,Male,Social Media
+CUST01939,2025-05-18,Kolkata,West Bengal,25-34,Male,Social Media
+CUST02220,2025-10-01,Indore,Madhya Pradesh,55+,Male,Paid Ads
+CUST02981,2024-12-04,Chennai,Tamil Nadu,25-34,Female,Referral
+CUST02209,2024-12-13,Bengaluru,Karnataka,25-34,Female,Direct
+CUST02726,2025-04-29,Lucknow,Uttar Pradesh,25-34,Female,Organic Search
+CUST02292,2024-07-23,Ahmedabad,Gujarat,55+,Male,Referral
+CUST01615,2024-09-23,Ahmedabad,Gujarat,18-24,Male,Organic Search
+CUST01008,2024-10-18,JAIPUR,Rajasthan,35-44,Female,Referral
+CUST01464,2025-10-31,Delhi,Delhi,35-44,Male,Organic Search
+CUST01940,2025-01-17,Kochi,Kerala,25-34,Male,Direct
+CUST01317,2026-04-21,Lucknow,Uttar Pradesh,18-24,Female,Direct
+CUST00917,2025-12-02,Indore,Madhya Pradesh,25-34,Male,Referral
+CUST02641,2024-09-16,Kochi,Kerala,25-34,Male,Referral
+CUST01696,2024-03-03,Pune,Maharashtra,25-34,Male,Email Campaign
+CUST02035,2024-01-01,Surat,Gujarat,25-34,Male,Direct
+CUST02994,2025-01-17,Surat,Gujarat,18-24,Male,Direct
+CUST02565,2025-04-02,Pune,Maharashtra,25-34,Female,Organic Search
+CUST02350,2025-12-09,Coimbatore,Tamil Nadu,25-34,Male,Paid Ads
+CUST01576,2026-06-19,Kolkata,West Bengal,45-54,Female,Paid Ads
+CUST01225,2025-09-30,Lucknow,Uttar Pradesh,25-34,Male,Referral
+CUST02122,2025-08-02,Mumbai,Maharashtra,18-24,Other,Organic Search
+CUST00071,2024-09-14,  ahmedabad  ,Gujarat,45-54,Female,Organic Search
+CUST00409,2026-05-17,Mumbai,Maharashtra,18-24,Male,Organic Search
+CUST01425,2024-04-21,Delhi,Delhi,18-24,Male,Organic Search
+CUST00326,2025-12-10,Indore,Madhya Pradesh,35-44,Female,Organic Search
+CUST01961,2025-02-22,Indore,Madhya Pradesh,25-34,Female,Organic Search
+CUST00973,2025-09-13,Ahmedabad,Gujarat,55+,Female,Organic Search
+CUST01013,2024-09-13,Lucknow,Uttar Pradesh,35-44,Other,Referral
+CUST02971,2026-03-14,Coimbatore,Tamil Nadu,55+,Female,Referral
+CUST02854,2024-07-30,Bengaluru,Karnataka,25-34,Male,Referral
+CUST01523,2024-04-22,CHANDIGARH,Chandigarh,35-44,Female,Referral
+CUST02051,2025-01-22,Hyderabad,Telangana,55+,Female,Organic Search
+CUST00082,2026-04-10,Kochi,Kerala,25-34,Male,Paid Ads
+CUST00697,2025-08-10,Coimbatore,Tamil Nadu,25-34,Female,Social Media
+CUST00131,2025-07-31,Delhi,Delhi,55+,Male,Organic Search
+CUST00784,2025-11-24,Hyderabad,Telangana,25-34,Female,Referral
+CUST02197,2024-11-12,Chandigarh,Chandigarh,18-24,Male,Email Campaign
+CUST02288,2025-06-18,Bengaluru,Karnataka,35-44,Female,Organic Search
+CUST00482,2024-06-07,Kolkata,West Bengal,25-34,Female,Paid Ads
+CUST00683,2024-07-26,Delhi,Delhi,18-24,Female,Organic Search
+CUST00567,2025-07-03,Chandigarh,Chandigarh,35-44,Female,Organic Search
+CUST01390,2024-07-23,Indore,Madhya Pradesh,25-34,Male,Social Media
+CUST00023,2025-10-04,Bengaluru,Karnataka,18-24,Female,Referral
+CUST02776,2024-01-27,Chennai,Tamil Nadu,25-34,Male,Social Media
+CUST00441,2024-08-19,Jaipur,Rajasthan,35-44,Male,Social Media
+CUST00891,2025-01-02,Mumbai,Maharashtra,45-54,Male,Email Campaign
+CUST02195,2025-01-06,Delhi,Delhi,35-44,Female,Organic Search
+CUST02313,2024-01-05,Lucknow,Uttar Pradesh,45-54,Male,Email Campaign
+CUST00422,2025-04-30,Lucknow,Uttar Pradesh,25-34,Female,Direct
+CUST00525,2024-08-19,Kochi,Kerala,25-34,Female,Organic Search
+CUST02564,2024-04-25,Hyderabad,Telangana,55+,Female,Paid Ads
+CUST02871,2024-06-30,Hyderabad,Telangana,35-44,Male,Organic Search
+CUST01478,2026-03-25,Hyderabad,Telangana,45-54,Female,Email Campaign
+CUST00360,2025-01-30,Ahmedabad,Gujarat,25-34,Male,Paid Ads
+CUST01684,2026-05-28,Chandigarh,Chandigarh,55+,Female,Organic Search
+CUST01675,2025-09-12,Bengaluru,Karnataka,25-34,Female,Direct
+CUST01679,2024-08-20,Lucknow,Uttar Pradesh,18-24,Male,Organic Search
+CUST01534,2025-01-21,Kolkata,West Bengal,35-44,Male,Organic Search
+CUST01774,2024-01-09,Kochi,Kerala,18-24,Male,Organic Search
+CUST02346,2024-04-21,Pune,Maharashtra,35-44,Female,Direct
+CUST02662,2024-05-23,Chennai,Tamil Nadu,35-44,Male,Email Campaign
+CUST02645,2024-06-05,Kochi,Kerala,35-44,Male,Email Campaign
+CUST02088,2025-02-08,  bengaluru  ,Karnataka,25-34,Male,Organic Search
+CUST00461,2024-11-14,Chandigarh,Chandigarh,35-44,Female,Direct
+CUST00875,2025-08-22,Indore,Madhya Pradesh,25-34,Female,Email Campaign
+CUST00721,2026-01-19,Bengaluru,Karnataka,55+,Female,Direct
+CUST00432,2025-05-10,Lucknow,Uttar Pradesh,18-24,Male,Referral
+CUST01569,2026-04-21,Kolkata,West Bengal,25-34,Female,Email Campaign
+CUST01434,2024-05-31,Mumbai,Maharashtra,25-34,Male,Organic Search
+CUST00232,2024-10-29,Chandigarh,Chandigarh,35-44,Male,Organic Search
+CUST02807,2024-11-12,Jaipur,Rajasthan,35-44,Male,Paid Ads
+CUST02698,2024-07-03,Surat,Gujarat,25-34,Male,Social Media
+CUST00750,2025-12-14,Chandigarh,Chandigarh,35-44,Male,Social Media
+CUST02887,2024-08-18,Bengaluru,Karnataka,35-44,Female,Paid Ads
+CUST01383,2025-04-30,Coimbatore,Tamil Nadu,25-34,Male,Email Campaign
+CUST00016,2025-07-24,Kochi,Kerala,25-34,Male,Paid Ads
+CUST01711,2025-08-09,Chennai,Tamil Nadu,35-44,Male,Direct
+CUST01634,2025-12-02,Coimbatore,Tamil Nadu,35-44,Male,Organic Search
+CUST02381,2024-07-20,Kochi,Kerala,25-34,Female,Social Media
+CUST02688,2025-01-18,Chandigarh,Chandigarh,18-24,Male,Organic Search
+CUST01946,2025-12-24,Surat,Gujarat,35-44,Female,Referral
+CUST02225,2024-04-05,Surat,Gujarat,25-34,Male,Referral
+CUST00733,2025-05-19,Pune,Maharashtra,45-54,Male,Social Media
+CUST00588,2024-10-31,Chandigarh,Chandigarh,45-54,Female,Paid Ads
+CUST02528,2024-12-10,Coimbatore,Tamil Nadu,35-44,Female,Direct
+CUST01550,2025-02-24,PUNE,Maharashtra,25-34,Female,Organic Search
+CUST01127,2024-11-05,Coimbatore,Tamil Nadu,18-24,Other,Organic Search
+CUST01806,2024-03-10,Kochi,Kerala,35-44,Female,Email Campaign
+CUST00309,2025-10-29,Lucknow,Uttar Pradesh,18-24,Female,Referral
+CUST01469,2024-06-15,Chennai,Tamil Nadu,35-44,Male,Social Media
+CUST02872,2025-04-26,Kochi,Kerala,35-44,Male,Paid Ads
+CUST02218,2025-05-14,Lucknow,Uttar Pradesh,18-24,Female,Social Media
+CUST01560,2024-05-23,Indore,Madhya Pradesh,25-34,Female,Referral
+CUST02409,2025-12-17,Kochi,Kerala,25-34,Male,Social Media
+CUST01977,2026-01-26,Pune,Maharashtra,35-44,Male,Social Media
+CUST02290,2025-01-08,Indore,Madhya Pradesh,18-24,Male,Social Media
+CUST01914,2024-01-19,Kolkata,West Bengal,35-44,Female,Social Media
+CUST00934,2024-07-07,BENGALURU,Karnataka,25-34,Female,Organic Search
+CUST00868,2025-01-17,Jaipur,Rajasthan,35-44,Male,Organic Search
+CUST02306,2025-07-29,Hyderabad,Telangana,18-24,Male,Organic Search
+CUST00236,2026-02-05,Surat,Gujarat,35-44,Female,Paid Ads
+CUST01493,2025-06-01,  hyderabad  ,Telangana,35-44,Male,Referral
+CUST02570,2025-11-22,Chennai,Tamil Nadu,25-34,Male,Social Media
+CUST00849,2024-05-13,Coimbatore,Tamil Nadu,25-34,Female,Email Campaign
+CUST02796,2024-07-13,Kochi,Kerala,35-44,Female,Email Campaign
+CUST01267,2025-01-07,Chennai,Tamil Nadu,25-34,Female,Paid Ads
+CUST00386,2026-06-18,Bengaluru,Karnataka,45-54,Female,Referral
+CUST00561,2025-12-26,Ahmedabad,Gujarat,25-34,Female,Email Campaign
+CUST00095,2024-10-29,Kochi,Kerala,35-44,Male,Paid Ads
+CUST01847,2024-10-28,Delhi,Delhi,45-54,Female,Referral
+CUST00921,2025-08-11,Delhi,Delhi,45-54,Female,Social Media
+CUST02127,2025-04-11,  jaipur  ,Rajasthan,25-34,Female,Organic Search
+CUST02993,2024-01-21,Chennai,Tamil Nadu,45-54,Male,Referral
+CUST01476,2025-06-14,Bengaluru,Karnataka,25-34,Female,Social Media
+CUST01662,2025-10-07,Delhi,Delhi,45-54,Male,Social Media
+CUST02284,2024-08-03,Delhi,Delhi,35-44,Male,Social Media
+CUST01823,2025-01-03,Chandigarh,Chandigarh,18-24,Male,Organic Search
+CUST02418,2025-11-02,Kolkata,West Bengal,35-44,Male,Paid Ads
+CUST01406,2025-10-25,Hyderabad,Telangana,55+,Male,Paid Ads
+CUST01208,2024-07-04,Surat,Gujarat,18-24,Male,Organic Search
+CUST01725,2025-09-08,Delhi,Delhi,45-54,Male,Social Media
+CUST00691,2024-04-14,Ahmedabad,Gujarat,45-54,Male,Organic Search
+CUST02011,2025-12-27,Coimbatore,Tamil Nadu,25-34,Female,Referral
+CUST02480,2026-04-09,Chennai,Tamil Nadu,35-44,Male,Organic Search
+CUST02944,2026-05-19,Ahmedabad,Gujarat,45-54,Male,Paid Ads
+CUST02591,2025-05-09,Chennai,Tamil Nadu,25-34,Female,Referral
+CUST02232,2025-04-29,Pune,Maharashtra,25-34,Male,Organic Search
+CUST00086,2026-03-02,Delhi,Delhi,25-34,Female,Social Media
+CUST00244,2025-02-21,Lucknow,Uttar Pradesh,55+,Male,Paid Ads
+CUST00602,2026-02-08,Surat,Gujarat,25-34,Female,Organic Search
+CUST01103,2026-01-21,Pune,Maharashtra,18-24,Male,Email Campaign
+CUST00170,2025-12-20,Chennai,Tamil Nadu,45-54,Male,Organic Search
+CUST02396,2024-02-26,Delhi,Delhi,25-34,Other,Organic Search
+CUST01179,2025-02-25,Pune,Maharashtra,25-34,Female,Paid Ads
+CUST02092,2026-01-29,Kochi,Kerala,45-54,Male,Organic Search
+CUST01291,2024-06-26,Surat,Gujarat,25-34,Male,Social Media
+CUST00859,2025-03-30,Ahmedabad,Gujarat,45-54,Male,Email Campaign
+CUST00705,2025-02-01,Kolkata,West Bengal,25-34,Male,Referral
+CUST01122,2025-07-17,Kolkata,West Bengal,55+,Male,Social Media
+CUST00969,2025-08-10,Bengaluru,Karnataka,35-44,Male,Referral
+CUST01049,2026-06-08,Bengaluru,Karnataka,18-24,Female,Social Media
+CUST02237,2024-10-31,Chandigarh,Chandigarh,18-24,Male,Social Media
+CUST00653,2025-03-20,Coimbatore,Tamil Nadu,18-24,Female,Organic Search
+CUST00049,2026-05-26,Indore,Madhya Pradesh,35-44,Male,Direct
+CUST00533,2025-08-24,HYDERABAD,Telangana,18-24,Female,Paid Ads
+CUST01669,2024-07-15,Kochi,Kerala,25-34,Male,Referral
+CUST02571,2024-09-23,Pune,Maharashtra,45-54,Male,Paid Ads
+CUST00754,2026-05-24,Pune,Maharashtra,35-44,Female,Email Campaign
+CUST00415,2025-02-15,JAIPUR,Rajasthan,25-34,Male,Organic Search
+CUST00541,2025-08-22,Surat,Gujarat,35-44,Male,Referral
+CUST01519,2024-02-02,Chandigarh,Chandigarh,55+,Female,Organic Search
+CUST00774,2026-06-07,Jaipur,Rajasthan,25-34,Male,Paid Ads
+CUST01451,2024-02-27,Jaipur,Rajasthan,45-54,Male,Organic Search
+CUST02748,2024-08-18,Pune,Maharashtra,45-54,Female,Social Media
+CUST00671,2025-08-28,Kolkata,West Bengal,55+,Other,Paid Ads
+CUST02119,2025-01-09,Coimbatore,Tamil Nadu,25-34,Female,Email Campaign
+CUST00183,2025-02-25,Kolkata,West Bengal,35-44,Male,Direct
+CUST00737,2025-01-19,Coimbatore,Tamil Nadu,18-24,Male,Direct
+CUST02666,2024-02-07,Bengaluru,Karnataka,55+,Female,Organic Search
+CUST00888,2025-01-25,Mumbai,Maharashtra,18-24,Female,Organic Search
+CUST02295,2024-10-14,Kochi,Kerala,55+,Male,Paid Ads
+CUST00074,2024-01-10,Jaipur,Rajasthan,18-24,Female,Paid Ads
+CUST01616,2025-05-21,Coimbatore,Tamil Nadu,18-24,Male,Paid Ads
+CUST02596,2024-04-07,Delhi,Delhi,35-44,Male,Direct
+CUST01790,2024-01-06,Kolkata,West Bengal,25-34,Male,Email Campaign
+CUST02576,2024-12-27,Coimbatore,Tamil Nadu,35-44,Female,Paid Ads
+CUST01120,2026-03-22,Bengaluru,Karnataka,18-24,Male,Social Media
+CUST02311,2024-05-07,Delhi,Delhi,25-34,Female,Referral
+CUST02866,2024-01-17,Ahmedabad,Gujarat,18-24,Female,Social Media
+CUST00330,2024-07-17,Indore,Madhya Pradesh,25-34,Female,Direct
+CUST02155,2025-03-01,Indore,Madhya Pradesh,18-24,Female,Organic Search
+CUST00055,2024-02-29,Hyderabad,Telangana,35-44,Female,Paid Ads
+CUST00660,2025-01-03,Jaipur,Rajasthan,18-24,Female,Organic Search
+CUST00435,2024-10-07,Kochi,Kerala,25-34,Female,Referral
+CUST00224,2026-05-02,Ahmedabad,Gujarat,45-54,Male,Paid Ads
+CUST00693,2025-12-03,Kolkata,West Bengal,35-44,Female,Referral
+CUST00996,2025-02-14,Jaipur,Rajasthan,35-44,Female,Referral
+CUST01572,2025-12-18,Surat,Gujarat,25-34,Female,Organic Search
+CUST00163,2024-03-28,Chennai,Tamil Nadu,55+,Male,Paid Ads
+CUST01595,2024-07-14,Hyderabad,Telangana,55+,Female,Organic Search
+CUST01238,2024-11-19,Surat,Gujarat,35-44,Male,Referral
+CUST01079,2024-04-02,Hyderabad,Telangana,18-24,Female,Social Media
+CUST02578,2025-02-09,Jaipur,Rajasthan,45-54,Male,Paid Ads
+CUST02840,2024-03-02,Jaipur,Rajasthan,45-54,Female,Organic Search
+CUST00799,2024-08-15,Kochi,Kerala,35-44,Female,Social Media
+CUST01836,2024-03-07,Lucknow,Uttar Pradesh,18-24,Male,Email Campaign
+CUST01950,2024-03-23,Lucknow,Uttar Pradesh,25-34,Male,Social Media
+CUST00371,2025-03-30,Kolkata,West Bengal,35-44,Female,Referral
+CUST01871,2024-01-12,Jaipur,Rajasthan,18-24,Female,Social Media
+CUST00159,2024-04-15,Ahmedabad,Gujarat,45-54,Female,Social Media
+CUST01948,2025-08-15,Lucknow,Uttar Pradesh,55+,Female,Organic Search
+CUST02735,2025-05-25,Kochi,Kerala,25-34,Female,Paid Ads
+CUST01844,2025-06-08,Ahmedabad,Gujarat,35-44,Male,Social Media
+CUST02383,2025-03-08,Pune,Maharashtra,25-34,Female,Email Campaign
+CUST00152,2024-12-26,Kolkata,West Bengal,35-44,Male,Organic Search
+CUST02638,2024-01-06,HYDERABAD,Telangana,35-44,Male,Email Campaign
+CUST01361,2026-06-10,Surat,Gujarat,45-54,Male,Referral
+CUST02249,2024-11-05,Mumbai,Maharashtra,45-54,Female,Email Campaign
+CUST00694,2026-04-12,Chennai,Tamil Nadu,18-24,Other,Organic Search
+CUST00115,2025-01-27,Hyderabad,Telangana,35-44,Female,Organic Search
+CUST00154,2025-12-07,Chandigarh,Chandigarh,18-24,Male,Social Media
+CUST00180,2025-04-26,Bengaluru,Karnataka,25-34,Male,Organic Search
+CUST01834,2026-06-12,Chennai,Tamil Nadu,18-24,Female,Referral
+CUST01316,2026-06-01,Jaipur,Rajasthan,18-24,Other,Direct
+CUST02736,2025-02-16,Chennai,Tamil Nadu,18-24,Female,Direct
+CUST00542,2024-09-09,Chandigarh,Chandigarh,35-44,Male,Organic Search
+CUST00758,2024-07-25,Pune,Maharashtra,55+,Female,Email Campaign
+CUST01463,2024-09-25,Bengaluru,Karnataka,25-34,Female,Referral
+CUST02266,2026-04-19,Jaipur,Rajasthan,35-44,Male,Organic Search
+CUST02361,2026-01-22,AHMEDABAD,Gujarat,25-34,Female,Paid Ads
+CUST02747,2025-10-10,Surat,Gujarat,35-44,Male,Referral
+CUST00342,2026-05-05,Hyderabad,Telangana,18-24,Female,Referral
+CUST01688,2024-05-05,Bengaluru,Karnataka,45-54,Male,Social Media
+CUST01538,2026-05-20,Indore,Madhya Pradesh,25-34,Male,Organic Search
+CUST00421,2026-03-26,Chennai,Tamil Nadu,45-54,Female,Referral
+CUST02407,2025-11-04,Indore,Madhya Pradesh,35-44,Male,Referral
+CUST00933,2024-08-04,Kolkata,West Bengal,25-34,Female,Referral
+CUST00343,2024-04-23,Pune,Maharashtra,35-44,Male,Organic Search
+CUST00189,2025-12-16,Coimbatore,Tamil Nadu,25-34,Male,Referral
+CUST01266,2024-08-25,Ahmedabad,Gujarat,55+,Male,Email Campaign
+CUST01430,2025-08-15,Pune,Maharashtra,25-34,Female,Social Media
+CUST02173,2025-12-11,Chandigarh,Chandigarh,45-54,Male,Organic Search
+CUST00701,2024-03-03,Ahmedabad,Gujarat,18-24,Male,Social Media
+CUST02804,2026-02-11,Chennai,Tamil Nadu,25-34,Male,Referral
+CUST01915,2026-01-29,Surat,Gujarat,25-34,Female,Direct
+CUST02714,2025-04-02,Mumbai,Maharashtra,25-34,Female,Referral
+CUST02310,2026-04-01,Mumbai,Maharashtra,25-34,Male,Organic Search
+CUST02029,2025-08-21,Indore,Madhya Pradesh,25-34,Female,Paid Ads
+CUST00225,2026-04-01,Lucknow,Uttar Pradesh,25-34,Female,Referral
+CUST02074,2025-03-08,Mumbai,Maharashtra,25-34,Male,Direct
+CUST01860,2024-05-11,Indore,Madhya Pradesh,25-34,Female,Social Media
+CUST00905,2025-12-25,Chandigarh,Chandigarh,25-34,Male,Organic Search
+CUST02827,2025-12-05,Pune,Maharashtra,55+,Female,Organic Search
+CUST00728,2026-02-02,Kolkata,West Bengal,18-24,Male,Social Media
+CUST00990,2024-09-16,Lucknow,Uttar Pradesh,25-34,Female,Referral
+CUST02416,2025-05-27,Kolkata,West Bengal,45-54,Female,Social Media
+CUST02271,2025-05-31,Bengaluru,Karnataka,18-24,Female,Social Media
+CUST01198,2024-04-25,Jaipur,Rajasthan,18-24,Female,Email Campaign
+CUST01738,2025-10-22,Jaipur,Rajasthan,18-24,Female,Organic Search
+CUST02625,2024-01-03,BENGALURU,Karnataka,35-44,Other,Organic Search
+CUST01369,2024-11-25,Bengaluru,Karnataka,45-54,Female,Paid Ads
+CUST02823,2026-03-20,Pune,Maharashtra,25-34,Female,Paid Ads
+CUST00550,2024-10-02,  bengaluru  ,Karnataka,25-34,Female,Organic Search
+CUST02584,2026-01-28,Indore,Madhya Pradesh,45-54,Female,Organic Search
+CUST01712,2026-02-02,Chandigarh,Chandigarh,55+,Female,Email Campaign
+CUST00946,2025-07-05,Bengaluru,Karnataka,18-24,Female,Referral
+CUST01381,2025-06-03,Jaipur,Rajasthan,25-34,Female,Paid Ads
+CUST01857,2026-01-09,Ahmedabad,Gujarat,45-54,Male,Organic Search
+CUST00262,2025-10-10,Lucknow,Uttar Pradesh,35-44,Female,Social Media
+CUST00245,2025-03-30,Hyderabad,Telangana,25-34,Male,Social Media
+CUST00436,2025-02-08,Coimbatore,Tamil Nadu,45-54,Female,Paid Ads
+CUST02588,2024-11-27,Chandigarh,Chandigarh,25-34,Female,Social Media
+CUST02526,2025-02-01,Jaipur,Rajasthan,45-54,Male,Social Media
+CUST00535,2025-02-02,Indore,Madhya Pradesh,35-44,Female,Social Media
+CUST01859,2025-04-05,Ahmedabad,Gujarat,45-54,Male,Organic Search
+CUST02297,2026-06-23,Pune,Maharashtra,25-34,Female,Organic Search
+CUST02624,2026-01-24,Chandigarh,Chandigarh,45-54,Female,Social Media
+CUST02704,2025-03-08,Pune,Maharashtra,35-44,Male,Organic Search
+CUST01391,2024-02-25,AHMEDABAD,Gujarat,45-54,Male,Email Campaign
+CUST00149,2025-12-29,Surat,Gujarat,25-34,Female,Organic Search
+CUST02549,2026-01-19,Chennai,Tamil Nadu,35-44,Other,Paid Ads
+CUST01695,2024-03-27,Delhi,Delhi,25-34,Male,Paid Ads
+CUST00167,2024-07-31,Chandigarh,Chandigarh,35-44,Male,Organic Search
+CUST00982,2025-06-18,Pune,Maharashtra,25-34,Female,Paid Ads
+CUST01781,2025-08-02,Kochi,Kerala,35-44,Female,Organic Search
+CUST01007,2025-06-14,Hyderabad,Telangana,18-24,Female,Email Campaign
+CUST02621,2024-04-15,Bengaluru,Karnataka,35-44,Male,Organic Search
+CUST01404,2025-04-08,Delhi,Delhi,25-34,Male,Paid Ads
+CUST01487,2024-07-20,Mumbai,Maharashtra,18-24,Female,Referral
+CUST01205,2024-06-23,Chandigarh,Chandigarh,45-54,Female,Paid Ads
+CUST02769,2026-03-17,Pune,Maharashtra,18-24,Male,Organic Search
+CUST00558,2025-08-12,Ahmedabad,Gujarat,35-44,Male,Social Media
+CUST00886,2025-12-28,Surat,Gujarat,25-34,Female,Email Campaign
+CUST01334,2024-03-29,Delhi,Delhi,45-54,Male,Paid Ads
+CUST01886,2025-01-12,Delhi,Delhi,18-24,Male,Paid Ads
+CUST01975,2024-11-25,Indore,Madhya Pradesh,18-24,Male,Organic Search
+CUST02952,2024-07-26,Pune,Maharashtra,25-34,Female,Social Media
+CUST01817,2024-12-02,Pune,Maharashtra,18-24,Male,Paid Ads
+CUST02040,2024-05-17,Hyderabad,Telangana,35-44,Male,Social Media
+CUST02879,2024-05-27,Indore,Madhya Pradesh,45-54,Male,Social Media
+CUST01744,2024-01-24,Indore,Madhya Pradesh,25-34,Male,Organic Search
+CUST00339,2025-10-27,Kochi,Kerala,25-34,Male,Organic Search
+CUST00156,2026-05-02,Delhi,Delhi,18-24,Male,Organic Search
+CUST01811,2024-11-12,Ahmedabad,Gujarat,35-44,Male,Direct
+CUST02004,2026-04-09,Coimbatore,Tamil Nadu,25-34,Female,Email Campaign
+CUST00707,2025-01-01,Jaipur,Rajasthan,35-44,Other,Direct
+CUST01175,2025-06-20,Coimbatore,Tamil Nadu,45-54,Male,Email Campaign
+CUST02139,2024-08-13,Ahmedabad,Gujarat,25-34,Male,Referral
+CUST01632,2024-10-18,Pune,Maharashtra,35-44,Female,Organic Search
+CUST01564,2026-02-05,Chandigarh,Chandigarh,35-44,Female,Organic Search
+CUST00808,2024-02-25,Pune,Maharashtra,45-54,Male,Direct
+CUST00020,2024-09-28,Bengaluru,Karnataka,18-24,Female,Referral
+CUST00106,2026-06-25,Chandigarh,Chandigarh,18-24,Male,Organic Search
+CUST01136,2026-02-28,Coimbatore,Tamil Nadu,25-34,Female,Social Media
+CUST01705,2026-06-19,Kochi,Kerala,18-24,Other,Social Media
+CUST02329,2024-11-25,Chennai,Tamil Nadu,35-44,Female,Organic Search
+CUST00150,2025-02-18,Hyderabad,Telangana,35-44,Male,Referral
+CUST02896,2025-08-14,Indore,Madhya Pradesh,25-34,Other,Social Media
+CUST00790,2024-04-14,Lucknow,Uttar Pradesh,18-24,Other,Direct
+CUST02798,2025-08-18,Chandigarh,Chandigarh,25-34,Male,Email Campaign
+CUST00877,2025-11-04,Pune,Maharashtra,35-44,Female,Referral
+CUST00385,2025-10-19,Kolkata,West Bengal,18-24,Male,Referral
+CUST01230,2026-04-05,Jaipur,Rajasthan,35-44,Male,Organic Search
+CUST01535,2024-04-12,Ahmedabad,Gujarat,35-44,Male,Social Media
+CUST02892,2026-05-21,Kochi,Kerala,18-24,Female,Social Media
+CUST02294,2024-07-16,Pune,Maharashtra,25-34,Male,Email Campaign
+CUST01370,2024-06-26,Lucknow,Uttar Pradesh,25-34,Male,Organic Search
+CUST02141,2025-01-12,Pune,Maharashtra,18-24,Male,Social Media
+CUST01802,2024-08-26,Pune,Maharashtra,45-54,Female,Referral
+CUST02244,2025-02-20,Surat,Gujarat,25-34,Female,Direct
+CUST01775,2024-08-14,Mumbai,Maharashtra,35-44,Female,Paid Ads
+CUST02806,2026-06-07,Chennai,Tamil Nadu,25-34,Male,Paid Ads
+CUST00162,2025-12-03,Surat,Gujarat,18-24,Male,Referral
+CUST01920,2026-06-17,Kochi,Kerala,25-34,Male,Referral
+CUST00490,2024-08-14,Jaipur,Rajasthan,25-34,Male,Referral
+CUST00938,2024-12-31,Kolkata,West Bengal,18-24,Female,Organic Search
+CUST02064,2025-10-11,Delhi,Delhi,18-24,Female,Direct
+CUST02405,2024-11-03,Delhi,Delhi,25-34,Other,Paid Ads
+CUST02838,2025-09-10,Chennai,Tamil Nadu,35-44,Male,Organic Search
+CUST01412,2025-08-12,Jaipur,Rajasthan,35-44,Female,Organic Search
+CUST02061,2026-03-28,Kolkata,West Bengal,25-34,Male,Direct
+CUST00983,2024-08-22,Pune,Maharashtra,55+,Female,Paid Ads
+CUST02457,2025-01-31,Mumbai,Maharashtra,35-44,Female,Social Media
+CUST00748,2025-01-25,Coimbatore,Tamil Nadu,25-34,Male,Organic Search
+CUST00427,2025-02-24,Hyderabad,Telangana,25-34,Female,Social Media
+CUST01202,2026-01-05,Bengaluru,Karnataka,35-44,Male,Paid Ads
+CUST02903,2026-06-13,Bengaluru,Karnataka,25-34,Male,Referral
+CUST02599,2024-09-15,Ahmedabad,Gujarat,25-34,Female,Email Campaign
+CUST00951,2026-01-20,Lucknow,Uttar Pradesh,45-54,Male,Referral
+CUST01331,2025-12-02,Delhi,Delhi,25-34,Male,Social Media
+CUST01582,2025-10-07,Bengaluru,Karnataka,25-34,Female,Organic Search
+CUST00971,2025-02-19,Jaipur,Rajasthan,35-44,Female,Organic Search
+CUST00624,2024-06-11,Chennai,Tamil Nadu,45-54,Female,Organic Search
+CUST02180,2025-01-15,Pune,Maharashtra,18-24,Male,Referral
+CUST00943,2025-01-03,Indore,Madhya Pradesh,18-24,Female,Email Campaign
+CUST02273,2024-07-27,Kolkata,West Bengal,18-24,Male,Organic Search
+CUST01200,2025-08-27,Ahmedabad,Gujarat,45-54,Female,Email Campaign
+CUST01255,2024-04-30,Surat,Gujarat,25-34,Male,Organic Search
+CUST00606,2024-05-22,Lucknow,Uttar Pradesh,35-44,Female,Paid Ads
+CUST01586,2025-05-04,Ahmedabad,Gujarat,45-54,Male,Organic Search
+CUST02089,2024-07-22,Surat,Gujarat,55+,Female,Direct
+CUST00878,2025-03-04,Pune,Maharashtra,55+,Female,Paid Ads
+CUST00057,2024-02-28,Bengaluru,Karnataka,55+,Male,Organic Search
+CUST01280,2025-10-22,Ahmedabad,Gujarat,35-44,Male,Paid Ads
+CUST02151,2024-03-28,Kochi,Kerala,25-34,Female,Referral
+CUST00084,2025-04-16,Coimbatore,Tamil Nadu,25-34,Female,Email Campaign
+CUST01805,2024-12-02,Jaipur,Rajasthan,35-44,Male,Organic Search
+CUST01955,2025-02-11,Kochi,Kerala,35-44,Male,Organic Search
+CUST02710,2026-06-12,Kochi,Kerala,25-34,Male,Social Media
+CUST00724,2025-01-22,Bengaluru,Karnataka,25-34,Female,Organic Search
+CUST01018,2026-05-02,Kochi,Kerala,25-34,Male,Social Media
+CUST01026,2024-11-18,Lucknow,Uttar Pradesh,25-34,Other,Email Campaign
+CUST02860,2026-05-24,Kochi,Kerala,35-44,Male,Social Media
+CUST02554,2026-05-07,Surat,Gujarat,45-54,Male,Referral
+CUST01261,2025-08-29,Lucknow,Uttar Pradesh,35-44,Female,Social Media
+CUST01672,2026-05-03,Pune,Maharashtra,55+,Female,Social Media
+CUST00068,2024-04-16,Surat,Gujarat,55+,Male,Organic Search
+CUST00704,2025-07-11,Ahmedabad,Gujarat,35-44,Male,Referral
+CUST02568,2025-02-25,Lucknow,Uttar Pradesh,35-44,Male,Organic Search
+CUST01170,2025-11-03,Pune,Maharashtra,18-24,Female,Referral
+CUST00845,2024-06-19,Chandigarh,Chandigarh,18-24,Female,Organic Search
+CUST02067,2026-01-18,Jaipur,Rajasthan,18-24,Female,Paid Ads
+CUST02723,2026-06-23,Kochi,Kerala,18-24,Female,Direct
+CUST00226,2026-02-12,Surat,Gujarat,35-44,Female,Email Campaign
+CUST02877,2025-01-17,Surat,Gujarat,45-54,Male,Social Media
+CUST01703,2026-04-11,Coimbatore,Tamil Nadu,35-44,Male,Organic Search
+CUST01911,2024-04-07,Chennai,Tamil Nadu,35-44,Other,Paid Ads
+CUST00373,2024-07-09,Kochi,Kerala,25-34,Male,Referral
+CUST01938,2024-07-13,Bengaluru,Karnataka,18-24,Female,Paid Ads
+CUST00445,2024-03-01,Surat,Gujarat,45-54,Male,Referral
+CUST02062,2026-01-05,Jaipur,Rajasthan,45-54,Female,Social Media
+CUST01180,2026-01-26,Surat,Gujarat,25-34,Female,Organic Search
+CUST00487,2026-03-05,Indore,Madhya Pradesh,18-24,Female,Social Media
+CUST00258,2026-01-14,Mumbai,Maharashtra,35-44,Female,Referral
+CUST01778,2024-10-14,Mumbai,Maharashtra,25-34,Female,Referral
+CUST00145,2025-05-21,Mumbai,Maharashtra,45-54,Male,Organic Search
+CUST02983,2024-01-07,Indore,Madhya Pradesh,55+,Male,Paid Ads
+CUST00306,2025-01-12,Mumbai,Maharashtra,45-54,Male,Email Campaign
+CUST01000,2025-01-28,Kochi,Kerala,55+,Male,Paid Ads
+CUST00536,2024-05-23,Kochi,Kerala,35-44,Female,Organic Search
+CUST02979,2025-05-17,Lucknow,Uttar Pradesh,25-34,Female,Organic Search
+CUST00118,2026-06-20,Indore,Madhya Pradesh,35-44,Male,Organic Search
+CUST01726,2024-02-11,Chennai,Tamil Nadu,25-34,Male,Social Media
+CUST01206,2024-06-15,Bengaluru,Karnataka,45-54,Male,Paid Ads
+CUST02515,2024-04-28,Kochi,Kerala,35-44,Male,Direct
+CUST02471,2024-05-20,Hyderabad,Telangana,45-54,Female,Social Media
+CUST02394,2026-02-12,Mumbai,Maharashtra,45-54,Male,Paid Ads
+CUST02506,2025-09-15,DELHI,Delhi,25-34,Male,Paid Ads
+CUST02461,2026-06-28,Chandigarh,Chandigarh,45-54,Female,Organic Search
+CUST01444,2024-05-30,Surat,Gujarat,35-44,Female,Email Campaign
+CUST01283,2025-04-02,Lucknow,Uttar Pradesh,18-24,Female,Social Media
+CUST02129,2024-02-16,Hyderabad,Telangana,25-34,Male,Referral
+CUST01457,2024-11-06,Hyderabad,Telangana,25-34,Female,Direct
+CUST00763,2026-02-15,Lucknow,Uttar Pradesh,55+,Male,Organic Search
+CUST01496,2025-05-31,Hyderabad,Telangana,45-54,Male,Paid Ads
+CUST01455,2024-06-16,Chennai,Tamil Nadu,45-54,Other,Social Media
+CUST02456,2025-01-23,Indore,Madhya Pradesh,35-44,Female,Referral
+CUST02719,2025-04-14,Lucknow,Uttar Pradesh,18-24,Male,Organic Search
+CUST02742,2024-05-14,Jaipur,Rajasthan,25-34,Female,Organic Search
+CUST00234,2025-02-10,Surat,Gujarat,55+,Female,Social Media
+CUST00359,2024-05-07,Chennai,Tamil Nadu,35-44,Male,Social Media
+CUST01978,2025-05-02,  coimbatore  ,Tamil Nadu,55+,Female,Email Campaign
+CUST00011,2024-08-21,Surat,Gujarat,35-44,Other,Email Campaign
+CUST02843,2025-08-01,Delhi,Delhi,18-24,Female,Organic Search
+CUST02355,2025-11-13,Mumbai,Maharashtra,25-34,Male,Organic Search
+CUST00338,2025-01-18,Delhi,Delhi,25-34,Male,Organic Search
+CUST00497,2024-09-05,Pune,Maharashtra,25-34,Male,Organic Search
+CUST00246,2025-01-11,Surat,Gujarat,25-34,Other,Social Media
+CUST01278,2025-03-31,Indore,Madhya Pradesh,18-24,Female,Organic Search
+CUST00851,2025-11-25,Indore,Madhya Pradesh,25-34,Female,Paid Ads
+CUST02230,2024-05-29,Ahmedabad,Gujarat,35-44,Male,Organic Search
+CUST02073,2024-06-28,Hyderabad,Telangana,18-24,Female,Referral
+CUST02357,2024-12-26,Lucknow,Uttar Pradesh,55+,Female,Social Media
+CUST01318,2025-01-27,Chandigarh,Chandigarh,25-34,Male,Referral
+CUST02560,2024-09-26,Kochi,Kerala,35-44,Female,Organic Search
+CUST00714,2025-05-19,Coimbatore,Tamil Nadu,25-34,Male,Organic Search
+CUST02476,2025-01-28,Lucknow,Uttar Pradesh,25-34,Female,Social Media
+CUST02523,2024-05-03,Bengaluru,Karnataka,25-34,Female,Paid Ads
+CUST02086,2024-06-14,Ahmedabad,Gujarat,18-24,Female,Organic Search
+CUST00516,2024-02-19,Surat,Gujarat,35-44,Male,Email Campaign
+CUST02184,2025-12-16,Jaipur,Rajasthan,55+,Male,Paid Ads
+CUST00307,2024-04-02,Indore,Madhya Pradesh,35-44,Female,Social Media
+CUST00994,2026-01-23,Pune,Maharashtra,18-24,Female,Organic Search
+CUST01909,2024-11-04,Pune,Maharashtra,35-44,Female,Direct
+CUST02585,2026-01-09,Jaipur,Rajasthan,35-44,Female,Organic Search
+CUST00805,2024-10-28,Lucknow,Uttar Pradesh,25-34,Male,Organic Search
+CUST00726,2025-08-04,Chandigarh,Chandigarh,18-24,Female,Email Campaign
+CUST02175,2024-05-16,Ahmedabad,Gujarat,45-54,Male,Social Media
+CUST01135,2026-01-18,Mumbai,Maharashtra,45-54,Male,Paid Ads
+CUST01422,2024-10-26,Jaipur,Rajasthan,25-34,Male,Paid Ads
+CUST00230,2026-06-16,Jaipur,Rajasthan,55+,Female,Email Campaign
+CUST00883,2025-12-04,Chennai,Tamil Nadu,25-34,Female,Direct
+CUST00735,2024-06-15,Hyderabad,Telangana,25-34,Female,Organic Search
+CUST00740,2024-02-24,Bengaluru,Karnataka,18-24,Male,Organic Search
+CUST00582,2025-08-29,Ahmedabad,Gujarat,25-34,Male,Organic Search
+CUST01069,2024-01-10,Chennai,Tamil Nadu,35-44,Female,Referral
+CUST02262,2024-01-08,Pune,Maharashtra,55+,Female,Referral
+CUST01960,2024-07-06,Kochi,Kerala,45-54,Male,Direct
+CUST01599,2025-04-06,Lucknow,Uttar Pradesh,45-54,Male,Paid Ads
+CUST01729,2024-08-08,Chennai,Tamil Nadu,18-24,Female,Organic Search
+CUST00199,2025-07-19,Kolkata,West Bengal,35-44,Male,Direct
+CUST02145,2025-03-12,Delhi,Delhi,25-34,Female,Direct
+CUST01970,2024-12-04,Indore,Madhya Pradesh,45-54,Male,Email Campaign
+CUST00255,2024-01-17,Kolkata,West Bengal,18-24,Male,Paid Ads
+CUST01289,2024-02-01,Indore,Madhya Pradesh,25-34,Female,Social Media
+CUST00313,2024-10-16,COIMBATORE,Tamil Nadu,25-34,Female,Paid Ads
+CUST02198,2024-10-02,Hyderabad,Telangana,18-24,Female,Organic Search
+CUST01913,2025-12-05,Coimbatore,Tamil Nadu,25-34,Female,Social Media
+CUST00056,2024-02-21,Mumbai,Maharashtra,35-44,Female,Email Campaign
+CUST00268,2025-04-30,Surat,Gujarat,18-24,Female,Organic Search
+CUST02013,2026-02-05,Chandigarh,Chandigarh,18-24,Female,Social Media
+CUST00059,2025-08-06,Coimbatore,Tamil Nadu,25-34,Female,Referral
+CUST00393,2025-09-11,Kochi,Kerala,25-34,Female,Organic Search
+CUST01016,2025-10-10,Pune,Maharashtra,35-44,Male,Paid Ads
+CUST00625,2024-09-13,Kolkata,West Bengal,18-24,Female,Referral
+CUST01452,2025-03-13,Indore,Madhya Pradesh,25-34,Male,Social Media
+CUST00353,2025-10-20,Indore,Madhya Pradesh,18-24,Female,Social Media
+CUST02915,2025-09-19,Kochi,Kerala,35-44,Male,Paid Ads
+CUST01382,2024-02-24,Chennai,Tamil Nadu,18-24,Female,Paid Ads
+CUST01600,2024-03-28,Ahmedabad,Gujarat,18-24,Male,Social Media
+CUST00334,2026-05-16,Kochi,Kerala,25-34,Male,Organic Search
+CUST01439,2024-12-18,Kolkata,West Bengal,18-24,Male,Direct
+CUST00966,2026-01-04,Lucknow,Uttar Pradesh,45-54,Female,Social Media
+CUST01905,2025-07-08,Hyderabad,Telangana,25-34,Male,Organic Search
+CUST02330,2024-10-30,Chandigarh,Chandigarh,35-44,Male,Email Campaign
+CUST02194,2025-01-15,Chandigarh,Chandigarh,35-44,Male,Organic Search
+CUST02869,2025-10-21,Surat,Gujarat,45-54,Female,Organic Search
+CUST00505,2025-04-22,Pune,Maharashtra,25-34,Male,Organic Search
+CUST02957,2026-06-16,Lucknow,Uttar Pradesh,35-44,Female,Organic Search
+CUST01650,2024-09-22,Lucknow,Uttar Pradesh,45-54,Male,Referral
+CUST02720,2026-01-11,Lucknow,Uttar Pradesh,35-44,Female,Social Media
+CUST02659,2024-03-24,Ahmedabad,Gujarat,45-54,Female,Social Media
+CUST01290,2025-12-29,Kolkata,West Bengal,25-34,Male,Referral
+CUST02081,2024-07-09,Kochi,Kerala,25-34,Male,Social Media
+CUST01863,2024-01-24,Lucknow,Uttar Pradesh,35-44,Male,Organic Search
+CUST02281,2024-05-25,Delhi,Delhi,25-34,Female,Organic Search
+CUST02253,2025-07-09,Bengaluru,Karnataka,25-34,Male,Paid Ads
+CUST00537,2024-12-20,Kochi,Kerala,18-24,Male,Email Campaign
+CUST00489,2024-11-24,Indore,Madhya Pradesh,25-34,Female,Direct
+CUST02171,2025-05-24,Jaipur,Rajasthan,25-34,Female,Referral
+CUST02128,2024-08-13,Indore,Madhya Pradesh,25-34,Male,Organic Search
+CUST02446,2024-09-26,Coimbatore,Tamil Nadu,35-44,Male,Social Media
+CUST02258,2025-08-18,Jaipur,Rajasthan,45-54,Female,Email Campaign
+CUST01350,2025-07-02,Lucknow,Uttar Pradesh,55+,Male,Paid Ads
+CUST02176,2026-05-19,Indore,Madhya Pradesh,45-54,Female,Social Media
+CUST00264,2025-12-19,Chandigarh,Chandigarh,18-24,Female,Email Campaign
+CUST02676,2025-03-25,Mumbai,Maharashtra,45-54,Male,Referral
+CUST01762,2024-06-14,Mumbai,Maharashtra,35-44,Female,Social Media
+CUST02974,2025-08-11,Chennai,Tamil Nadu,45-54,Male,Social Media
+CUST02438,2024-12-31,Kolkata,West Bengal,35-44,Female,Organic Search
+CUST01357,2024-09-01,Lucknow,Uttar Pradesh,25-34,Male,Referral
+CUST00941,2026-04-07,Kolkata,West Bengal,25-34,Male,Organic Search
+CUST02856,2026-06-10,Kolkata,West Bengal,25-34,Male,Organic Search
+CUST02319,2025-01-17,INDORE,Madhya Pradesh,55+,Male,Organic Search
+CUST00911,2024-02-10,  hyderabad  ,Telangana,35-44,Male,Email Campaign
+CUST00327,2024-02-14,Ahmedabad,Gujarat,25-34,Female,Organic Search
+CUST02779,2024-05-11,Kochi,Kerala,18-24,Male,Social Media
+CUST00547,2025-09-03,Delhi,Delhi,35-44,Male,Social Media
+CUST01386,2025-07-04,Mumbai,Maharashtra,18-24,Female,Social Media
+CUST01227,2024-08-26,Lucknow,Uttar Pradesh,35-44,Other,Organic Search
+CUST01761,2026-05-12,Kolkata,West Bengal,35-44,Female,Referral
+CUST02822,2026-01-03,Surat,Gujarat,25-34,Female,Organic Search
+CUST00663,2024-09-07,Mumbai,Maharashtra,18-24,Male,Email Campaign
+CUST00366,2025-10-16,Chennai,Tamil Nadu,55+,Female,Organic Search
+CUST00103,2025-09-17,Ahmedabad,Gujarat,45-54,Male,Social Media
+CUST01218,2025-08-15,Kochi,Kerala,25-34,Male,Paid Ads
+CUST00619,2024-11-26,Chennai,Tamil Nadu,45-54,Male,Referral
+CUST01697,2025-08-11,Bengaluru,Karnataka,18-24,Female,Paid Ads
+CUST01603,2024-08-28,Kolkata,West Bengal,25-34,Male,Referral
+CUST00093,2024-12-04,Surat,Gujarat,35-44,Female,Organic Search
+CUST01708,2026-05-02,Hyderabad,Telangana,35-44,Female,Direct
+CUST00831,2024-10-16,Delhi,Delhi,18-24,Male,Organic Search
+CUST02058,2024-05-09,Surat,Gujarat,18-24,Female,Organic Search
+CUST00100,2024-06-22,Kochi,Kerala,35-44,Male,Paid Ads
+CUST00323,2024-10-29,Delhi,Delhi,45-54,Male,Paid Ads
+CUST02967,2025-12-24,Chennai,Tamil Nadu,35-44,Male,Paid Ads
+CUST01064,2025-07-31,Coimbatore,Tamil Nadu,25-34,Female,Referral
+CUST01865,2025-02-04,Indore,Madhya Pradesh,55+,Male,Social Media
+CUST02300,2024-02-04,Coimbatore,Tamil Nadu,55+,Male,Social Media
+CUST00259,2025-10-20,Ahmedabad,Gujarat,55+,Male,Social Media
+CUST02315,2024-01-17,Surat,Gujarat,18-24,Male,Paid Ads
+CUST02309,2026-02-13,Surat,Gujarat,25-34,Female,Organic Search
+CUST02816,2026-03-18,Lucknow,Uttar Pradesh,25-34,Female,Organic Search
+CUST00555,2026-04-15,Pune,Maharashtra,45-54,Female,Referral
+CUST01400,2024-09-10,Hyderabad,Telangana,25-34,Female,Email Campaign
+CUST02213,2026-06-07,Jaipur,Rajasthan,55+,Female,Organic Search
+CUST01901,2024-01-29,Pune,Maharashtra,55+,Male,Organic Search
+CUST00598,2026-03-10,Bengaluru,Karnataka,25-34,Female,Paid Ads
+CUST02980,2024-08-08,Pune,Maharashtra,35-44,Male,Paid Ads
+CUST02278,2026-04-06,Chandigarh,Chandigarh,35-44,Female,Paid Ads
+CUST01446,2025-07-18,Surat,Gujarat,18-24,Male,Referral
+CUST01260,2025-01-27,Delhi,Delhi,18-24,Male,Organic Search
+CUST02759,2024-02-01,Coimbatore,Tamil Nadu,25-34,Male,Organic Search
+CUST02389,2024-11-16,Kochi,Kerala,25-34,Female,Social Media
+CUST00138,2025-11-08,Pune,Maharashtra,25-34,Female,Social Media
+CUST00507,2026-02-18,Ahmedabad,Gujarat,45-54,Female,Social Media
+CUST02713,2024-01-25,Indore,Madhya Pradesh,25-34,Male,Social Media
+CUST02332,2025-05-21,Delhi,Delhi,18-24,Male,Organic Search
+CUST02902,2025-04-13,Hyderabad,Telangana,45-54,Male,Paid Ads
+CUST01456,2025-02-28,Coimbatore,Tamil Nadu,18-24,Female,Organic Search
+CUST02322,2025-01-12,Chandigarh,Chandigarh,45-54,Female,Organic Search
+CUST01718,2024-05-13,Coimbatore,Tamil Nadu,25-34,Male,Social Media
+CUST02882,2025-04-20,Ahmedabad,Gujarat,55+,Female,Referral
+CUST01993,2025-08-09,Delhi,Delhi,25-34,Female,Direct
+CUST02236,2026-04-30,Bengaluru,Karnataka,18-24,Female,Social Media
+CUST00495,2024-11-03,Hyderabad,Telangana,45-54,Male,Social Media
+CUST01666,2025-06-24,Mumbai,Maharashtra,18-24,Female,Referral
+CUST02441,2024-02-22,Hyderabad,Telangana,35-44,Male,Organic Search
+CUST01037,2026-01-08,DELHI,Delhi,25-34,Male,Social Media
+CUST02870,2026-01-17,CHENNAI,Tamil Nadu,35-44,Male,Organic Search
+CUST02626,2025-09-21,Chandigarh,Chandigarh,18-24,Male,Email Campaign
+CUST01678,2025-05-30,Indore,Madhya Pradesh,18-24,Male,Social Media
+CUST02881,2024-08-16,Coimbatore,Tamil Nadu,18-24,Other,Organic Search
+CUST02469,2024-11-22,Chennai,Tamil Nadu,35-44,Female,Organic Search
+CUST01472,2025-06-10,Delhi,Delhi,18-24,Female,Paid Ads
+CUST02254,2025-03-23,Surat,Gujarat,35-44,Female,Direct
+CUST01359,2024-02-07,Mumbai,Maharashtra,25-34,Male,Paid Ads
+CUST01605,2025-05-31,Chennai,Tamil Nadu,35-44,Male,Social Media
+CUST01733,2025-04-16,SURAT,Gujarat,35-44,Female,Organic Search
+CUST01663,2026-01-24,Ahmedabad,Gujarat,35-44,Female,Direct
+CUST00008,2025-09-10,Kolkata,West Bengal,25-34,Male,Social Media
+CUST01354,2025-11-07,Pune,Maharashtra,18-24,Female,Email Campaign
+CUST00139,2025-03-06,Indore,Madhya Pradesh,45-54,Male,Direct
+CUST00720,2025-08-23,Pune,Maharashtra,18-24,Male,Organic Search
+CUST01038,2024-07-19,Pune,Maharashtra,18-24,Female,Organic Search
+CUST02183,2024-06-02,Pune,Maharashtra,35-44,Male,Organic Search
+CUST01214,2024-12-23,Surat,Gujarat,18-24,Female,Paid Ads
+CUST01093,2024-09-11,Delhi,Delhi,18-24,Male,Referral
+CUST00847,2025-11-25,Lucknow,Uttar Pradesh,25-34,Female,Paid Ads
+CUST00848,2024-01-30,Lucknow,Uttar Pradesh,45-54,Female,Paid Ads
+CUST00703,2026-03-24,Jaipur,Rajasthan,18-24,Male,Paid Ads
+CUST00821,2024-12-16,Bengaluru,Karnataka,55+,Female,Paid Ads
+CUST00675,2026-01-25,Indore,Madhya Pradesh,35-44,Male,Referral
+CUST01274,2024-08-01,Kolkata,West Bengal,45-54,Female,Paid Ads
+CUST00464,2025-04-27,Coimbatore,Tamil Nadu,35-44,Female,Paid Ads
+CUST00463,2026-02-04,Ahmedabad,Gujarat,55+,Male,Paid Ads
+CUST02465,2025-05-05,Pune,Maharashtra,35-44,Female,Organic Search
+CUST02160,2024-03-27,COIMBATORE,Tamil Nadu,45-54,Female,Organic Search
+CUST01710,2024-05-06,Kolkata,West Bengal,18-24,Female,Organic Search
+CUST01332,2024-02-04,Hyderabad,Telangana,18-24,Male,Direct
+CUST00727,2024-08-14,Lucknow,Uttar Pradesh,35-44,Male,Social Media
+CUST01798,2024-02-04,Mumbai,Maharashtra,25-34,Female,Paid Ads
+CUST02102,2024-01-19,Pune,Maharashtra,35-44,Male,Organic Search
+CUST01092,2025-12-08,Chandigarh,Chandigarh,25-34,Female,Social Media
+CUST02392,2025-09-21,  bengaluru  ,Karnataka,45-54,Female,Referral
+CUST02664,2024-09-27,  ahmedabad  ,Gujarat,18-24,Male,Social Media
+CUST01880,2024-10-31,Chandigarh,Chandigarh,25-34,Female,Email Campaign
+CUST01531,2024-03-08,Kochi,Kerala,45-54,Male,Organic Search
+CUST02010,2026-02-09,Kolkata,West Bengal,35-44,Female,Organic Search
+CUST02214,2025-04-10,Delhi,Delhi,25-34,Female,Organic Search
+CUST00429,2024-11-28,Jaipur,Rajasthan,55+,Male,Social Media
+CUST00616,2026-06-08,Mumbai,Maharashtra,35-44,Female,Paid Ads
+CUST00571,2025-06-15,Kochi,Kerala,35-44,Female,Organic Search
+CUST01484,2024-05-11,Hyderabad,Telangana,45-54,Male,Organic Search
+CUST02821,2026-02-24,Ahmedabad,Gujarat,25-34,Female,Organic Search
+CUST01052,2025-09-11,Chennai,Tamil Nadu,35-44,Male,Social Media
+CUST00051,2025-02-20,Bengaluru,Karnataka,25-34,Male,Social Media
+CUST00127,2025-03-07,Indore,Madhya Pradesh,25-34,Male,Organic Search
+CUST01537,2024-07-25,Pune,Maharashtra,25-34,Female,Paid Ads
+CUST02669,2026-04-29,Jaipur,Rajasthan,35-44,Male,Referral
+CUST00177,2024-11-26,Kochi,Kerala,35-44,Male,Organic Search
+CUST00213,2024-10-27,Mumbai,Maharashtra,25-34,Male,Organic Search
+CUST01428,2026-01-25,Ahmedabad,Gujarat,35-44,Male,Organic Search
+CUST02524,2026-01-30,Ahmedabad,Gujarat,18-24,Female,Email Campaign
+CUST00442,2025-04-28,Kochi,Kerala,18-24,Female,Organic Search
+CUST00358,2024-12-31,Chennai,Tamil Nadu,45-54,Male,Paid Ads
+CUST01910,2025-07-03,Kochi,Kerala,35-44,Female,Referral
+CUST01268,2026-05-31,Chandigarh,Chandigarh,45-54,Male,Organic Search
+CUST00761,2026-06-13,Ahmedabad,Gujarat,18-24,Female,Referral
+CUST00590,2025-06-07,Bengaluru,Karnataka,25-34,Female,Referral
+CUST00280,2026-02-03,Delhi,Delhi,25-34,Male,Social Media
+CUST01006,2026-03-09,Chennai,Tamil Nadu,25-34,Female,Social Media
+CUST00860,2024-11-19,Ahmedabad,Gujarat,18-24,Female,Paid Ads
+CUST00880,2024-05-21,Bengaluru,Karnataka,25-34,Female,Paid Ads
+CUST01951,2025-03-13,Indore,Madhya Pradesh,25-34,Male,Direct
+CUST00843,2024-04-26,Bengaluru,Karnataka,25-34,Other,Organic Search
+CUST01507,2024-06-21,KOCHI,Kerala,18-24,Other,Social Media
+CUST01505,2024-04-17,Surat,Gujarat,25-34,Female,Paid Ads
+CUST01486,2024-04-24,Chandigarh,Chandigarh,18-24,Female,Paid Ads
+CUST01580,2024-12-26,Delhi,Delhi,25-34,Female,Referral
+CUST00899,2025-04-04,Chennai,Tamil Nadu,18-24,Female,Organic Search
+CUST01827,2026-06-25,Chandigarh,Chandigarh,18-24,Female,Social Media
+CUST01286,2025-09-18,Mumbai,Maharashtra,55+,Male,Organic Search
+CUST01145,2025-07-26,Ahmedabad,Gujarat,18-24,Male,Referral
+CUST00488,2026-01-19,Indore,Madhya Pradesh,35-44,Female,Paid Ads
+CUST01415,2024-02-11,Lucknow,Uttar Pradesh,25-34,Male,Referral
+CUST01609,2024-11-16,Delhi,Delhi,18-24,Male,Email Campaign
+CUST01796,2026-03-24,Jaipur,Rajasthan,25-34,Male,Referral
+CUST02343,2024-12-07,Jaipur,Rajasthan,18-24,Male,Organic Search
+CUST01882,2025-11-05,Pune,Maharashtra,18-24,Female,Social Media
+CUST02221,2025-04-05,Jaipur,Rajasthan,25-34,Female,Paid Ads
+CUST02762,2024-06-12,Coimbatore,Tamil Nadu,25-34,Female,Organic Search
+CUST01598,2026-03-22,Pune,Maharashtra,18-24,Male,Organic Search
+CUST00853,2024-04-07,Lucknow,Uttar Pradesh,25-34,Female,Social Media
+CUST02231,2026-03-03,  lucknow  ,Uttar Pradesh,25-34,Female,Social Media
+CUST01627,2026-01-19,Kolkata,West Bengal,55+,Female,Paid Ads
+CUST01248,2026-03-05,Chennai,Tamil Nadu,25-34,Female,Organic Search
+CUST01432,2025-08-03,Chennai,Tamil Nadu,18-24,Female,Organic Search
+CUST02959,2026-01-23,Indore,Madhya Pradesh,45-54,Female,Social Media
+CUST00185,2024-04-28,Kolkata,West Bengal,55+,Male,Referral
+CUST01074,2024-10-18,Chennai,Tamil Nadu,35-44,Female,Organic Search
+CUST00187,2025-01-05,Jaipur,Rajasthan,35-44,Female,Social Media
+CUST02800,2024-03-26,  ahmedabad  ,Gujarat,25-34,Male,Referral
+CUST00926,2026-02-22,Chennai,Tamil Nadu,45-54,Male,Paid Ads
+CUST01570,2026-05-11,Mumbai,Maharashtra,35-44,Female,Organic Search
+CUST00474,2024-03-11,Mumbai,Maharashtra,55+,Male,Social Media
+CUST00918,2026-06-18,Kochi,Kerala,55+,Female,Referral
+CUST00504,2025-02-10,Hyderabad,Telangana,45-54,Female,Paid Ads
+CUST00552,2024-09-09,Chennai,Tamil Nadu,35-44,Female,Referral
+CUST01954,2024-12-18,Chandigarh,Chandigarh,45-54,Male,Organic Search
+CUST00402,2024-09-30,Delhi,Delhi,25-34,Male,Organic Search
+CUST00092,2026-01-29,Kochi,Kerala,35-44,Male,Social Media
+CUST02650,2026-01-09,Lucknow,Uttar Pradesh,55+,Female,Direct
+CUST01129,2025-07-20,Coimbatore,Tamil Nadu,25-34,Female,Referral
+CUST01156,2026-02-07,Jaipur,Rajasthan,25-34,Female,Paid Ads
+CUST01125,2025-01-03,Chennai,Tamil Nadu,55+,Male,Social Media
+CUST02705,2024-04-28,Surat,Gujarat,35-44,Female,Social Media
+CUST02745,2025-02-22,Jaipur,Rajasthan,25-34,Male,Email Campaign
+CUST00652,2026-01-17,Pune,Maharashtra,55+,Male,Organic Search
+CUST00846,2024-06-12,Indore,Madhya Pradesh,18-24,Female,Social Media
+CUST01808,2025-03-31,Lucknow,Uttar Pradesh,18-24,Male,Organic Search
+CUST02047,2025-01-23,Pune,Maharashtra,18-24,Female,Organic Search
+CUST00767,2025-12-11,Surat,Gujarat,25-34,Male,Email Campaign
+CUST01879,2026-06-21,Surat,Gujarat,45-54,Male,Email Campaign
+CUST02527,2024-09-04,Jaipur,Rajasthan,35-44,Male,Email Campaign
+CUST02430,2024-04-20,Kolkata,West Bengal,35-44,Male,Direct
+CUST02649,2026-05-18,Surat,Gujarat,45-54,Female,Organic Search
+CUST00375,2025-12-11,Chennai,Tamil Nadu,45-54,Female,Organic Search
+CUST00637,2025-03-15,Kolkata,West Bengal,25-34,Male,Organic Search
+CUST02345,2024-06-29,Pune,Maharashtra,35-44,Female,Social Media
+CUST01736,2025-03-29,Surat,Gujarat,35-44,Female,Email Campaign
+CUST01549,2024-09-03,Bengaluru,Karnataka,18-24,Female,Social Media
+CUST01249,2025-11-23,Jaipur,Rajasthan,55+,Male,Organic Search
+CUST00645,2025-04-27,Chandigarh,Chandigarh,55+,Female,Organic Search
+CUST01091,2025-02-09,Delhi,Delhi,35-44,Male,Organic Search
+CUST02702,2026-04-06,  chandigarh  ,Chandigarh,18-24,Male,Referral
+CUST00302,2025-11-28,Ahmedabad,Gujarat,45-54,Female,Referral
+CUST00420,2025-01-12,Mumbai,Maharashtra,25-34,Male,Social Media
+CUST01567,2024-11-20,Delhi,Delhi,25-34,Male,Organic Search
+CUST02839,2025-03-13,Pune,Maharashtra,25-34,Female,Organic Search
+CUST00519,2025-11-06,Ahmedabad,Gujarat,25-34,Male,Referral
+CUST01976,2026-01-23,Chandigarh,Chandigarh,25-34,Male,Referral
+CUST00589,2024-04-30,Kolkata,West Bengal,25-34,Male,Social Media
+CUST02942,2024-01-27,  coimbatore  ,Tamil Nadu,25-34,Male,Referral
+CUST00031,2025-06-27,COIMBATORE,Tamil Nadu,45-54,Female,Social Media
+CUST01004,2025-06-12,Jaipur,Rajasthan,35-44,Female,Paid Ads
+CUST00346,2026-01-05,Hyderabad,Telangana,18-24,Male,Referral
+CUST01057,2026-02-28,Mumbai,Maharashtra,25-34,Female,Organic Search
+CUST02837,2025-01-05,Ahmedabad,Gujarat,25-34,Female,Paid Ads
+CUST02908,2025-07-06,Kolkata,West Bengal,25-34,Female,Referral
+CUST02744,2024-06-11,Indore,Madhya Pradesh,35-44,Other,Direct
+CUST02975,2025-03-22,Lucknow,Uttar Pradesh,18-24,Other,Organic Search
+CUST02544,2025-07-06,Coimbatore,Tamil Nadu,25-34,Male,Social Media
+CUST00369,2024-03-09,Bengaluru,Karnataka,25-34,Female,Social Media
+CUST00981,2026-04-27,Jaipur,Rajasthan,18-24,Female,Paid Ads
+CUST01842,2026-05-12,Bengaluru,Karnataka,25-34,Female,Organic Search
+CUST02397,2024-04-09,Lucknow,Uttar Pradesh,45-54,Female,Paid Ads
+CUST02276,2025-10-11,Ahmedabad,Gujarat,35-44,Male,Organic Search
+CUST02012,2025-12-13,Ahmedabad,Gujarat,25-34,Female,Organic Search
+CUST02166,2026-03-26,KOCHI,Kerala,35-44,Male,Organic Search
+CUST00538,2025-09-11,Kolkata,West Bengal,35-44,Female,Social Media
+CUST00688,2025-12-29,Delhi,Delhi,25-34,Male,Referral
+CUST00924,2025-08-22,Kochi,Kerala,18-24,Female,Social Media
+CUST00906,2026-03-16,Delhi,Delhi,25-34,Male,Referral
+CUST01376,2024-05-09,Kochi,Kerala,25-34,Female,Referral
+CUST00126,2024-11-30,Ahmedabad,Gujarat,25-34,Female,Organic Search
+CUST00169,2025-08-31,Kochi,Kerala,25-34,Male,Social Media
+CUST02920,2024-06-04,Surat,Gujarat,25-34,Male,Organic Search
+CUST02518,2025-08-06,Hyderabad,Telangana,45-54,Other,Email Campaign
+CUST02259,2024-08-16,Hyderabad,Telangana,35-44,Female,Organic Search
+CUST02660,2025-10-19,Surat,Gujarat,55+,Female,Paid Ads
+CUST00460,2025-02-19,Bengaluru,Karnataka,35-44,Female,Email Campaign
+CUST00734,2025-05-05,Indore,Madhya Pradesh,35-44,Female,Paid Ads
+CUST02966,2025-10-04,Pune,Maharashtra,35-44,Female,Social Media
+CUST00783,2025-08-08,Indore,Madhya Pradesh,35-44,Male,Organic Search
+CUST00174,2026-02-05,Lucknow,Uttar Pradesh,45-54,Female,Social Media
+CUST00395,2025-10-28,Chennai,Tamil Nadu,25-34,Female,Referral
+CUST00752,2025-01-31,Indore,Madhya Pradesh,45-54,Male,Referral
+CUST00902,2025-04-22,Kolkata,West Bengal,35-44,Male,Organic Search
+CUST00344,2025-03-05,Hyderabad,Telangana,35-44,Female,Organic Search
+CUST01620,2024-08-05,Lucknow,Uttar Pradesh,35-44,Other,Referral
+CUST02929,2025-11-11,Indore,Madhya Pradesh,25-34,Female,Social Media
+CUST01903,2025-11-11,Indore,Madhya Pradesh,18-24,Male,Social Media
+CUST01193,2024-09-08,Coimbatore,Tamil Nadu,25-34,Male,Paid Ads
+CUST00522,2024-07-02,Coimbatore,Tamil Nadu,18-24,Male,Organic Search
+CUST01787,2025-03-18,Kolkata,West Bengal,45-54,Male,Organic Search
+CUST02786,2024-12-16,Delhi,Delhi,25-34,Male,Organic Search
+CUST02164,2025-12-29,Chandigarh,Chandigarh,35-44,Female,Email Campaign
+CUST01746,2024-06-21,Jaipur,Rajasthan,25-34,Male,Paid Ads
+CUST01396,2024-06-09,Lucknow,Uttar Pradesh,35-44,Female,Referral
+CUST01325,2025-06-28,Coimbatore,Tamil Nadu,35-44,Female,Social Media
+CUST02534,2024-06-29,Ahmedabad,Gujarat,25-34,Female,Direct
+CUST01368,2025-02-15,Surat,Gujarat,25-34,Other,Referral
+CUST02727,2026-03-07,Kochi,Kerala,18-24,Female,Organic Search
+CUST02485,2025-04-23,Pune,Maharashtra,35-44,Female,Organic Search
+CUST00548,2025-02-27,Chennai,Tamil Nadu,25-34,Male,Email Campaign
+CUST02113,2025-10-06,Bengaluru,Karnataka,35-44,Male,Referral
+CUST00096,2025-11-24,Pune,Maharashtra,35-44,Male,Referral
+CUST02817,2025-04-28,Chennai,Tamil Nadu,55+,Female,Social Media
+CUST00607,2024-12-25,Lucknow,Uttar Pradesh,25-34,Female,Organic Search
+CUST02305,2024-12-02,Kochi,Kerala,25-34,Female,Social Media
+CUST02260,2025-04-25,Indore,Madhya Pradesh,55+,Male,Paid Ads
+CUST00153,2026-01-08,Delhi,Delhi,18-24,Male,Referral
+CUST02359,2026-05-05,Chennai,Tamil Nadu,25-34,Female,Paid Ads
+CUST00919,2026-02-03,Delhi,Delhi,35-44,Male,Paid Ads
+CUST02165,2026-03-07,Bengaluru,Karnataka,35-44,Male,Social Media
+CUST02814,2026-02-23,Hyderabad,Telangana,25-34,Male,Organic Search
+CUST00655,2025-12-19,  bengaluru  ,Karnataka,18-24,Female,Social Media
+CUST01217,2025-09-01,Kochi,Kerala,35-44,Female,Direct
+CUST00904,2024-11-04,  surat  ,Gujarat,25-34,Female,Social Media
+CUST00646,2024-01-15,Delhi,Delhi,25-34,Male,Organic Search
+CUST00623,2024-07-26,Pune,Maharashtra,55+,Female,Email Campaign
+CUST00687,2025-09-09,Kochi,Kerala,18-24,Female,Social Media
+CUST01637,2025-09-20,  kolkata  ,West Bengal,18-24,Female,Organic Search
+CUST00901,2024-09-27,Jaipur,Rajasthan,18-24,Female,Organic Search
+CUST01551,2026-05-16,Hyderabad,Telangana,25-34,Female,Referral
+CUST01297,2025-03-10,Jaipur,Rajasthan,35-44,Male,Social Media
+CUST02421,2025-09-12,Ahmedabad,Gujarat,35-44,Female,Email Campaign
+CUST00249,2024-02-21,Mumbai,Maharashtra,35-44,Male,Organic Search
+CUST00936,2025-07-16,Coimbatore,Tamil Nadu,25-34,Female,Social Media
+CUST01351,2024-02-26,Pune,Maharashtra,35-44,Female,Organic Search
+CUST00823,2024-08-04,Bengaluru,Karnataka,35-44,Female,Organic Search
+CUST00554,2025-09-27,Indore,Madhya Pradesh,25-34,Female,Social Media
+CUST00604,2026-03-05,  delhi  ,Delhi,45-54,Male,Paid Ads
+CUST01165,2024-09-10,Mumbai,Maharashtra,45-54,Male,Social Media
+CUST02022,2024-05-02,Mumbai,Maharashtra,18-24,Male,Referral
+CUST00283,2025-11-21,Mumbai,Maharashtra,18-24,Male,Social Media
+CUST02065,2025-08-12,Bengaluru,Karnataka,18-24,Female,Referral
+CUST00791,2025-01-18,Indore,Madhya Pradesh,35-44,Female,Social Media
+CUST02125,2025-02-14,Pune,Maharashtra,35-44,Male,Organic Search
+CUST00301,2025-10-05,Chandigarh,Chandigarh,25-34,Female,Paid Ads
+CUST01187,2024-07-26,Surat,Gujarat,35-44,Male,Email Campaign
+CUST02964,2026-05-28,MUMBAI,Maharashtra,35-44,Female,Social Media
+CUST01226,2026-01-16,Jaipur,Rajasthan,35-44,Female,Organic Search
+CUST01927,2024-07-28,Bengaluru,Karnataka,18-24,Male,Referral
+CUST01659,2024-06-19,Delhi,Delhi,45-54,Female,Social Media
+CUST02169,2025-12-11,Ahmedabad,Gujarat,55+,Female,Referral
+CUST00377,2026-04-09,Delhi,Delhi,35-44,Female,Social Media
+CUST01628,2024-08-04,Bengaluru,Karnataka,45-54,Female,Social Media
+CUST00352,2026-02-13,Kochi,Kerala,25-34,Male,Referral
+CUST01166,2024-06-09,Kochi,Kerala,18-24,Female,Social Media
+CUST01862,2025-02-17,Chandigarh,Chandigarh,35-44,Female,Social Media
+CUST02606,2024-04-26,  indore  ,Madhya Pradesh,18-24,Male,Organic Search
+CUST02063,2024-03-30,Indore,Madhya Pradesh,55+,Male,Social Media
+CUST01014,2024-09-06,Chandigarh,Chandigarh,35-44,Other,Social Media
+CUST01188,2026-06-06,Ahmedabad,Gujarat,35-44,Female,Email Campaign
+CUST00779,2025-10-12,Pune,Maharashtra,45-54,Female,Organic Search
+CUST02730,2026-03-20,Lucknow,Uttar Pradesh,55+,Male,Organic Search
+CUST00977,2024-04-21,Bengaluru,Karnataka,18-24,Female,Email Campaign
+CUST01133,2026-03-22,Kolkata,West Bengal,25-34,Female,Email Campaign
+CUST02100,2026-05-25,Hyderabad,Telangana,35-44,Female,Organic Search
+CUST00448,2025-02-10,Indore,Madhya Pradesh,35-44,Male,Paid Ads
+CUST01577,2026-06-06,Chennai,Tamil Nadu,18-24,Female,Social Media
+CUST01933,2025-03-19,Kochi,Kerala,35-44,Female,Paid Ads
+CUST00861,2025-02-17,Delhi,Delhi,25-34,Female,Organic Search
+CUST02490,2026-05-06,Kolkata,West Bengal,25-34,Male,Social Media
+CUST01465,2025-12-05,Coimbatore,Tamil Nadu,35-44,Male,Paid Ads
+CUST01785,2024-09-15,Lucknow,Uttar Pradesh,35-44,Female,Organic Search
+CUST01001,2025-12-29,Chennai,Tamil Nadu,55+,Male,Paid Ads
+CUST00075,2025-07-12,Bengaluru,Karnataka,18-24,Male,Referral
+CUST00692,2026-03-10,Indore,Madhya Pradesh,55+,Male,Paid Ads
+CUST01852,2025-07-10,Kochi,Kerala,45-54,Male,Social Media
+CUST01753,2025-02-21,Mumbai,Maharashtra,35-44,Female,Organic Search
+CUST02572,2025-10-13,Kolkata,West Bengal,45-54,Male,Social Media
+CUST00335,2024-10-06,Bengaluru,Karnataka,25-34,Female,Email Campaign
+CUST00927,2025-04-30,Mumbai,Maharashtra,18-24,Male,Paid Ads
+CUST02818,2024-12-07,Chennai,Tamil Nadu,35-44,Female,Social Media
+CUST01988,2026-06-11,Kolkata,West Bengal,25-34,Female,Email Campaign
+CUST00295,2024-04-18,Indore,Madhya Pradesh,25-34,Female,Referral
+CUST00597,2024-08-13,Chandigarh,Chandigarh,25-34,Male,Referral
+CUST02108,2025-09-13,Coimbatore,Tamil Nadu,18-24,Male,Direct
+CUST01036,2025-08-08,  bengaluru  ,Karnataka,18-24,Female,Organic Search
+CUST02884,2024-09-20,Ahmedabad,Gujarat,18-24,Female,Social Media
+CUST02729,2026-03-11,Mumbai,Maharashtra,25-34,Male,Organic Search
+CUST02412,2024-05-31,Pune,Maharashtra,18-24,Male,Referral
+CUST02802,2024-04-24,Coimbatore,Tamil Nadu,35-44,Male,Referral
+CUST01640,2024-10-24,Delhi,Delhi,25-34,Male,Paid Ads
+CUST00840,2024-04-07,Delhi,Delhi,45-54,Female,Organic Search
+CUST01717,2025-03-11,Kochi,Kerala,45-54,Male,Organic Search
+CUST00672,2025-07-13,Kochi,Kerala,35-44,Male,Organic Search
+CUST02780,2024-08-21,Surat,Gujarat,18-24,Male,Social Media
+CUST01313,2024-10-08,Chennai,Tamil Nadu,45-54,Male,Organic Search
+CUST01573,2024-08-30,INDORE,Madhya Pradesh,45-54,Male,Email Campaign
+CUST02668,2026-03-26,Surat,Gujarat,25-34,Male,Direct
+CUST01299,2025-12-30,Hyderabad,Telangana,25-34,Male,Referral
+CUST01337,2025-04-09,Surat,Gujarat,45-54,Male,Social Media
+CUST01356,2024-07-13,Kochi,Kerala,18-24,Male,Paid Ads
+CUST00085,2024-01-25,Hyderabad,Telangana,35-44,Male,Organic Search
+CUST02130,2024-10-11,Coimbatore,Tamil Nadu,45-54,Male,Paid Ads
+CUST02687,2024-04-02,Pune,Maharashtra,35-44,Male,Referral
+CUST00438,2025-11-02,Ahmedabad,Gujarat,25-34,Male,Organic Search
+CUST02414,2025-03-31,Lucknow,Uttar Pradesh,18-24,Female,Direct
+CUST02264,2025-02-28,Coimbatore,Tamil Nadu,35-44,Male,Email Campaign
+CUST01126,2024-02-05,Kochi,Kerala,55+,Female,Referral
+CUST02984,2024-05-02,Lucknow,Uttar Pradesh,35-44,Male,Organic Search
+CUST00406,2025-05-24,Chennai,Tamil Nadu,18-24,Female,Referral
+CUST01154,2024-12-17,Mumbai,Maharashtra,35-44,Male,Social Media
+CUST01691,2025-10-06,Kolkata,West Bengal,35-44,Male,Paid Ads
+CUST00196,2026-05-24,Chandigarh,Chandigarh,25-34,Female,Referral
+CUST02462,2024-01-16,Chandigarh,Chandigarh,45-54,Male,Organic Search
+CUST01147,2026-03-06,Chennai,Tamil Nadu,25-34,Female,Referral
+CUST00198,2025-05-16,Surat,Gujarat,45-54,Male,Social Media
+CUST02460,2024-08-25,Hyderabad,Telangana,18-24,Male,Social Media
+CUST01555,2024-05-19,Chennai,Tamil Nadu,18-24,Female,Organic Search
+CUST00476,2025-01-18,Pune,Maharashtra,55+,Male,Email Campaign
+CUST02970,2025-12-20,Indore,Madhya Pradesh,25-34,Female,Organic Search
+CUST01201,2024-09-13,Delhi,Delhi,25-34,Female,Paid Ads
+CUST00337,2024-02-24,Pune,Maharashtra,25-34,Male,Social Media
+CUST01568,2026-06-19,Chennai,Tamil Nadu,35-44,Male,Social Media
+CUST02282,2026-05-14,Ahmedabad,Gujarat,25-34,Female,Social Media
+CUST00510,2024-07-19,Bengaluru,Karnataka,25-34,Male,Email Campaign
+CUST01279,2025-12-02,Delhi,Delhi,45-54,Female,Social Media
+CUST01473,2026-02-09,Lucknow,Uttar Pradesh,18-24,Male,Social Media
+CUST02590,2024-10-25,Pune,Maharashtra,25-34,Male,Social Media
+CUST00109,2025-09-01,Jaipur,Rajasthan,25-34,Female,Social Media
+CUST02338,2025-03-09,Chennai,Tamil Nadu,18-24,Male,Email Campaign
+CUST00216,2024-05-26,Lucknow,Uttar Pradesh,25-34,Female,Social Media
+CUST02293,2025-04-23,Chennai,Tamil Nadu,35-44,Female,Referral
+CUST02272,2025-10-04,Chandigarh,Chandigarh,45-54,Female,Organic Search
+CUST00091,2025-03-22,Kochi,Kerala,18-24,Female,Referral
+CUST00596,2025-03-30,Indore,Madhya Pradesh,25-34,Male,Organic Search
+CUST01137,2026-06-07,Coimbatore,Tamil Nadu,18-24,Female,Paid Ads
+CUST02756,2025-10-31,Chandigarh,Chandigarh,25-34,Female,Organic Search
+CUST02559,2025-07-25,Ahmedabad,Gujarat,35-44,Female,Organic Search
+CUST01083,2026-05-11,Hyderabad,Telangana,25-34,Male,Organic Search
+CUST02924,2026-02-11,Coimbatore,Tamil Nadu,45-54,Male,Organic Search
+CUST02298,2025-09-29,Kolkata,West Bengal,18-24,Male,Organic Search
+CUST00380,2025-01-05,Chandigarh,Chandigarh,25-34,Male,Organic Search
+CUST01089,2024-02-23,Coimbatore,Tamil Nadu,45-54,Male,Organic Search
+CUST02038,2025-07-05,Lucknow,Uttar Pradesh,25-34,Female,Paid Ads
+CUST02682,2025-12-15,Lucknow,Uttar Pradesh,55+,Male,Direct
+CUST01730,2024-12-23,Jaipur,Rajasthan,18-24,Male,Social Media
+CUST01899,2025-09-04,Mumbai,Maharashtra,18-24,Female,Paid Ads
+CUST02880,2026-01-09,Lucknow,Uttar Pradesh,25-34,Male,Organic Search
+CUST01271,2026-01-01,Indore,Madhya Pradesh,35-44,Male,Referral
+CUST00696,2024-12-05,CHANDIGARH,Chandigarh,18-24,Female,Organic Search
+CUST02909,2024-06-11,Kolkata,West Bengal,18-24,Male,Referral
+CUST00316,2025-09-09,Coimbatore,Tamil Nadu,45-54,Male,Referral
+CUST02503,2026-03-18,Lucknow,Uttar Pradesh,25-34,Other,Email Campaign
+CUST02712,2025-01-13,Surat,Gujarat,25-34,Male,Social Media
+CUST02939,2026-04-14,Pune,Maharashtra,25-34,Female,Social Media
+CUST02537,2025-01-28,Kolkata,West Bengal,25-34,Male,Organic Search
+CUST02098,2024-09-10,Kochi,Kerala,35-44,Male,Social Media
+CUST00297,2024-03-19,Bengaluru,Karnataka,25-34,Male,Referral
+CUST00052,2024-06-17,Mumbai,Maharashtra,25-34,Other,Organic Search
+CUST00834,2025-12-05,Hyderabad,Telangana,55+,Male,Organic Search
+CUST02172,2025-01-28,HYDERABAD,Telangana,18-24,Female,Referral
+CUST02287,2024-12-21,  kolkata  ,West Bengal,25-34,Female,Referral
+CUST00394,2024-01-30,Indore,Madhya Pradesh,18-24,Female,Paid Ads
+CUST00453,2026-01-05,Chennai,Tamil Nadu,18-24,Female,Paid Ads
+CUST01716,2024-07-16,Lucknow,Uttar Pradesh,45-54,Male,Organic Search
+CUST02752,2024-07-12,Pune,Maharashtra,35-44,Female,Organic Search
+CUST01777,2026-01-05,  chandigarh  ,Chandigarh,25-34,Other,Direct
+CUST02701,2024-12-20,Delhi,Delhi,35-44,Male,Email Campaign
+CUST02178,2024-08-03,Hyderabad,Telangana,45-54,Male,Organic Search
+CUST01265,2025-04-11,Delhi,Delhi,25-34,Female,Paid Ads
+CUST01981,2025-05-24,Bengaluru,Karnataka,35-44,Male,Paid Ads
+CUST02750,2025-06-29,Mumbai,Maharashtra,45-54,Female,Paid Ads
+CUST02783,2024-06-08,Surat,Gujarat,35-44,Female,Referral
+CUST01399,2025-04-18,Indore,Madhya Pradesh,25-34,Female,Paid Ads
+CUST00158,2024-10-26,Jaipur,Rajasthan,35-44,Male,Email Campaign
+CUST02504,2025-04-26,Kolkata,West Bengal,55+,Male,Organic Search
+CUST00076,2024-05-10,Pune,Maharashtra,18-24,Male,Direct
+CUST01713,2025-11-12,Surat,Gujarat,25-34,Female,Social Media
+CUST02996,2025-07-30,Lucknow,Uttar Pradesh,25-34,Male,Organic Search
+CUST02390,2025-03-13,Kolkata,West Bengal,25-34,Other,Social Media
+CUST00208,2025-06-30,Indore,Madhya Pradesh,25-34,Male,Paid Ads
+CUST01584,2025-06-12,Hyderabad,Telangana,35-44,Female,Referral
+CUST00193,2025-12-23,Jaipur,Rajasthan,25-34,Female,Direct
+CUST00062,2025-10-22,Surat,Gujarat,25-34,Male,Paid Ads
+CUST01002,2025-10-17,Bengaluru,Karnataka,25-34,Male,Email Campaign
+CUST00308,2026-03-21,Jaipur,Rajasthan,35-44,Male,Email Campaign
+CUST00024,2025-01-25,Pune,Maharashtra,35-44,Male,Organic Search
+CUST01810,2024-11-14,Kolkata,West Bengal,35-44,Female,Organic Search
+CUST00467,2024-03-04,Delhi,Delhi,45-54,Female,Organic Search
+CUST00391,2025-10-02,Bengaluru,Karnataka,25-34,Female,Referral
+CUST00664,2026-05-28,Bengaluru,Karnataka,18-24,Female,Paid Ads
+CUST00580,2024-08-25,Ahmedabad,Gujarat,35-44,Female,Organic Search
+CUST00064,2025-07-04,Delhi,Delhi,25-34,Male,Direct
+CUST01312,2024-03-19,Jaipur,Rajasthan,45-54,Male,Organic Search
+CUST02540,2024-05-01,Bengaluru,Karnataka,25-34,Female,Organic Search
+CUST00102,2024-08-18,Chennai,Tamil Nadu,45-54,Male,Organic Search
+CUST01984,2025-12-17,Surat,Gujarat,18-24,Male,Paid Ads
+CUST00557,2025-02-11,Bengaluru,Karnataka,55+,Male,Paid Ads
+CUST01854,2026-02-14,Lucknow,Uttar Pradesh,35-44,Male,Referral
+CUST02597,2024-09-12,Lucknow,Uttar Pradesh,18-24,Male,Email Campaign
+CUST01671,2025-04-24,Surat,Gujarat,18-24,Male,Paid Ads
+CUST01968,2025-11-29,Kolkata,West Bengal,45-54,Other,Paid Ads
+CUST00042,2025-05-12,Surat,Gujarat,25-34,Male,Direct
+CUST01327,2024-09-18,  delhi  ,Delhi,35-44,Male,Paid Ads
+CUST00665,2025-03-05,Surat,Gujarat,25-34,Male,Email Campaign
+CUST00980,2024-04-30,Chandigarh,Chandigarh,18-24,Female,Email Campaign
+CUST01654,2025-12-07,Surat,Gujarat,35-44,Female,Organic Search
+CUST02692,2024-10-16,Kolkata,West Bengal,45-54,Female,Social Media
+CUST00841,2025-11-10,Bengaluru,Karnataka,35-44,Male,Email Campaign
+CUST01820,2024-12-05,Indore,Madhya Pradesh,45-54,Male,Social Media
+CUST01906,2024-12-31,Delhi,Delhi,25-34,Male,Paid Ads
+CUST01601,2025-02-11,Kochi,Kerala,35-44,Female,Paid Ads
+CUST00630,2024-05-15,Kochi,Kerala,25-34,Male,Organic Search
+CUST02385,2024-11-26,Coimbatore,Tamil Nadu,45-54,Male,Paid Ads
+CUST01819,2025-04-22,Hyderabad,Telangana,35-44,Male,Paid Ads
+CUST02193,2025-10-30,  kolkata  ,West Bengal,35-44,Female,Organic Search
+CUST01548,2026-01-14,Lucknow,Uttar Pradesh,35-44,Female,Social Media
+CUST00869,2026-04-21,Bengaluru,Karnataka,35-44,Female,Organic Search
+CUST00266,2024-12-13,Pune,Maharashtra,45-54,Male,Paid Ads
+CUST00310,2025-04-06,Mumbai,Maharashtra,18-24,Female,Social Media
+CUST02998,2026-06-12,Delhi,Delhi,35-44,Male,Social Media
+CUST02536,2025-06-21,Coimbatore,Tamil Nadu,35-44,Female,Social Media
+CUST02589,2024-07-26,Ahmedabad,Gujarat,18-24,Other,Referral
+CUST02363,2025-06-14,Kolkata,West Bengal,35-44,Female,Email Campaign
+CUST00669,2024-12-01,Chennai,Tamil Nadu,18-24,Male,Social Media
+CUST01364,2025-10-09,Bengaluru,Karnataka,18-24,Male,Paid Ads
+CUST02717,2024-10-08,Pune,Maharashtra,25-34,Male,Referral
+CUST01323,2025-03-21,Indore,Madhya Pradesh,18-24,Female,Social Media
+CUST01829,2025-09-30,Chandigarh,Chandigarh,45-54,Female,Organic Search
+CUST00038,2025-01-17,Surat,Gujarat,25-34,Female,Organic Search
+CUST02384,2024-11-05,Coimbatore,Tamil Nadu,35-44,Male,Social Media
+CUST02222,2025-10-21,Lucknow,Uttar Pradesh,18-24,Female,Paid Ads
+CUST00787,2026-04-04,Lucknow,Uttar Pradesh,55+,Female,Paid Ads
+CUST00265,2026-01-08,Jaipur,Rajasthan,45-54,Male,Email Campaign
+CUST01502,2026-05-11,Surat,Gujarat,25-34,Female,Social Media
+CUST00775,2024-11-14,Delhi,Delhi,35-44,Male,Paid Ads
+CUST02657,2024-07-05,Delhi,Delhi,35-44,Male,Referral
+CUST00948,2025-08-18,Indore,Madhya Pradesh,35-44,Female,Organic Search
+CUST01888,2024-01-28,Ahmedabad,Gujarat,18-24,Female,Paid Ads
+CUST02969,2024-12-31,Jaipur,Rajasthan,18-24,Female,Social Media
+CUST02904,2026-06-06,Delhi,Delhi,55+,Male,Paid Ads
+CUST01041,2024-09-13,Chennai,Tamil Nadu,35-44,Female,Social Media
+CUST01824,2024-08-12,Bengaluru,Karnataka,45-54,Female,Social Media
+CUST02239,2025-12-10,  kolkata  ,West Bengal,35-44,Female,Referral
+CUST01276,2025-11-16,Surat,Gujarat,18-24,Female,Referral
+CUST01302,2025-06-23,Kochi,Kerala,55+,Other,Paid Ads
+CUST01151,2024-02-15,Ahmedabad,Gujarat,45-54,Male,Paid Ads
+CUST00473,2024-02-16,Delhi,Delhi,25-34,Female,Referral
+CUST02117,2024-05-10,Mumbai,Maharashtra,18-24,Female,Organic Search
+CUST02563,2025-02-05,Surat,Gujarat,35-44,Female,Social Media
+CUST01700,2024-12-18,  coimbatore  ,Tamil Nadu,18-24,Male,Referral
+CUST02304,2026-03-09,Bengaluru,Karnataka,25-34,Male,Paid Ads
+CUST02328,2025-06-18,Delhi,Delhi,25-34,Female,Paid Ads
+CUST01916,2024-01-22,Hyderabad,Telangana,35-44,Female,Social Media
+CUST01118,2025-07-25,Kochi,Kerala,25-34,Male,Referral
+CUST00469,2024-07-29,Surat,Gujarat,35-44,Female,Email Campaign
+CUST00282,2024-03-27,Lucknow,Uttar Pradesh,45-54,Male,Paid Ads
+CUST02337,2025-09-27,Indore,Madhya Pradesh,25-34,Female,Organic Search
+CUST01686,2026-01-15,BENGALURU,Karnataka,25-34,Male,Referral
+CUST02586,2026-04-30,KOCHI,Kerala,25-34,Female,Organic Search
+CUST01830,2026-06-22,Bengaluru,Karnataka,45-54,Female,Organic Search
+CUST02080,2024-12-02,Ahmedabad,Gujarat,25-34,Male,Social Media
+CUST00628,2024-05-15,Delhi,Delhi,35-44,Female,Social Media
+CUST02114,2026-06-24,Coimbatore,Tamil Nadu,35-44,Male,Paid Ads
+CUST01210,2026-04-06,Jaipur,Rajasthan,18-24,Female,Organic Search
+CUST02686,2024-11-04,Bengaluru,Karnataka,25-34,Male,Email Campaign
+CUST01751,2025-05-19,Hyderabad,Telangana,25-34,Female,Direct
+CUST01033,2024-07-10,Chennai,Tamil Nadu,25-34,Male,Social Media
+CUST01639,2024-06-07,Kochi,Kerala,55+,Female,Referral
+CUST01593,2024-04-30,Lucknow,Uttar Pradesh,18-24,Female,Paid Ads
+CUST00211,2024-04-10,Pune,Maharashtra,35-44,Female,Organic Search
+CUST01096,2026-03-18,Jaipur,Rajasthan,35-44,Male,Email Campaign
+CUST02826,2025-04-26,  lucknow  ,Uttar Pradesh,55+,Female,Paid Ads
+CUST00962,2025-01-20,Chennai,Tamil Nadu,55+,Male,Social Media
+CUST00362,2025-03-16,Delhi,Delhi,35-44,Female,Referral
+CUST01132,2025-02-13,Lucknow,Uttar Pradesh,35-44,Male,Organic Search
+CUST00240,2024-02-16,Bengaluru,Karnataka,55+,Male,Social Media
+CUST01699,2025-12-18,Surat,Gujarat,35-44,Male,Paid Ads
+CUST02301,2026-04-26,Lucknow,Uttar Pradesh,45-54,Female,Referral
+CUST02023,2025-06-05,Coimbatore,Tamil Nadu,25-34,Female,Direct
+CUST01435,2024-06-13,Coimbatore,Tamil Nadu,35-44,Male,Direct
+CUST01143,2025-08-08,Ahmedabad,Gujarat,35-44,Female,Organic Search
+CUST02289,2025-07-02,Mumbai,Maharashtra,18-24,Female,Organic Search
+CUST02256,2025-10-27,Delhi,Delhi,18-24,Female,Organic Search
+CUST02404,2024-01-26,Ahmedabad,Gujarat,45-54,Male,Organic Search
+CUST01048,2024-03-21,Coimbatore,Tamil Nadu,25-34,Male,Referral
+CUST01314,2025-08-28,Bengaluru,Karnataka,35-44,Female,Social Media
+CUST01815,2025-05-02,Surat,Gujarat,35-44,Other,Referral
+CUST02778,2025-12-31,Ahmedabad,Gujarat,25-34,Male,Paid Ads
+CUST02671,2025-11-05,Jaipur,Rajasthan,35-44,Male,Social Media
+CUST00383,2024-03-08,Delhi,Delhi,25-34,Other,Paid Ads
+CUST01488,2025-04-25,Mumbai,Maharashtra,18-24,Male,Organic Search
+CUST00081,2024-12-06,Coimbatore,Tamil Nadu,35-44,Male,Paid Ads
+CUST02075,2025-11-26,Kolkata,West Bengal,25-34,Female,Paid Ads
+CUST00681,2024-10-25,Hyderabad,Telangana,25-34,Male,Paid Ads
+CUST01235,2024-02-06,Chandigarh,Chandigarh,35-44,Female,Referral
+CUST00434,2024-11-20,Ahmedabad,Gujarat,25-34,Female,Direct
+CUST01104,2025-09-27,Chandigarh,Chandigarh,25-34,Female,Paid Ads
+CUST02867,2024-04-12,Indore,Madhya Pradesh,25-34,Female,Email Campaign
+CUST01397,2025-08-14,Bengaluru,Karnataka,55+,Female,Organic Search
+CUST02336,2024-05-13,Coimbatore,Tamil Nadu,25-34,Male,Direct
+CUST02235,2026-06-11,Ahmedabad,Gujarat,25-34,Male,Email Campaign
+CUST00129,2025-10-29,Chandigarh,Chandigarh,18-24,Male,Organic Search
+CUST01614,2024-02-24,Ahmedabad,Gujarat,18-24,Male,Organic Search
+CUST00838,2025-04-20,Chennai,Tamil Nadu,18-24,Female,Email Campaign
+CUST01481,2024-01-18,Coimbatore,Tamil Nadu,25-34,Male,Social Media
+CUST00970,2025-08-09,Coimbatore,Tamil Nadu,18-24,Male,Email Campaign
+CUST00458,2024-11-05,Kolkata,West Bengal,35-44,Female,Organic Search
+CUST00285,2025-03-16,Kolkata,West Bengal,18-24,Female,Referral
+CUST01333,2026-05-05,Surat,Gujarat,25-34,Female,Organic Search
+CUST01772,2025-03-31,Surat,Gujarat,35-44,Male,Paid Ads
+CUST00870,2024-07-19,Lucknow,Uttar Pradesh,18-24,Female,Social Media
+CUST01618,2024-12-23,Delhi,Delhi,18-24,Female,Organic Search
+CUST01682,2025-12-24,Delhi,Delhi,18-24,Female,Paid Ads
+CUST02539,2025-08-11,Chennai,Tamil Nadu,45-54,Male,Social Media
+CUST01308,2024-10-28,Chandigarh,Chandigarh,25-34,Male,Email Campaign
+CUST01244,2025-04-07,Kolkata,West Bengal,45-54,Male,Referral
+CUST00908,2024-10-27,Kolkata,West Bengal,25-34,Female,Referral
+CUST00035,2025-11-06,Bengaluru,Karnataka,25-34,Female,Organic Search
+CUST01101,2024-06-13,Jaipur,Rajasthan,18-24,Male,Social Media
+CUST02517,2025-10-31,Kolkata,West Bengal,25-34,Male,Paid Ads
+CUST00041,2024-02-02,Coimbatore,Tamil Nadu,45-54,Male,Organic Search
+CUST01587,2026-04-26,Lucknow,Uttar Pradesh,25-34,Male,Organic Search
+CUST00378,2025-12-27,  kolkata  ,West Bengal,18-24,Female,Email Campaign
+CUST01529,2024-12-19,Pune,Maharashtra,55+,Male,Organic Search
+CUST00812,2024-10-07,Ahmedabad,Gujarat,25-34,Female,Referral
+CUST01982,2026-06-14,Jaipur,Rajasthan,25-34,Female,Direct
+CUST01003,2026-04-03,Coimbatore,Tamil Nadu,25-34,Male,Paid Ads
+CUST01517,2025-04-22,Chandigarh,Chandigarh,25-34,Female,Social Media
+CUST02162,2025-12-04,Surat,Gujarat,25-34,Female,Social Media
+CUST02479,2025-09-15,Mumbai,Maharashtra,35-44,Male,Paid Ads
+CUST02240,2025-09-03,Coimbatore,Tamil Nadu,18-24,Female,Referral
+CUST02354,2024-06-19,Delhi,Delhi,18-24,Female,Organic Search
+CUST02021,2025-10-27,Indore,Madhya Pradesh,25-34,Female,Social Media
+CUST02415,2026-06-22,Ahmedabad,Gujarat,35-44,Male,Direct
+CUST00581,2025-03-18,Surat,Gujarat,25-34,Female,Email Campaign
+CUST01532,2024-11-29,Jaipur,Rajasthan,18-24,Female,Social Media
+CUST01579,2026-04-19,Coimbatore,Tamil Nadu,18-24,Male,Organic Search
+CUST00072,2026-04-29,Pune,Maharashtra,25-34,Male,Paid Ads
+CUST02341,2025-06-27,Surat,Gujarat,25-34,Male,Email Campaign
+CUST00900,2026-01-22,Bengaluru,Karnataka,25-34,Male,Social Media
+CUST02899,2026-06-11,Chandigarh,Chandigarh,25-34,Female,Paid Ads
+CUST01851,2025-09-10,Kochi,Kerala,55+,Other,Paid Ads
+CUST01392,2024-07-01,Ahmedabad,Gujarat,25-34,Male,Paid Ads
+CUST02923,2024-05-07,Indore,Madhya Pradesh,25-34,Female,Organic Search
+CUST00894,2024-02-18,Surat,Gujarat,45-54,Male,Direct
+CUST00963,2026-06-07,Indore,Madhya Pradesh,25-34,Female,Email Campaign
+CUST02342,2024-12-28,Delhi,Delhi,25-34,Male,Referral
+CUST01941,2025-02-22,Delhi,Delhi,45-54,Other,Organic Search
+CUST00221,2025-08-08,Pune,Maharashtra,25-34,Male,Paid Ads
+CUST00176,2025-05-20,JAIPUR,Rajasthan,25-34,Female,Email Campaign
+CUST02602,2024-11-16,Ahmedabad,Gujarat,55+,Male,Social Media
+CUST00572,2025-02-04,Kolkata,West Bengal,25-34,Female,Paid Ads
+CUST00881,2026-05-13,CHENNAI,Tamil Nadu,35-44,Female,Paid Ads
+CUST01554,2025-03-22,Jaipur,Rajasthan,25-34,Female,Organic Search
+CUST00640,2025-06-14,Hyderabad,Telangana,35-44,Male,Social Media
+CUST00146,2024-09-21,Chandigarh,Chandigarh,25-34,Female,Paid Ads
+CUST00388,2025-06-14,Delhi,Delhi,18-24,Male,Social Media
+CUST01758,2025-04-07,Jaipur,Rajasthan,18-24,Female,Direct
+CUST00712,2025-08-28,Kolkata,West Bengal,18-24,Female,Direct
+CUST02519,2026-03-06,Hyderabad,Telangana,45-54,Female,Paid Ads
+CUST01850,2026-02-02,CHENNAI,Tamil Nadu,45-54,Female,Organic Search
+CUST00479,2025-02-06,Jaipur,Rajasthan,25-34,Female,Organic Search
+CUST00294,2025-04-16,Lucknow,Uttar Pradesh,45-54,Female,Organic Search
+CUST02399,2024-02-24,Kochi,Kerala,35-44,Female,Referral
+CUST01220,2025-07-17,Indore,Madhya Pradesh,18-24,Male,Organic Search
+CUST02482,2026-01-23,Coimbatore,Tamil Nadu,35-44,Female,Referral
+CUST01263,2025-06-30,Chandigarh,Chandigarh,18-24,Female,Paid Ads
+CUST02932,2026-05-06,SURAT,Gujarat,25-34,Male,Organic Search
+CUST02672,2025-01-16,Kolkata,West Bengal,35-44,Female,Email Campaign
+CUST02785,2024-06-28,Ahmedabad,Gujarat,25-34,Male,Paid Ads
+CUST01309,2024-11-07,Kochi,Kerala,35-44,Female,Organic Search
+CUST01516,2026-02-17,Delhi,Delhi,18-24,Female,Paid Ads
+CUST00690,2026-05-25,Pune,Maharashtra,25-34,Female,Organic Search
+CUST01328,2024-09-04,Kochi,Kerala,35-44,Female,Organic Search
+CUST01454,2026-06-28,Kochi,Kerala,25-34,Other,Paid Ads
+CUST02303,2025-01-01,Bengaluru,Karnataka,25-34,Male,Social Media
+CUST00802,2026-01-12,Chennai,Tamil Nadu,45-54,Female,Organic Search
+CUST01021,2025-11-30,Kochi,Kerala,55+,Male,Paid Ads
+CUST00644,2026-05-09,Indore,Madhya Pradesh,35-44,Male,Paid Ads
+CUST00833,2025-02-23,Kochi,Kerala,25-34,Male,Social Media
+CUST01553,2024-01-29,Hyderabad,Telangana,25-34,Female,Social Media
+CUST02071,2026-06-20,Indore,Madhya Pradesh,55+,Female,Organic Search
+CUST01427,2025-11-29,Pune,Maharashtra,25-34,Male,Social Media
+CUST02163,2024-10-04,Delhi,Delhi,45-54,Female,Direct
+CUST01085,2024-02-04,Kochi,Kerala,18-24,Female,Organic Search
+CUST00205,2025-04-12,Jaipur,Rajasthan,18-24,Male,Email Campaign
+CUST00960,2024-09-26,Kochi,Kerala,35-44,Female,Social Media
+CUST01674,2026-02-06,Kochi,Kerala,18-24,Female,Organic Search
+CUST01485,2024-08-02,Bengaluru,Karnataka,18-24,Male,Paid Ads
+CUST02613,2026-05-22,Kochi,Kerala,45-54,Male,Paid Ads
+CUST02681,2024-01-30,Lucknow,Uttar Pradesh,18-24,Male,Social Media
+CUST00039,2024-03-06,Hyderabad,Telangana,25-34,Female,Organic Search
+CUST00656,2026-03-12,Jaipur,Rajasthan,45-54,Male,Social Media
+CUST00303,2024-11-26,Lucknow,Uttar Pradesh,45-54,Female,Organic Search
+CUST02388,2026-06-15,Chandigarh,Chandigarh,45-54,Male,Referral
+CUST00239,2025-04-20,Indore,Madhya Pradesh,45-54,Male,Social Media
+CUST00050,2024-01-16,Indore,Madhya Pradesh,55+,Female,Email Campaign
+CUST02847,2024-06-04,Kochi,Kerala,35-44,Male,Referral
+CUST02032,2024-05-05,Kolkata,West Bengal,18-24,Female,Paid Ads
+CUST01162,2025-01-30,Surat,Gujarat,25-34,Male,Direct
+CUST00400,2026-01-21,Kolkata,West Bengal,55+,Male,Social Media
+CUST00780,2025-08-31,Ahmedabad,Gujarat,25-34,Other,Social Media
+CUST01878,2025-04-16,Ahmedabad,Gujarat,25-34,Male,Organic Search
+CUST00013,2025-01-14,Bengaluru,Karnataka,25-34,Female,Paid Ads
+CUST00940,2025-11-06,Lucknow,Uttar Pradesh,25-34,Female,Referral
+CUST00814,2025-10-10,Pune,Maharashtra,25-34,Male,Social Media
+CUST00182,2025-02-22,Kolkata,West Bengal,25-34,Female,Email Campaign
+CUST02632,2024-10-11,Indore,Madhya Pradesh,35-44,Female,Referral
+CUST01380,2025-06-26,Delhi,Delhi,55+,Female,Email Campaign
+CUST02434,2024-04-08,Surat,Gujarat,25-34,Female,Email Campaign
+CUST02324,2024-11-07,Mumbai,Maharashtra,18-24,Male,Referral
+CUST01177,2025-07-24,Delhi,Delhi,25-34,Female,Organic Search
+CUST00540,2024-08-21,Ahmedabad,Gujarat,25-34,Female,Social Media
+CUST02312,2025-08-13,Hyderabad,Telangana,18-24,Male,Paid Ads
+CUST00319,2026-03-21,Surat,Gujarat,25-34,Male,Paid Ads
+CUST02079,2025-09-24,Coimbatore,Tamil Nadu,45-54,Male,Organic Search
+CUST01884,2024-10-25,Jaipur,Rajasthan,35-44,Male,Paid Ads
+CUST02550,2026-03-23,Kochi,Kerala,25-34,Male,Organic Search
+CUST01986,2025-11-12,Chennai,Tamil Nadu,25-34,Female,Organic Search
+CUST01543,2025-07-06,Surat,Gujarat,25-34,Male,Organic Search
+CUST00887,2026-06-17,Chennai,Tamil Nadu,45-54,Female,Referral
+CUST02042,2025-10-27,Pune,Maharashtra,45-54,Male,Organic Search
+CUST02138,2026-06-09,Chennai,Tamil Nadu,35-44,Female,Organic Search
+CUST00089,2025-03-20,Lucknow,Uttar Pradesh,25-34,Female,Social Media
+CUST00785,2026-03-10,Indore,Madhya Pradesh,55+,Female,Social Media
+CUST02905,2025-06-07,Coimbatore,Tamil Nadu,18-24,Female,Organic Search
+CUST01342,2025-07-07,Bengaluru,Karnataka,35-44,Male,Referral
+CUST01311,2026-01-25,Chandigarh,Chandigarh,35-44,Male,Organic Search
+CUST02112,2024-10-09,Surat,Gujarat,25-34,Male,Email Campaign
+CUST02567,2026-03-03,Bengaluru,Karnataka,45-54,Female,Email Campaign
+CUST01651,2025-02-08,Mumbai,Maharashtra,18-24,Male,Social Media
+CUST02541,2024-10-22,Bengaluru,Karnataka,55+,Male,Referral
+CUST00320,2025-12-02,Kochi,Kerala,45-54,Male,Paid Ads
+CUST01141,2025-04-01,Pune,Maharashtra,35-44,Female,Organic Search
+CUST00333,2025-10-18,MUMBAI,Maharashtra,25-34,Male,Direct
+CUST00777,2026-05-07,Hyderabad,Telangana,18-24,Male,Organic Search
+CUST00638,2024-09-11,Delhi,Delhi,35-44,Female,Referral
+CUST00531,2024-03-17,Coimbatore,Tamil Nadu,35-44,Male,Referral
+CUST00347,2025-08-07,Hyderabad,Telangana,25-34,Female,Organic Search
+CUST02972,2026-04-06,Delhi,Delhi,45-54,Male,Social Media
+CUST02046,2024-06-16,Lucknow,Uttar Pradesh,25-34,Male,Direct
+CUST01012,2025-06-09,Chandigarh,Chandigarh,55+,Female,Paid Ads
+CUST02362,2025-01-08,Chennai,Tamil Nadu,25-34,Female,Social Media
+CUST01957,2025-11-01,Pune,Maharashtra,25-34,Male,Organic Search
+CUST00040,2024-01-08,Hyderabad,Telangana,18-24,Female,Organic Search
+CUST01990,2025-01-25,Kochi,Kerala,35-44,Female,Direct
+CUST00341,2025-04-04,Ahmedabad,Gujarat,35-44,Female,Organic Search
+CUST01629,2024-02-26,Chandigarh,Chandigarh,35-44,Female,Referral
+CUST01270,2024-12-22,Chandigarh,Chandigarh,35-44,Male,Organic Search
+CUST02349,2025-02-18,Kochi,Kerala,25-34,Male,Paid Ads
+CUST00390,2024-03-21,Indore,Madhya Pradesh,25-34,Female,Referral
+CUST02147,2024-04-12,Lucknow,Uttar Pradesh,25-34,Male,Paid Ads
+CUST02600,2024-11-25,Mumbai,Maharashtra,35-44,Female,Email Campaign
+CUST00065,2024-03-11,Coimbatore,Tamil Nadu,45-54,Male,Organic Search
+CUST01303,2025-06-13,Ahmedabad,Gujarat,18-24,Female,Organic Search
+CUST02224,2025-02-12,Lucknow,Uttar Pradesh,45-54,Male,Email Campaign
+CUST00569,2025-10-22,Lucknow,Uttar Pradesh,35-44,Male,Paid Ads
+CUST02478,2025-11-07,Mumbai,Maharashtra,25-34,Female,Social Media
+CUST00811,2025-10-08,Kolkata,West Bengal,55+,Male,Organic Search
+CUST00832,2026-03-07,Hyderabad,Telangana,25-34,Female,Organic Search
+CUST02323,2026-06-07,Kochi,Kerala,18-24,Female,Organic Search
+CUST00440,2026-01-28,  lucknow  ,Uttar Pradesh,35-44,Male,Paid Ads
+CUST00825,2026-02-28,CHENNAI,Tamil Nadu,25-34,Male,Direct
+CUST00723,2025-09-20,Coimbatore,Tamil Nadu,35-44,Male,Referral
+CUST00587,2026-05-15,  kolkata  ,West Bengal,25-34,Male,Paid Ads
+CUST01636,2025-07-30,Chennai,Tamil Nadu,35-44,Male,Social Media
+CUST00518,2024-03-02,Kolkata,West Bengal,35-44,Female,Referral
+CUST02502,2025-10-19,Delhi,Delhi,25-34,Male,Organic Search
+CUST00136,2025-12-14,Delhi,Delhi,35-44,Female,Referral
+CUST00685,2026-02-27,Kolkata,West Bengal,25-34,Male,Organic Search
+CUST02973,2025-10-22,Kochi,Kerala,55+,Female,Organic Search
+CUST02728,2024-07-04,Pune,Maharashtra,35-44,Male,Social Media
+CUST01665,2025-11-25,Coimbatore,Tamil Nadu,45-54,Female,Organic Search
+CUST02376,2026-03-29,Delhi,Delhi,25-34,Male,Organic Search
+CUST01731,2025-08-02,Chennai,Tamil Nadu,25-34,Male,Social Media
+CUST01492,2024-12-26,Kolkata,West Bengal,18-24,Female,Paid Ads
+CUST02124,2024-06-18,Delhi,Delhi,25-34,Female,Referral
+CUST02439,2025-03-25,  delhi  ,Delhi,25-34,Male,Organic Search
+CUST01182,2025-09-19,Lucknow,Uttar Pradesh,25-34,Male,Paid Ads
+CUST00048,2025-04-18,Chennai,Tamil Nadu,25-34,Female,Social Media
+CUST02777,2024-11-10,Chennai,Tamil Nadu,55+,Male,Referral
+CUST02318,2025-04-10,Kochi,Kerala,25-34,Female,Email Campaign
+CUST00090,2024-04-28,Jaipur,Rajasthan,25-34,Female,Organic Search
+CUST00410,2026-02-21,Kolkata,West Bengal,25-34,Male,Organic Search
+CUST01324,2024-11-19,Surat,Gujarat,55+,Female,Organic Search
+CUST02335,2025-12-26,Chennai,Tamil Nadu,25-34,Male,Referral
+CUST02245,2026-05-27,Indore,Madhya Pradesh,18-24,Male,Direct
+CUST00141,2025-10-28,Jaipur,Rajasthan,25-34,Female,Referral
+CUST02136,2025-07-04,Mumbai,Maharashtra,35-44,Female,Direct
+CUST01995,2025-02-01,Indore,Madhya Pradesh,55+,Male,Social Media
+CUST00594,2025-05-11,Mumbai,Maharashtra,18-24,Female,Direct
+CUST01622,2024-04-06,Surat,Gujarat,45-54,Male,Paid Ads
+CUST02805,2025-06-03,Kolkata,West Bengal,25-34,Male,Referral
+CUST00988,2024-04-30,Jaipur,Rajasthan,25-34,Male,Organic Search
+CUST02533,2025-08-30,Lucknow,Uttar Pradesh,25-34,Female,Social Media
+CUST02548,2025-03-18,Coimbatore,Tamil Nadu,25-34,Male,Organic Search
+CUST01497,2025-03-26,Bengaluru,Karnataka,35-44,Male,Email Campaign
+CUST02774,2025-12-06,Chennai,Tamil Nadu,25-34,Female,Paid Ads
+CUST00486,2024-02-15,Kochi,Kerala,25-34,Male,Organic Search
+CUST02368,2025-10-16,Pune,Maharashtra,18-24,Male,Referral
+CUST00186,2025-11-04,Mumbai,Maharashtra,45-54,Male,Organic Search
+CUST02435,2026-03-03,Kolkata,West Bengal,25-34,Female,Organic Search
+CUST00110,2026-01-06,Indore,Madhya Pradesh,45-54,Male,Email Campaign
+CUST00121,2025-05-14,Hyderabad,Telangana,25-34,Male,Organic Search
+CUST00478,2024-05-16,Jaipur,Rajasthan,35-44,Male,Organic Search
+CUST02248,2025-11-26,Hyderabad,Telangana,35-44,Male,Paid Ads
+CUST01591,2025-12-19,Chennai,Tamil Nadu,45-54,Male,Referral
+CUST01680,2026-03-14,Kolkata,West Bengal,25-34,Male,Email Campaign
+CUST00742,2024-10-31,Chennai,Tamil Nadu,25-34,Male,Referral
+CUST00161,2024-04-26,Ahmedabad,Gujarat,45-54,Male,Organic Search
+CUST00300,2024-06-05,Lucknow,Uttar Pradesh,35-44,Female,Organic Search
+CUST02486,2024-10-14,Mumbai,Maharashtra,35-44,Female,Organic Search
+CUST00816,2024-11-25,Coimbatore,Tamil Nadu,35-44,Female,Organic Search
+CUST02587,2026-03-22,Lucknow,Uttar Pradesh,25-34,Female,Email Campaign
+CUST00015,2024-06-16,Hyderabad,Telangana,25-34,Male,Email Campaign
+CUST01835,2024-08-02,Ahmedabad,Gujarat,35-44,Female,Paid Ads
+CUST02366,2024-12-31,Bengaluru,Karnataka,25-34,Male,Paid Ads
+CUST01929,2024-06-17,Chennai,Tamil Nadu,35-44,Male,Organic Search
+CUST00079,2026-02-06,Lucknow,Uttar Pradesh,18-24,Female,Email Campaign
+CUST00033,2024-09-03,Mumbai,Maharashtra,45-54,Female,Organic Search
+CUST02243,2024-05-31,Coimbatore,Tamil Nadu,25-34,Male,Paid Ads
+CUST02377,2025-08-30,Indore,Madhya Pradesh,18-24,Female,Organic Search
+CUST01174,2026-03-30,Surat,Gujarat,25-34,Male,Paid Ads
+CUST00299,2024-05-31,Indore,Madhya Pradesh,25-34,Male,Organic Search
+CUST01031,2025-06-14,Kochi,Kerala,25-34,Female,Organic Search
+CUST02773,2025-12-27,Coimbatore,Tamil Nadu,25-34,Male,Organic Search
+CUST00168,2024-06-26,Hyderabad,Telangana,35-44,Male,Social Media
+CUST02413,2025-08-17,Mumbai,Maharashtra,25-34,Female,Email Campaign
+CUST01782,2024-05-11,Lucknow,Uttar Pradesh,35-44,Male,Direct
+CUST00233,2024-05-24,Delhi,Delhi,35-44,Male,Paid Ads
+CUST02919,2024-05-23,Chennai,Tamil Nadu,45-54,Male,Paid Ads
+CUST01837,2025-06-05,Chandigarh,Chandigarh,25-34,Female,Organic Search
+CUST01755,2024-05-08,Chandigarh,Chandigarh,25-34,Male,Organic Search
+CUST02732,2025-09-15,Kochi,Kerala,45-54,Female,Referral
+CUST01378,2026-01-04,Bengaluru,Karnataka,25-34,Female,Referral
+CUST02491,2024-01-10,Ahmedabad,Gujarat,25-34,Other,Social Media
+CUST00462,2025-09-21,Kolkata,West Bengal,25-34,Female,Social Media
+CUST02673,2025-12-19,Kolkata,West Bengal,18-24,Male,Email Campaign
+CUST02265,2024-01-16,Mumbai,Maharashtra,18-24,Female,Email Campaign
+CUST02737,2025-05-13,Surat,Gujarat,35-44,Male,Organic Search
+CUST01803,2025-01-28,Ahmedabad,Gujarat,25-34,Male,Referral
+CUST00444,2025-10-28,Ahmedabad,Gujarat,18-24,Other,Social Media
+CUST00104,2025-08-12,Surat,Gujarat,18-24,Female,Social Media
+CUST00078,2024-12-28,Delhi,Delhi,35-44,Female,Social Media
+CUST01236,2026-06-04,Coimbatore,Tamil Nadu,25-34,Male,Paid Ads
+CUST01015,2025-08-23,Ahmedabad,Gujarat,45-54,Female,Organic Search
+CUST02665,2025-10-19,Chandigarh,Chandigarh,25-34,Female,Paid Ads
+CUST00112,2026-05-10,Hyderabad,Telangana,35-44,Female,Referral
+CUST00416,2026-04-03,Kolkata,West Bengal,25-34,Male,Referral
+CUST02373,2026-03-22,Chandigarh,Chandigarh,25-34,Male,Organic Search
+CUST00367,2025-02-19,Surat,Gujarat,25-34,Female,Paid Ads
+CUST00954,2024-07-02,Bengaluru,Karnataka,35-44,Female,Email Campaign
+CUST01997,2025-02-08,Delhi,Delhi,18-24,Female,Social Media
+CUST01813,2026-05-05,Indore,Madhya Pradesh,35-44,Male,Social Media
+CUST01825,2024-09-08,Jaipur,Rajasthan,18-24,Male,Email Campaign
+CUST02041,2026-01-16,BENGALURU,Karnataka,35-44,Male,Organic Search
+CUST02481,2026-04-29,Kochi,Kerala,35-44,Female,Paid Ads
+CUST01056,2024-04-07,Delhi,Delhi,18-24,Female,Referral
+CUST00426,2024-01-20,Hyderabad,Telangana,25-34,Male,Social Media
+CUST00958,2025-04-10,Coimbatore,Tamil Nadu,45-54,Male,Referral
+CUST01471,2024-12-30,Surat,Gujarat,18-24,Male,Referral
+CUST02229,2024-04-27,Ahmedabad,Gujarat,25-34,Male,Organic Search
+CUST01721,2025-05-16,Coimbatore,Tamil Nadu,35-44,Male,Organic Search
+CUST01215,2025-09-09,Indore,Madhya Pradesh,25-34,Female,Organic Search
+CUST01306,2025-07-01,Kolkata,West Bengal,35-44,Male,Referral
+CUST00502,2024-01-16,Coimbatore,Tamil Nadu,25-34,Male,Paid Ads
+CUST02286,2025-11-06,Bengaluru,Karnataka,35-44,Female,Organic Search
+CUST00019,2025-11-02,Hyderabad,Telangana,25-34,Female,Referral
+CUST01245,2024-04-24,Bengaluru,Karnataka,25-34,Male,Organic Search
+CUST00563,2025-10-10,Bengaluru,Karnataka,25-34,Male,Organic Search
+CUST00209,2025-05-14,Chandigarh,Chandigarh,45-54,Male,Organic Search
+CUST01284,2026-03-24,LUCKNOW,Uttar Pradesh,45-54,Male,Direct
+CUST00428,2026-01-23,Indore,Madhya Pradesh,35-44,Female,Referral
+CUST01304,2025-10-07,Ahmedabad,Gujarat,35-44,Other,Organic Search
+CUST02168,2024-07-05,Bengaluru,Karnataka,35-44,Male,Social Media
+CUST00807,2025-05-27,Hyderabad,Telangana,18-24,Female,Referral
+CUST01525,2025-02-04,Mumbai,Maharashtra,25-34,Female,Social Media
+CUST00800,2025-01-02,Surat,Gujarat,25-34,Female,Email Campaign
+CUST02208,2025-10-29,Lucknow,Uttar Pradesh,25-34,Female,Social Media
+CUST01858,2024-07-11,Indore,Madhya Pradesh,25-34,Female,Social Media
+CUST02607,2025-06-21,Chandigarh,Chandigarh,25-34,Female,Referral
+CUST01737,2024-01-26,Kochi,Kerala,35-44,Female,Paid Ads
+CUST02027,2024-07-08,Jaipur,Rajasthan,25-34,Female,Social Media
+CUST02574,2025-09-17,Lucknow,Uttar Pradesh,25-34,Female,Organic Search
+CUST02976,2025-07-26,Ahmedabad,Gujarat,35-44,Female,Social Media
+CUST02634,2025-10-29,Pune,Maharashtra,25-34,Male,Social Media
+CUST01542,2025-10-29,Delhi,Delhi,45-54,Female,Social Media
+CUST00223,2026-03-07,Surat,Gujarat,35-44,Male,Referral
+CUST01301,2025-08-17,Delhi,Delhi,25-34,Female,Organic Search
+CUST00939,2024-03-12,Lucknow,Uttar Pradesh,45-54,Male,Social Media
+CUST02629,2024-09-03,Delhi,Delhi,35-44,Male,Social Media
+CUST02901,2025-03-12,Kolkata,West Bengal,35-44,Other,Organic Search
+CUST01216,2024-07-01,Pune,Maharashtra,18-24,Male,Paid Ads
+CUST02535,2024-08-25,Delhi,Delhi,25-34,Male,Referral
+CUST02228,2024-12-16,Kolkata,West Bengal,55+,Female,Paid Ads
+CUST02935,2025-07-28,Ahmedabad,Gujarat,35-44,Female,Referral
+CUST02547,2024-04-22,Coimbatore,Tamil Nadu,35-44,Female,Organic Search
+CUST01440,2024-11-04,JAIPUR,Rajasthan,18-24,Male,Direct
+CUST01527,2024-02-16,Lucknow,Uttar Pradesh,18-24,Male,Paid Ads
+CUST01078,2024-10-15,Delhi,Delhi,25-34,Female,Paid Ads
+CUST02741,2025-07-23,Chennai,Tamil Nadu,35-44,Other,Social Media
+CUST02149,2024-10-01,Delhi,Delhi,18-24,Female,Organic Search
+CUST02764,2026-06-01,Ahmedabad,Gujarat,25-34,Female,Direct
+CUST01433,2024-08-20,Chennai,Tamil Nadu,25-34,Other,Paid Ads
+CUST01084,2026-01-01,Chandigarh,Chandigarh,25-34,Female,Social Media
+CUST01562,2024-09-14,Jaipur,Rajasthan,25-34,Male,Referral
+CUST01922,2026-02-07,Chennai,Tamil Nadu,18-24,Female,Social Media
+CUST01734,2024-11-29,  kochi  ,Kerala,18-24,Female,Referral
+CUST02420,2024-03-10,Pune,Maharashtra,45-54,Female,Social Media
+CUST00083,2026-06-12,Pune,Maharashtra,18-24,Male,Organic Search
+CUST01042,2024-06-16,  kochi  ,Kerala,18-24,Female,Social Media
+CUST02402,2025-09-30,Ahmedabad,Gujarat,35-44,Male,Organic Search
+CUST02152,2026-04-15,Ahmedabad,Gujarat,18-24,Male,Organic Search
+CUST02447,2024-12-08,Hyderabad,Telangana,45-54,Male,Organic Search
+CUST02417,2025-06-21,Kochi,Kerala,25-34,Male,Paid Ads
+CUST01019,2026-04-20,Kochi,Kerala,25-34,Female,Organic Search
+CUST02520,2024-09-23,Lucknow,Uttar Pradesh,35-44,Male,Organic Search
+CUST01028,2025-02-11,Chennai,Tamil Nadu,25-34,Female,Organic Search
+CUST00654,2026-01-29,Surat,Gujarat,35-44,Male,Organic Search
+CUST00879,2025-02-11,Chennai,Tamil Nadu,55+,Other,Social Media
+CUST02395,2026-04-06,Ahmedabad,Gujarat,35-44,Female,Email Campaign
+CUST00061,2025-11-16,Hyderabad,Telangana,35-44,Male,Social Media
+CUST02552,2025-12-24,Delhi,Delhi,35-44,Female,Organic Search
+CUST00111,2024-06-11,Ahmedabad,Gujarat,35-44,Male,Organic Search
+CUST02024,2024-10-07,Ahmedabad,Gujarat,35-44,Male,Referral
+CUST02715,2026-01-19,KOLKATA,West Bengal,18-24,Female,Organic Search
+CUST02070,2024-12-19,Kochi,Kerala,25-34,Female,Direct
+CUST00491,2026-06-19,Lucknow,Uttar Pradesh,35-44,Male,Paid Ads
+CUST00354,2025-05-05,Kochi,Kerala,35-44,Female,Organic Search
+CUST00862,2026-03-21,Delhi,Delhi,35-44,Female,Social Media
+CUST00499,2024-10-01,Mumbai,Maharashtra,25-34,Female,Organic Search
+CUST01296,2025-12-13,Chandigarh,Chandigarh,35-44,Male,Organic Search
+CUST01515,2025-09-11,Pune,Maharashtra,35-44,Male,Referral
+CUST02052,2026-01-15,Jaipur,Rajasthan,45-54,Female,Paid Ads
+CUST02725,2026-05-24,Jaipur,Rajasthan,35-44,Female,Organic Search
+CUST02811,2024-07-17,Bengaluru,Karnataka,35-44,Female,Organic Search
+CUST01687,2026-06-10,Kochi,Kerala,18-24,Female,Social Media
+CUST01277,2024-04-27,Ahmedabad,Gujarat,35-44,Male,Referral
+CUST01116,2024-04-13,Delhi,Delhi,35-44,Female,Organic Search
+CUST02787,2026-03-07,LUCKNOW,Uttar Pradesh,35-44,Male,Organic Search
+CUST02918,2024-09-11,Hyderabad,Telangana,45-54,Male,Direct
+CUST02211,2025-09-13,Lucknow,Uttar Pradesh,18-24,Male,Referral
+CUST01652,2025-02-18,Kochi,Kerala,45-54,Other,Referral
+CUST00203,2024-06-04,  surat  ,Gujarat,25-34,Male,Referral
+CUST00374,2026-03-04,Chennai,Tamil Nadu,25-34,Male,Direct
+CUST01571,2026-03-18,Coimbatore,Tamil Nadu,35-44,Male,Social Media
+CUST00549,2024-09-05,Coimbatore,Tamil Nadu,35-44,Male,Social Media
+CUST00328,2025-09-17,Ahmedabad,Gujarat,25-34,Female,Social Media
+CUST00142,2025-04-21,Ahmedabad,Gujarat,25-34,Female,Organic Search
+CUST02115,2024-04-11,Coimbatore,Tamil Nadu,18-24,Female,Social Media
+CUST01704,2024-03-27,Chennai,Tamil Nadu,18-24,Male,Paid Ads
+CUST00730,2026-06-26,Kochi,Kerala,25-34,Male,Organic Search
+CUST02911,2025-03-10,Lucknow,Uttar Pradesh,45-54,Male,Direct
+CUST01022,2026-01-23,Hyderabad,Telangana,25-34,Male,Organic Search
+CUST00529,2024-04-07,Indore,Madhya Pradesh,45-54,Female,Organic Search
+CUST01153,2025-09-27,Hyderabad,Telangana,45-54,Female,Paid Ads
+CUST01196,2024-06-19,Ahmedabad,Gujarat,25-34,Female,Organic Search
+CUST01624,2024-11-27,Indore,Madhya Pradesh,18-24,Male,Email Campaign
+CUST01130,2024-02-08,Delhi,Delhi,25-34,Male,Organic Search
+CUST02432,2024-08-18,Chennai,Tamil Nadu,25-34,Male,Paid Ads
+CUST00718,2025-12-22,Lucknow,Uttar Pradesh,45-54,Female,Email Campaign
+CUST01347,2025-12-25,Jaipur,Rajasthan,55+,Female,Social Media
+CUST00957,2024-07-30,Surat,Gujarat,25-34,Female,Social Media
+CUST01709,2026-01-19,Delhi,Delhi,18-24,Male,Referral
+CUST00583,2026-02-09,Chennai,Tamil Nadu,35-44,Female,Referral
+CUST00979,2025-09-21,Coimbatore,Tamil Nadu,35-44,Female,Referral
+CUST02449,2024-08-29,Mumbai,Maharashtra,25-34,Female,Referral
+CUST02846,2025-03-17,Surat,Gujarat,45-54,Male,Email Campaign
+CUST01065,2024-12-21,Coimbatore,Tamil Nadu,25-34,Male,Organic Search
+CUST01107,2024-04-08,Delhi,Delhi,25-34,Male,Email Campaign
+CUST01816,2026-05-22,Kolkata,West Bengal,35-44,Other,Referral
+CUST02695,2025-01-05,Kolkata,West Bengal,25-34,Female,Referral
+CUST00930,2025-01-17,Surat,Gujarat,55+,Male,Email Campaign
+CUST00617,2025-10-12,Ahmedabad,Gujarat,35-44,Male,Organic Search
+CUST02557,2025-05-23,Kochi,Kerala,25-34,Male,Email Campaign
+CUST01076,2025-09-24,AHMEDABAD,Gujarat,25-34,Female,Social Media
+CUST00058,2024-03-10,  lucknow  ,Uttar Pradesh,35-44,Male,Organic Search
+CUST00122,2025-11-15,Kolkata,West Bengal,35-44,Male,Organic Search
+CUST02107,2025-11-07,MUMBAI,Maharashtra,35-44,Male,Social Media
+CUST00235,2025-02-08,Chandigarh,Chandigarh,18-24,Female,Social Media
+CUST00472,2025-02-09,Mumbai,Maharashtra,25-34,Male,Organic Search
+CUST01747,2024-11-10,Bengaluru,Karnataka,55+,Female,Organic Search
+CUST02965,2025-08-04,Jaipur,Rajasthan,18-24,Male,Referral
+CUST02598,2026-01-10,Jaipur,Rajasthan,45-54,Female,Organic Search
+CUST02989,2025-12-14,Pune,Maharashtra,25-34,Female,Organic Search
+CUST01760,2025-05-08,Coimbatore,Tamil Nadu,25-34,Male,Paid Ads
+CUST01545,2025-12-21,Surat,Gujarat,25-34,Male,Social Media
+CUST01983,2025-11-09,  ahmedabad  ,Gujarat,25-34,Male,Organic Search
+CUST02618,2024-07-16,Mumbai,Maharashtra,25-34,Female,Email Campaign
+CUST01355,2025-12-06,Surat,Gujarat,25-34,Male,Referral
+CUST01503,2025-03-14,Indore,Madhya Pradesh,18-24,Male,Email Campaign
+CUST01952,2026-06-26,Surat,Gujarat,25-34,Male,Social Media
+CUST02497,2025-08-16,Ahmedabad,Gujarat,25-34,Female,Organic Search
+CUST00706,2026-04-10,Mumbai,Maharashtra,35-44,Male,Direct
+CUST00984,2025-08-26,Kolkata,West Bengal,45-54,Female,Email Campaign
+CUST00194,2025-04-12,Hyderabad,Telangana,35-44,Male,Email Campaign
+CUST02331,2025-11-06,Hyderabad,Telangana,35-44,Female,Paid Ads
+CUST00231,2024-06-17,Indore,Madhya Pradesh,25-34,Female,Social Media
+CUST01275,2025-08-03,Pune,Maharashtra,35-44,Female,Organic Search
+CUST01500,2025-12-22,Kolkata,West Bengal,25-34,Female,Organic Search
+CUST02849,2026-06-29,Pune,Maharashtra,18-24,Female,Organic Search
+CUST02977,2024-05-31,Kochi,Kerala,18-24,Male,Direct
+CUST00820,2025-09-02,Jaipur,Rajasthan,25-34,Male,Paid Ads
+CUST00526,2025-10-27,Indore,Madhya Pradesh,35-44,Male,Social Media
+CUST02109,2024-12-08,Kolkata,West Bengal,25-34,Male,Organic Search
+CUST00027,2025-03-21,Chennai,Tamil Nadu,18-24,Male,Paid Ads
+CUST00120,2025-07-05,Pune,Maharashtra,35-44,Female,Referral
+CUST01087,2024-06-11,Kolkata,West Bengal,35-44,Male,Direct
+CUST00413,2024-05-01,Lucknow,Uttar Pradesh,18-24,Male,Social Media
+CUST00107,2025-06-14,Kochi,Kerala,25-34,Female,Email Campaign
+CUST01783,2024-08-21,Indore,Madhya Pradesh,45-54,Female,Organic Search
+CUST00477,2025-01-21,Coimbatore,Tamil Nadu,25-34,Female,Paid Ads
+CUST00935,2025-11-18,Bengaluru,Karnataka,35-44,Female,Email Campaign
+CUST01094,2026-02-16,Coimbatore,Tamil Nadu,35-44,Male,Referral
+CUST02651,2025-03-02,Pune,Maharashtra,45-54,Female,Organic Search
+CUST01924,2026-03-31,Hyderabad,Telangana,35-44,Female,Referral
+CUST01839,2024-10-01,Ahmedabad,Gujarat,35-44,Female,Paid Ads
+CUST02307,2024-04-15,Hyderabad,Telangana,35-44,Female,Direct
+CUST00716,2025-09-20,Kolkata,West Bengal,25-34,Male,Paid Ads
+CUST02422,2025-11-05,Chandigarh,Chandigarh,25-34,Male,Social Media
+CUST01029,2025-03-09,Chandigarh,Chandigarh,25-34,Female,Referral
+CUST02000,2024-02-05,Kochi,Kerala,35-44,Male,Direct
+CUST00247,2024-10-09,PUNE,Maharashtra,18-24,Male,Email Campaign
+CUST02181,2026-05-07,Ahmedabad,Gujarat,35-44,Male,Organic Search
+CUST00123,2024-05-10,Ahmedabad,Gujarat,55+,Female,Email Campaign
+CUST01047,2024-11-28,Kolkata,West Bengal,35-44,Female,Paid Ads
+CUST02367,2025-01-03,Pune,Maharashtra,25-34,Male,Email Campaign
+CUST00037,2025-12-07,Kochi,Kerala,25-34,Male,Direct
+CUST00408,2026-06-22,Lucknow,Uttar Pradesh,45-54,Female,Social Media
+CUST00795,2026-04-04,Mumbai,Maharashtra,45-54,Female,Social Media
+CUST02090,2025-03-07,Delhi,Delhi,25-34,Female,Paid Ads
+CUST00147,2025-07-23,Chennai,Tamil Nadu,18-24,Female,Organic Search
+CUST00470,2026-04-08,Ahmedabad,Gujarat,18-24,Male,Social Media
+CUST01714,2025-11-13,Chennai,Tamil Nadu,35-44,Female,Paid Ads
+CUST02937,2025-10-20,Chandigarh,Chandigarh,55+,Female,Organic Search
+CUST02583,2024-05-06,Kochi,Kerala,45-54,Male,Social Media
+CUST02372,2025-09-19,Indore,Madhya Pradesh,18-24,Female,Referral
+CUST00953,2025-09-20,Chandigarh,Chandigarh,35-44,Female,Organic Search
+CUST01080,2026-03-15,Chennai,Tamil Nadu,35-44,Other,Social Media
+CUST00066,2025-07-10,Indore,Madhya Pradesh,35-44,Female,Direct
+CUST00622,2026-05-28,Delhi,Delhi,18-24,Male,Direct
+CUST01657,2025-03-22,Hyderabad,Telangana,45-54,Female,Referral
+CUST01947,2025-09-11,Chennai,Tamil Nadu,25-34,Female,Organic Search
+CUST00959,2025-12-21,Delhi,Delhi,55+,Female,Organic Search
+CUST01855,2024-06-01,Chandigarh,Chandigarh,45-54,Male,Paid Ads
+CUST02623,2025-08-12,Kolkata,West Bengal,35-44,Female,Organic Search
+CUST00030,2024-06-05,Hyderabad,Telangana,25-34,Male,Direct
+CUST02179,2025-12-21,Kochi,Kerala,18-24,Female,Paid Ads
+CUST01590,2025-10-03,Lucknow,Uttar Pradesh,25-34,Male,Social Media
+CUST00503,2026-02-11,Kochi,Kerala,25-34,Male,Referral
+CUST00312,2025-03-25,Ahmedabad,Gujarat,25-34,Female,Social Media
+CUST02275,2025-08-08,Delhi,Delhi,25-34,Female,Organic Search
+CUST02757,2024-06-14,Coimbatore,Tamil Nadu,25-34,Female,Organic Search
+CUST00639,2025-12-08,Chandigarh,Chandigarh,18-24,Female,Email Campaign
+CUST01228,2025-04-21,Mumbai,Maharashtra,35-44,Male,Email Campaign
+CUST02375,2025-09-30,Chennai,Tamil Nadu,35-44,Male,Social Media
+CUST01972,2026-06-08,Delhi,Delhi,25-34,Female,Paid Ads
+CUST00658,2024-01-31,Coimbatore,Tamil Nadu,25-34,Male,Referral
+CUST00854,2025-11-23,Surat,Gujarat,35-44,Male,Paid Ads
+CUST01707,2024-01-24,Bengaluru,Karnataka,18-24,Female,Referral
+CUST00130,2024-01-21,Indore,Madhya Pradesh,35-44,Male,Social Media
+CUST00647,2025-02-11,Chandigarh,Chandigarh,25-34,Female,Referral
+CUST00140,2026-04-28,Surat,Gujarat,25-34,Male,Organic Search
+CUST02093,2026-03-22,Delhi,Delhi,18-24,Male,Referral
+CUST00532,2024-02-03,Surat,Gujarat,18-24,Female,Organic Search
+CUST00034,2026-04-15,Ahmedabad,Gujarat,18-24,Female,Paid Ads
+CUST00896,2025-09-27,  hyderabad  ,Telangana,45-54,Female,Social Media
+CUST02423,2024-12-22,Lucknow,Uttar Pradesh,35-44,Female,Organic Search
+CUST01128,2024-01-23,Kolkata,West Bengal,35-44,Female,Paid Ads
+CUST00584,2026-06-11,Chandigarh,Chandigarh,25-34,Male,Organic Search
+CUST00160,2024-12-14,Ahmedabad,Gujarat,18-24,Male,Direct
+CUST01099,2025-05-16,Kochi,Kerala,18-24,Male,Social Media
+CUST00132,2024-06-20,Kolkata,West Bengal,35-44,Other,Paid Ads
+CUST02143,2024-07-03,Kochi,Kerala,35-44,Male,Organic Search
+CUST00551,2024-10-09,Pune,Maharashtra,25-34,Female,Organic Search
+CUST00856,2025-04-25,Indore,Madhya Pradesh,45-54,Female,Organic Search
+CUST01393,2025-01-02,Surat,Gujarat,55+,Male,Organic Search
+CUST01106,2024-06-06,  jaipur  ,Rajasthan,35-44,Male,Referral
+CUST00986,2026-05-29,Coimbatore,Tamil Nadu,18-24,Female,Referral
+CUST00855,2025-09-19,Coimbatore,Tamil Nadu,18-24,Female,Organic Search
+CUST02424,2026-05-22,Mumbai,Maharashtra,35-44,Male,Paid Ads
+CUST02711,2026-06-07,Delhi,Delhi,25-34,Male,Email Campaign
+CUST00809,2025-02-23,Kolkata,West Bengal,55+,Female,Direct
+CUST00044,2024-04-06,Hyderabad,Telangana,18-24,Male,Social Media
+CUST01058,2025-09-24,Chennai,Tamil Nadu,18-24,Female,Email Campaign
+CUST01322,2025-11-30,Pune,Maharashtra,35-44,Male,Organic Search
+CUST01756,2025-05-27,Surat,Gujarat,25-34,Other,Social Media
+CUST01702,2025-10-01,JAIPUR,Rajasthan,35-44,Female,Paid Ads
+CUST02652,2026-02-18,Indore,Madhya Pradesh,25-34,Female,Organic Search
+CUST01329,2025-11-24,Kolkata,West Bengal,35-44,Male,Referral
+CUST02820,2024-02-26,Pune,Maharashtra,55+,Male,Paid Ads
+CUST02196,2024-06-15,Chennai,Tamil Nadu,25-34,Male,Referral
+CUST01161,2025-01-03,Surat,Gujarat,45-54,Male,Email Campaign
+CUST01387,2024-03-13,Delhi,Delhi,45-54,Female,Referral
+CUST02868,2026-05-18,Pune,Maharashtra,35-44,Male,Paid Ads
+CUST01192,2025-06-17,Mumbai,Maharashtra,18-24,Male,Email Campaign
+CUST01868,2024-06-30,Jaipur,Rajasthan,18-24,Female,Social Media
+CUST00657,2026-03-10,Kochi,Kerala,45-54,Female,Organic Search
+CUST02832,2025-07-29,Hyderabad,Telangana,18-24,Male,Referral
+CUST02637,2026-02-04,Bengaluru,Karnataka,55+,Male,Social Media
+CUST00392,2025-08-29,Bengaluru,Karnataka,55+,Male,Paid Ads
+CUST00237,2024-04-20,Kolkata,West Bengal,35-44,Male,Referral
+CUST01184,2025-04-25,Lucknow,Uttar Pradesh,35-44,Male,Email Campaign
+CUST01461,2024-02-13,Ahmedabad,Gujarat,45-54,Male,Referral
+CUST00944,2025-04-01,Ahmedabad,Gujarat,25-34,Male,Referral
+CUST00447,2025-03-03,Bengaluru,Karnataka,45-54,Male,Email Campaign
+CUST00009,2025-01-22,Delhi,Delhi,18-24,Male,Referral
+CUST02700,2025-02-11,Bengaluru,Karnataka,35-44,Female,Social Media
+CUST02733,2025-07-08,Kolkata,West Bengal,25-34,Female,Organic Search
+CUST00568,2025-11-04,Hyderabad,Telangana,35-44,Male,Referral
+CUST01877,2026-04-06,Lucknow,Uttar Pradesh,25-34,Male,Referral
+CUST02057,2024-05-10,Lucknow,Uttar Pradesh,25-34,Female,Paid Ads
+CUST02639,2024-09-16,Coimbatore,Tamil Nadu,25-34,Male,Organic Search
+CUST00884,2024-07-01,Surat,Gujarat,25-34,Female,Social Media
+CUST01034,2024-12-17,Lucknow,Uttar Pradesh,25-34,Female,Organic Search
+CUST02425,2025-11-26,Ahmedabad,Gujarat,25-34,Female,Direct
+CUST01209,2026-02-22,Lucknow,Uttar Pradesh,25-34,Male,Email Campaign
+CUST02333,2025-01-29,Indore,Madhya Pradesh,18-24,Male,Organic Search
+CUST00484,2026-06-29,Coimbatore,Tamil Nadu,18-24,Male,Organic Search
+CUST01592,2024-09-23,Lucknow,Uttar Pradesh,18-24,Female,Organic Search
+CUST01307,2025-08-10,Ahmedabad,Gujarat,35-44,Male,Direct
+CUST01807,2025-10-14,Bengaluru,Karnataka,25-34,Male,Social Media
+CUST01062,2024-10-05,Coimbatore,Tamil Nadu,25-34,Male,Direct
+CUST00222,2026-04-29,Mumbai,Maharashtra,35-44,Male,Referral
+CUST00046,2024-03-03,Delhi,Delhi,25-34,Male,Email Campaign
+CUST00215,2026-06-10,Lucknow,Uttar Pradesh,25-34,Female,Social Media
+CUST00667,2024-02-23,Surat,Gujarat,18-24,Female,Direct
+CUST01443,2024-10-23,Ahmedabad,Gujarat,55+,Female,Direct
+CUST02453,2025-05-23,Mumbai,Maharashtra,25-34,Female,Social Media
+CUST02280,2026-06-06,Lucknow,Uttar Pradesh,18-24,Male,Referral
+CUST01112,2026-05-02,AHMEDABAD,Gujarat,18-24,Female,Organic Search
+CUST02458,2025-07-16,Pune,Maharashtra,18-24,Male,Email Campaign
+CUST00661,2024-09-18,Bengaluru,Karnataka,35-44,Female,Paid Ads
+CUST02398,2024-03-03,INDORE,Madhya Pradesh,18-24,Female,Referral
+CUST01429,2026-04-01,Indore,Madhya Pradesh,25-34,Female,Referral
+CUST02277,2024-08-15,Coimbatore,Tamil Nadu,25-34,Female,Organic Search
+CUST01635,2025-06-08,Kolkata,West Bengal,18-24,Male,Social Media
+CUST01617,2025-04-13,Ahmedabad,Gujarat,25-34,Female,Email Campaign
+CUST02848,2025-04-09,Kolkata,West Bengal,25-34,Female,Paid Ads
+CUST00466,2025-04-02,Jaipur,Rajasthan,25-34,Male,Email Campaign
+CUST02648,2024-07-17,Indore,Madhya Pradesh,35-44,Female,Social Media
+CUST02352,2024-07-08,Delhi,Delhi,25-34,Female,Social Media
+CUST01073,2026-02-21,Jaipur,Rajasthan,35-44,Female,Paid Ads
+CUST00806,2025-08-20,SURAT,Gujarat,35-44,Female,Social Media
+CUST02053,2025-06-25,Delhi,Delhi,25-34,Female,Social Media
+CUST01131,2025-08-19,Coimbatore,Tamil Nadu,25-34,Male,Social Media
+CUST01233,2025-08-05,Kochi,Kerala,35-44,Male,Organic Search
+CUST02105,2024-04-22,Chennai,Tamil Nadu,25-34,Male,Social Media
+CUST01874,2025-12-27,Indore,Madhya Pradesh,35-44,Male,Referral
+CUST01360,2024-05-01,Pune,Maharashtra,25-34,Female,Referral
+CUST02551,2024-10-09,Kolkata,West Bengal,25-34,Female,Paid Ads
+CUST00642,2024-04-25,Pune,Maharashtra,25-34,Female,Organic Search
+CUST01288,2025-07-27,Kochi,Kerala,45-54,Male,Email Campaign
+CUST02853,2026-06-20,Kolkata,West Bengal,35-44,Female,Organic Search
+CUST02928,2025-09-09,Kochi,Kerala,55+,Female,Organic Search
+CUST02380,2024-06-07,Jaipur,Rajasthan,55+,Female,Organic Search
+CUST00117,2025-02-02,Pune,Maharashtra,45-54,Female,Paid Ads
+CUST00430,2025-04-15,Bengaluru,Karnataka,45-54,Male,Social Media
+CUST00574,2024-03-28,Coimbatore,Tamil Nadu,18-24,Female,Organic Search
+CUST01668,2024-12-21,Surat,Gujarat,25-34,Male,Organic Search
+CUST01724,2026-02-03,Mumbai,Maharashtra,18-24,Female,Email Campaign
+CUST00456,2024-04-07,Surat,Gujarat,18-24,Male,Social Media
+CUST00591,2024-07-09,Pune,Maharashtra,25-34,Female,Email Campaign
+CUST02066,2026-04-07,Ahmedabad,Gujarat,45-54,Other,Social Media
+CUST00397,2025-05-09,Chennai,Tamil Nadu,25-34,Female,Social Media
+CUST00560,2024-07-03,Jaipur,Rajasthan,35-44,Female,Direct
+CUST00443,2024-06-10,Jaipur,Rajasthan,25-34,Female,Email Campaign
+CUST00749,2024-09-26,Ahmedabad,Gujarat,25-34,Male,Organic Search
+CUST02956,2025-09-25,  pune  ,Maharashtra,35-44,Male,Organic Search
+CUST00398,2024-03-15,Ahmedabad,Gujarat,35-44,Male,Social Media
+CUST00094,2024-11-03,Coimbatore,Tamil Nadu,25-34,Female,Social Media
+CUST02857,2024-06-16,Chennai,Tamil Nadu,25-34,Male,Direct
+CUST01344,2026-01-15,Lucknow,Uttar Pradesh,25-34,Male,Email Campaign
+CUST00956,2025-05-14,Chandigarh,Chandigarh,25-34,Male,Organic Search
+CUST01522,2025-05-18,Bengaluru,Karnataka,25-34,Male,Social Media
+CUST02348,2025-06-28,Delhi,Delhi,18-24,Male,Referral
+CUST00125,2025-04-17,Indore,Madhya Pradesh,18-24,Male,Social Media
+CUST01059,2024-08-22,Chennai,Tamil Nadu,25-34,Male,Referral
+CUST01253,2025-08-14,Mumbai,Maharashtra,35-44,Female,Organic Search
+CUST01375,2024-10-17,  coimbatore  ,Tamil Nadu,25-34,Female,Paid Ads
+CUST01861,2026-05-04,Surat,Gujarat,25-34,Male,Social Media
+CUST01804,2024-12-13,Delhi,Delhi,35-44,Female,Organic Search
+CUST00449,2024-10-23,Indore,Madhya Pradesh,45-54,Male,Referral
+CUST01134,2025-08-13,Kochi,Kerala,45-54,Male,Referral
+CUST01377,2024-09-01,Pune,Maharashtra,55+,Female,Organic Search
+CUST01055,2026-01-31,Chennai,Tamil Nadu,35-44,Male,Organic Search
+CUST02611,2026-04-02,Hyderabad,Telangana,35-44,Female,Referral
+CUST01893,2024-06-14,Indore,Madhya Pradesh,18-24,Male,Organic Search
+CUST01298,2025-03-10,Bengaluru,Karnataka,35-44,Female,Email Campaign
+CUST01176,2024-05-28,Chandigarh,Chandigarh,35-44,Female,Organic Search
+CUST02242,2026-01-24,Indore,Madhya Pradesh,35-44,Male,Email Campaign
+CUST02429,2025-01-18,Chandigarh,Chandigarh,35-44,Female,Email Campaign
+CUST00717,2026-04-01,Coimbatore,Tamil Nadu,45-54,Male,Organic Search
+CUST00480,2026-02-13,Mumbai,Maharashtra,18-24,Male,Paid Ads
+CUST01409,2026-06-11,Chandigarh,Chandigarh,25-34,Male,Referral
+CUST02255,2026-05-27,Coimbatore,Tamil Nadu,18-24,Male,Email Campaign
+CUST00998,2024-04-03,Chandigarh,Chandigarh,45-54,Male,Referral
+CUST01358,2025-05-26,Chennai,Tamil Nadu,25-34,Female,Social Media
+CUST02833,2025-11-07,Chandigarh,Chandigarh,25-34,Female,Social Media
+CUST01453,2024-11-11,Kolkata,West Bengal,55+,Female,Organic Search
+CUST01625,2025-05-06,Surat,Gujarat,25-34,Female,Referral
+CUST00575,2024-12-17,Chennai,Tamil Nadu,25-34,Male,Social Media
+CUST01336,2024-07-07,Kochi,Kerala,25-34,Male,Direct
+CUST00414,2025-07-25,Kolkata,West Bengal,55+,Female,Organic Search
+CUST01722,2024-05-10,  jaipur  ,Rajasthan,25-34,Male,Direct
+CUST02133,2026-06-24,Kochi,Kerala,25-34,Female,Social Media
+CUST02387,2025-08-03,Chennai,Tamil Nadu,45-54,Male,Organic Search
+CUST00895,2024-11-16,  surat  ,Gujarat,55+,Male,Paid Ads
+CUST02494,2026-02-23,Chennai,Tamil Nadu,35-44,Male,Social Media
+CUST02206,2026-06-24,Hyderabad,Telangana,25-34,Female,Organic Search
+CUST02579,2025-01-17,Coimbatore,Tamil Nadu,25-34,Male,Paid Ads
+CUST01105,2026-04-18,Jaipur,Rajasthan,25-34,Female,Social Media
+CUST02247,2026-03-03,Jaipur,Rajasthan,18-24,Male,Social Media
+CUST00389,2024-08-18,Kochi,Kerala,25-34,Female,Email Campaign
+CUST00863,2025-07-29,Jaipur,Rajasthan,25-34,Female,Direct
+CUST02274,2025-08-30,Chandigarh,Chandigarh,18-24,Female,Referral
+CUST01944,2025-01-12,Kochi,Kerala,35-44,Female,Email Campaign
+CUST01011,2025-07-26,Delhi,Delhi,18-24,Male,Direct
+CUST01115,2026-05-04,Delhi,Delhi,25-34,Female,Direct
+CUST02499,2024-12-27,Indore,Madhya Pradesh,25-34,Male,Organic Search
+CUST02212,2024-04-09,Ahmedabad,Gujarat,45-54,Male,Email Campaign
+CUST01732,2026-01-07,Indore,Madhya Pradesh,45-54,Male,Organic Search
+CUST00363,2024-04-15,Kolkata,West Bengal,18-24,Female,Social Media
+CUST02861,2024-07-22,Pune,Maharashtra,25-34,Male,Paid Ads
+CUST00017,2024-08-22,Mumbai,Maharashtra,45-54,Female,Social Media
+CUST02170,2026-04-01,Bengaluru,Karnataka,55+,Female,Social Media
+CUST01743,2025-06-30,Chandigarh,Chandigarh,35-44,Male,Organic Search
+CUST01831,2025-12-12,Pune,Maharashtra,25-34,Female,Direct
+CUST01480,2025-03-03,Delhi,Delhi,25-34,Male,Paid Ads
+CUST02789,2026-05-16,Kochi,Kerala,45-54,Female,Email Campaign
+CUST01814,2025-10-17,Hyderabad,Telangana,45-54,Female,Social Media
+CUST00417,2024-05-23,Jaipur,Rajasthan,25-34,Female,Organic Search
+CUST01648,2025-11-17,Chandigarh,Chandigarh,25-34,Female,Social Media
+CUST00381,2024-08-30,Bengaluru,Karnataka,35-44,Male,Referral
+CUST00615,2026-06-17,Coimbatore,Tamil Nadu,25-34,Female,Social Media
+CUST02990,2024-12-29,Chennai,Tamil Nadu,18-24,Male,Organic Search
+CUST01898,2025-11-06,Kochi,Kerala,45-54,Male,Social Media
+CUST01764,2026-06-18,Chennai,Tamil Nadu,25-34,Female,Direct
+CUST01389,2024-04-22,Chandigarh,Chandigarh,25-34,Male,Paid Ads
+CUST01197,2024-05-25,Jaipur,Rajasthan,25-34,Female,Organic Search
+CUST02931,2024-10-09,Kochi,Kerala,45-54,Female,Social Media
+CUST02126,2024-08-11,Lucknow,Uttar Pradesh,35-44,Male,Email Campaign
+CUST00760,2025-07-23,Pune,Maharashtra,25-34,Male,Organic Search
+CUST01243,2024-02-02,Kochi,Kerala,25-34,Male,Email Campaign
+CUST02039,2024-08-30,Mumbai,Maharashtra,18-24,Male,Email Campaign
+CUST00001,2024-04-24,Surat,Gujarat,18-24,Male,Organic Search
+CUST02344,2025-01-26,Surat,Gujarat,35-44,Male,Social Media
+CUST02017,2024-12-12,Surat,Gujarat,35-44,Other,Referral
+CUST01739,2025-07-08,Lucknow,Uttar Pradesh,35-44,Male,Referral
+CUST02279,2024-03-25,Chennai,Tamil Nadu,55+,Female,Referral
+CUST02188,2025-07-21,Ahmedabad,Gujarat,35-44,Male,Referral
+CUST01030,2026-05-31,Pune,Maharashtra,35-44,Male,Direct
+CUST02454,2026-03-11,Chennai,Tamil Nadu,45-54,Other,Organic Search
+CUST01604,2026-04-01,Surat,Gujarat,35-44,Female,Organic Search
+CUST01894,2024-05-07,Chennai,Tamil Nadu,25-34,Male,Organic Search
+CUST02140,2026-02-09,Indore,Madhya Pradesh,25-34,Male,Paid Ads
+CUST02191,2025-09-25,Pune,Maharashtra,18-24,Male,Paid Ads
+CUST01090,2025-03-20,Surat,Gujarat,25-34,Male,Organic Search
+CUST01833,2026-03-19,Chennai,Tamil Nadu,18-24,Male,Referral
+CUST00803,2024-12-09,SURAT,Gujarat,35-44,Male,Organic Search
+CUST02546,2026-01-19,Pune,Maharashtra,25-34,Male,Social Media
+CUST00873,2025-04-06,Chandigarh,Chandigarh,25-34,Female,Referral
+CUST02642,2026-06-02,Mumbai,Maharashtra,35-44,Male,Referral
+CUST02215,2025-08-13,Chennai,Tamil Nadu,25-34,Male,Organic Search
+CUST00376,2024-03-16,Indore,Madhya Pradesh,25-34,Female,Social Media
+CUST02953,2025-03-24,Chandigarh,Chandigarh,45-54,Female,Direct
+CUST01565,2024-06-28,Delhi,Delhi,25-34,Male,Social Media
+CUST01060,2025-06-23,Bengaluru,Karnataka,45-54,Male,Paid Ads
+CUST01917,2025-03-14,Kochi,Kerala,35-44,Female,Organic Search
+CUST02302,2024-01-31,Pune,Maharashtra,18-24,Female,Social Media
+CUST00284,2025-03-28,Lucknow,Uttar Pradesh,25-34,Male,Referral
+CUST00631,2024-04-14,Chandigarh,Chandigarh,18-24,Male,Social Media
+CUST02782,2025-02-19,Jaipur,Rajasthan,25-34,Female,Direct
+CUST00866,2025-04-08,Kochi,Kerala,18-24,Female,Organic Search
+CUST02351,2025-10-14,Kolkata,West Bengal,25-34,Female,Paid Ads
+CUST02697,2024-02-15,Hyderabad,Telangana,25-34,Male,Social Media
+CUST02795,2024-02-11,Bengaluru,Karnataka,55+,Male,Organic Search
+CUST01765,2026-06-24,Kolkata,West Bengal,35-44,Male,Organic Search
+CUST01097,2024-07-16,Kochi,Kerala,18-24,Male,Paid Ads
+CUST01692,2026-03-17,Pune,Maharashtra,25-34,Female,Social Media
+CUST02775,2024-10-08,Lucknow,Uttar Pradesh,35-44,Female,Organic Search
+CUST02084,2025-02-08,Ahmedabad,Gujarat,25-34,Male,Email Campaign
+CUST00148,2025-02-20,Kochi,Kerala,25-34,Female,Paid Ads
+CUST01462,2025-07-26,Ahmedabad,Gujarat,35-44,Male,Paid Ads
+CUST02616,2024-12-04,Ahmedabad,Gujarat,18-24,Female,Referral
+CUST00632,2026-03-03,Pune,Maharashtra,45-54,Female,Referral
+CUST00351,2024-09-03,Kolkata,West Bengal,35-44,Female,Paid Ads
+CUST02594,2025-02-10,Mumbai,Maharashtra,35-44,Male,Social Media
+CUST01321,2025-05-02,Chennai,Tamil Nadu,35-44,Female,Referral
+CUST02463,2024-05-09,Mumbai,Maharashtra,25-34,Male,Social Media
+CUST00566,2025-07-10,Pune,Maharashtra,18-24,Other,Paid Ads
+CUST00483,2024-02-02,Delhi,Delhi,45-54,Male,Paid Ads
+CUST01945,2024-09-09,Kochi,Kerala,25-34,Male,Paid Ads
+CUST02378,2025-11-07,Kolkata,West Bengal,45-54,Male,Organic Search
+CUST02025,2025-05-10,Pune,Maharashtra,55+,Female,Social Media
+CUST02134,2024-10-28,Lucknow,Uttar Pradesh,25-34,Male,Paid Ads
+CUST00128,2024-02-23,Jaipur,Rajasthan,55+,Male,Paid Ads
+CUST00579,2025-06-12,Hyderabad,Telangana,18-24,Male,Referral
+CUST02443,2024-06-10,Indore,Madhya Pradesh,55+,Male,Referral
+CUST01964,2024-04-13,Chandigarh,Chandigarh,18-24,Male,Direct
+CUST00544,2024-04-03,Delhi,Delhi,18-24,Male,Social Media
+CUST02018,2024-09-07,Pune,Maharashtra,18-24,Male,Social Media
+CUST02156,2025-01-29,Pune,Maharashtra,18-24,Female,Organic Search
+CUST02595,2025-10-20,Delhi,Delhi,25-34,Male,Referral
+CUST00356,2024-02-12,Coimbatore,Tamil Nadu,25-34,Male,Social Media
+CUST02157,2025-12-01,Coimbatore,Tamil Nadu,25-34,Female,Paid Ads
+CUST02790,2024-07-26,Kochi,Kerala,25-34,Male,Referral
+CUST01075,2026-05-23,Hyderabad,Telangana,18-24,Male,Organic Search
+CUST00364,2026-01-04,Lucknow,Uttar Pradesh,25-34,Female,Social Media
+CUST01757,2026-03-11,Bengaluru,Karnataka,25-34,Female,Direct
+CUST00797,2024-09-22,Chennai,Tamil Nadu,45-54,Male,Paid Ads
+CUST02132,2024-12-21,Surat,Gujarat,35-44,Other,Social Media
+CUST02612,2025-04-28,CHENNAI,Tamil Nadu,25-34,Female,Email Campaign
+CUST01366,2024-04-26,Delhi,Delhi,25-34,Female,Organic Search
+CUST02488,2024-10-07,Lucknow,Uttar Pradesh,25-34,Female,Paid Ads
+CUST01520,2024-11-18,Ahmedabad,Gujarat,45-54,Male,Organic Search
+CUST01892,2025-12-31,Hyderabad,Telangana,55+,Male,Paid Ads
+CUST00054,2025-07-23,Chandigarh,Chandigarh,35-44,Female,Organic Search
+CUST02146,2026-01-11,Delhi,Delhi,25-34,Female,Paid Ads
+CUST00746,2024-04-28,Indore,Madhya Pradesh,25-34,Male,Social Media
+CUST01646,2024-07-02,Ahmedabad,Gujarat,35-44,Female,Organic Search
+CUST02314,2024-02-07,Pune,Maharashtra,45-54,Female,Organic Search
+CUST01241,2026-05-12,Jaipur,Rajasthan,18-24,Female,Organic Search
+CUST00063,2024-01-10,Delhi,Delhi,25-34,Other,Direct
+CUST01341,2024-07-24,Ahmedabad,Gujarat,35-44,Male,Social Media
+CUST01190,2025-01-24,Indore,Madhya Pradesh,35-44,Male,Direct
+CUST00457,2024-01-07,Hyderabad,Telangana,25-34,Male,Paid Ads
+CUST02738,2025-01-13,Jaipur,Rajasthan,25-34,Female,Social Media
+CUST01749,2024-05-25,Kolkata,West Bengal,25-34,Male,Social Media
+CUST02864,2026-02-06,Kolkata,West Bengal,55+,Male,Organic Search
+CUST00007,2024-12-10,Chandigarh,Chandigarh,18-24,Male,Social Media
+CUST02321,2025-03-22,Kochi,Kerala,25-34,Male,Paid Ads
+CUST01282,2025-11-07,Bengaluru,Karnataka,18-24,Female,Social Media
+CUST00634,2025-03-26,Bengaluru,Karnataka,25-34,Male,Paid Ads
+CUST01150,2025-09-23,Kolkata,West Bengal,45-54,Female,Referral
+CUST02914,2024-09-14,Delhi,Delhi,35-44,Female,Organic Search
+CUST02707,2024-04-24,Kolkata,West Bengal,35-44,Other,Referral
+CUST02691,2024-05-11,Pune,Maharashtra,25-34,Female,Social Media
+CUST01776,2025-01-01,Kochi,Kerala,18-24,Female,Referral
+CUST02580,2024-02-06,Mumbai,Maharashtra,45-54,Female,Referral
+CUST00695,2025-03-30,Surat,Gujarat,45-54,Male,Email Campaign
+CUST00613,2025-10-04,Chennai,Tamil Nadu,25-34,Male,Referral
+CUST02661,2024-05-15,Kochi,Kerala,25-34,Male,Social Media
+CUST02121,2024-06-19,Mumbai,Maharashtra,35-44,Female,Organic Search
+CUST00465,2024-09-10,Chandigarh,Chandigarh,35-44,Female,Paid Ads
+CUST02768,2025-02-13,Kolkata,West Bengal,35-44,Female,Referral
+CUST02740,2025-03-17,Lucknow,Uttar Pradesh,25-34,Female,Paid Ads
+CUST02694,2024-01-28,Lucknow,Uttar Pradesh,25-34,Female,Paid Ads
+CUST00819,2026-04-23,Delhi,Delhi,18-24,Female,Social Media
+CUST01178,2026-06-19,Indore,Madhya Pradesh,18-24,Male,Social Media
+CUST01466,2024-03-09,Ahmedabad,Gujarat,35-44,Male,Social Media
+CUST01477,2024-06-15,Coimbatore,Tamil Nadu,18-24,Male,Organic Search
+CUST01436,2025-12-26,Indore,Madhya Pradesh,35-44,Female,Organic Search
+CUST01504,2025-11-26,Ahmedabad,Gujarat,25-34,Male,Paid Ads
+CUST00773,2024-08-04,Ahmedabad,Gujarat,45-54,Male,Social Media
+CUST00729,2026-06-25,Surat,Gujarat,55+,Female,Paid Ads
+CUST01800,2025-10-03,Lucknow,Uttar Pradesh,25-34,Male,Organic Search
+CUST02477,2024-08-17,Mumbai,Maharashtra,25-34,Male,Social Media
+CUST01631,2024-04-01,Pune,Maharashtra,18-24,Male,Social Media
+CUST01919,2024-08-31,Mumbai,Maharashtra,45-54,Female,Direct
+CUST02382,2025-04-29,Mumbai,Maharashtra,55+,Male,Paid Ads
+CUST02819,2025-03-11,Chennai,Tamil Nadu,35-44,Female,Organic Search
+CUST01124,2025-07-12,Lucknow,Uttar Pradesh,25-34,Female,Email Campaign
+CUST01727,2024-11-06,Kolkata,West Bengal,25-34,Male,Organic Search
+CUST00298,2026-03-05,Coimbatore,Tamil Nadu,25-34,Female,Paid Ads
+CUST00321,2025-01-05,Jaipur,Rajasthan,18-24,Male,Direct
+CUST01272,2024-11-05,Chandigarh,Chandigarh,25-34,Male,Social Media
+CUST00197,2024-01-03,Indore,Madhya Pradesh,25-34,Male,Referral
+CUST02758,2025-12-30,Ahmedabad,Gujarat,45-54,Male,Social Media
+CUST02507,2025-06-04,Kochi,Kerala,35-44,Female,Direct
+CUST01269,2024-04-25,Ahmedabad,Gujarat,25-34,Male,Organic Search
+CUST00520,2024-01-18,Mumbai,Maharashtra,25-34,Male,Direct
+CUST00813,2025-05-16,Bengaluru,Karnataka,35-44,Female,Organic Search
+CUST01660,2025-04-27,Ahmedabad,Gujarat,18-24,Male,Organic Search
+CUST00882,2025-07-20,Coimbatore,Tamil Nadu,35-44,Male,Referral
+CUST01353,2024-10-23,Chandigarh,Chandigarh,35-44,Male,Organic Search
+CUST02850,2025-02-03,Indore,Madhya Pradesh,18-24,Male,Social Media
+CUST01474,2025-12-02,Indore,Madhya Pradesh,35-44,Male,Paid Ads
+CUST01873,2026-06-05,Pune,Maharashtra,25-34,Female,Social Media
+CUST01848,2024-10-10,Chandigarh,Chandigarh,45-54,Male,Organic Search
+CUST01715,2025-01-21,Kochi,Kerala,25-34,Male,Social Media
+CUST00618,2025-02-11,Jaipur,Rajasthan,25-34,Male,Organic Search
+CUST01556,2024-06-29,Jaipur,Rajasthan,35-44,Male,Paid Ads
+CUST00827,2025-03-30,Pune,Maharashtra,25-34,Female,Social Media
+CUST02386,2024-05-18,Chennai,Tamil Nadu,25-34,Male,Social Media
+CUST02202,2024-04-09,Surat,Gujarat,25-34,Female,Referral
+CUST01416,2025-07-28,Delhi,Delhi,35-44,Male,Direct
+CUST01885,2024-08-10,Coimbatore,Tamil Nadu,45-54,Male,Paid Ads
+CUST01345,2025-10-30,Bengaluru,Karnataka,35-44,Female,Paid Ads
+CUST00254,2024-05-14,Mumbai,Maharashtra,18-24,Female,Organic Search
+CUST01495,2026-02-11,Coimbatore,Tamil Nadu,25-34,Other,Organic Search
+CUST02076,2024-10-24,Delhi,Delhi,25-34,Male,Organic Search
+CUST00824,2025-12-29,Kolkata,West Bengal,35-44,Male,Email Campaign
+CUST01853,2024-12-20,Indore,Madhya Pradesh,35-44,Male,Social Media
+CUST02627,2024-03-20,  kolkata  ,West Bengal,45-54,Male,Referral
+CUST02670,2024-09-21,Hyderabad,Telangana,25-34,Male,Email Campaign
+CUST01035,2026-02-09,Kochi,Kerala,25-34,Female,Organic Search
+CUST01081,2024-02-02,Chandigarh,Chandigarh,25-34,Female,Direct
+CUST01594,2025-04-09,Coimbatore,Tamil Nadu,45-54,Female,Organic Search
+CUST00850,2024-02-17,Ahmedabad,Gujarat,18-24,Female,Organic Search
+CUST00792,2024-04-20,Surat,Gujarat,25-34,Male,Organic Search
+CUST00713,2024-05-25,Lucknow,Uttar Pradesh,35-44,Male,Direct
+CUST00546,2025-06-08,Jaipur,Rajasthan,25-34,Male,Social Media
+CUST01849,2025-07-13,Mumbai,Maharashtra,25-34,Male,Social Media
+CUST01510,2026-02-13,Chennai,Tamil Nadu,35-44,Female,Social Media
+CUST00719,2025-01-08,Indore,Madhya Pradesh,55+,Male,Direct
+CUST02955,2025-10-19,Kochi,Kerala,35-44,Female,Referral
+CUST01111,2026-01-05,Lucknow,Uttar Pradesh,18-24,Female,Organic Search
+CUST02320,2024-01-11,Indore,Madhya Pradesh,18-24,Other,Email Campaign
+CUST00968,2024-06-14,Lucknow,Uttar Pradesh,35-44,Male,Organic Search
+CUST02658,2026-02-24,Mumbai,Maharashtra,18-24,Male,Referral
+CUST01159,2025-12-14,Chandigarh,Chandigarh,35-44,Male,Paid Ads
+CUST01232,2026-02-24,Kolkata,West Bengal,18-24,Female,Social Media
+CUST02898,2024-12-11,Jaipur,Rajasthan,25-34,Female,Organic Search
+CUST01490,2025-08-24,Hyderabad,Telangana,45-54,Male,Social Media
+CUST02617,2024-12-24,DELHI,Delhi,35-44,Female,Social Media
+CUST01258,2024-06-24,Hyderabad,Telangana,18-24,Female,Social Media
+CUST02267,2025-03-16,Lucknow,Uttar Pradesh,25-34,Other,Organic Search
+CUST01222,2025-09-18,Hyderabad,Telangana,18-24,Female,Direct
+CUST02049,2024-04-01,Surat,Gujarat,25-34,Male,Organic Search
+CUST01442,2025-07-13,Kochi,Kerala,55+,Male,Paid Ads
+CUST01181,2024-01-27,Bengaluru,Karnataka,35-44,Female,Organic Search
+CUST01667,2025-10-25,Chennai,Tamil Nadu,25-34,Male,Social Media
+CUST00405,2024-06-12,Chandigarh,Chandigarh,25-34,Female,Social Media
+CUST00741,2025-07-21,Kochi,Kerala,35-44,Female,Organic Search
+CUST02895,2025-05-07,Lucknow,Uttar Pradesh,25-34,Male,Referral
+CUST01971,2026-01-12,Pune,Maharashtra,45-54,Female,Organic Search
+CUST02440,2024-05-10,Delhi,Delhi,35-44,Male,Organic Search
+CUST01974,2025-02-27,Jaipur,Rajasthan,35-44,Male,Referral
+CUST00857,2024-11-24,Ahmedabad,Gujarat,25-34,Other,Organic Search
+CUST02991,2024-07-07,Delhi,Delhi,25-34,Male,Social Media
+CUST01247,2024-07-13,Bengaluru,Karnataka,25-34,Female,Email Campaign
+CUST02781,2024-01-13,Lucknow,Uttar Pradesh,25-34,Female,Paid Ads
+CUST02026,2024-04-11,Bengaluru,Karnataka,25-34,Female,Email Campaign
+CUST00556,2024-11-24,Chennai,Tamil Nadu,35-44,Female,Social Media
+CUST00010,2026-06-01,Coimbatore,Tamil Nadu,25-34,Male,Organic Search
+CUST01619,2026-02-06,Bengaluru,Karnataka,25-34,Male,Email Campaign
+CUST02941,2026-04-12,Pune,Maharashtra,45-54,Female,Social Media
+CUST02542,2024-08-25,Delhi,Delhi,35-44,Male,Organic Search
+CUST02360,2024-04-06,Chandigarh,Chandigarh,18-24,Female,Social Media
+CUST01285,2026-01-05,Pune,Maharashtra,55+,Male,Organic Search
+CUST00087,2025-07-03,Indore,Madhya Pradesh,25-34,Male,Email Campaign
+CUST02703,2025-12-03,Pune,Maharashtra,25-34,Female,Direct
+CUST02473,2024-08-28,Mumbai,Maharashtra,35-44,Female,Social Media
+CUST00517,2024-03-10,Hyderabad,Telangana,35-44,Male,Referral
+CUST01741,2025-06-28,Coimbatore,Tamil Nadu,18-24,Male,Paid Ads
+CUST01769,2024-01-10,Coimbatore,Tamil Nadu,35-44,Male,Email Campaign
+CUST01883,2024-09-02,Mumbai,Maharashtra,45-54,Male,Email Campaign
+CUST01869,2024-07-22,  bengaluru  ,Karnataka,18-24,Other,Social Media
+CUST02167,2025-03-13,Lucknow,Uttar Pradesh,55+,Male,Organic Search
+CUST01171,2025-09-19,Surat,Gujarat,45-54,Female,Social Media
+CUST00135,2024-07-22,Kochi,Kerala,18-24,Female,Referral
+CUST01967,2025-05-12,Chennai,Tamil Nadu,25-34,Male,Social Media
+CUST02770,2025-08-16,Indore,Madhya Pradesh,35-44,Male,Organic Search
+CUST00964,2025-05-28,Mumbai,Maharashtra,45-54,Male,Organic Search
+CUST00766,2024-02-08,Ahmedabad,Gujarat,18-24,Male,Referral
+CUST01841,2025-02-09,Hyderabad,Telangana,25-34,Male,Social Media
+CUST00543,2026-03-13,Kochi,Kerala,35-44,Female,Social Media
+CUST00494,2025-01-20,Chennai,Tamil Nadu,18-24,Female,Organic Search
+CUST01900,2024-09-12,Coimbatore,Tamil Nadu,25-34,Male,Organic Search
+CUST00698,2025-11-30,Pune,Maharashtra,25-34,Male,Email Campaign
+CUST00407,2024-08-08,Hyderabad,Telangana,35-44,Male,Social Media
+CUST00997,2025-12-24,Surat,Gujarat,18-24,Male,Referral
+CUST01926,2025-05-18,Indore,Madhya Pradesh,18-24,Male,Referral
+CUST00524,2024-03-21,Pune,Maharashtra,25-34,Male,Referral
+CUST02369,2025-04-05,Jaipur,Rajasthan,55+,Female,Organic Search
+CUST02356,2026-06-21,Chennai,Tamil Nadu,18-24,Female,Email Campaign
+CUST01117,2025-11-03,Jaipur,Rajasthan,25-34,Female,Organic Search
+CUST01420,2024-02-25,Chennai,Tamil Nadu,18-24,Male,Social Media
+CUST02605,2024-06-14,Mumbai,Maharashtra,25-34,Male,Organic Search
+CUST01273,2024-09-06,Lucknow,Uttar Pradesh,25-34,Other,Social Media
+CUST02943,2024-04-11,Kolkata,West Bengal,25-34,Male,Organic Search
+CUST01467,2026-06-08,Pune,Maharashtra,25-34,Female,Direct
+CUST00885,2026-02-18,Delhi,Delhi,25-34,Female,Referral
+CUST00786,2025-10-24,Bengaluru,Karnataka,18-24,Female,Organic Search
+CUST02036,2026-03-12,Coimbatore,Tamil Nadu,25-34,Female,Organic Search
+CUST02020,2026-03-25,  kochi  ,Kerala,35-44,Male,Social Media
+CUST00893,2025-06-07,Hyderabad,Telangana,35-44,Female,Social Media
+CUST01343,2025-03-28,Coimbatore,Tamil Nadu,35-44,Male,Organic Search
+CUST01050,2025-09-19,Surat,Gujarat,35-44,Female,Organic Search
+CUST00605,2024-12-25,Kochi,Kerala,45-54,Female,Social Media
+CUST01119,2025-11-21,Kolkata,West Bengal,25-34,Female,Email Campaign
+CUST01779,2024-07-19,Mumbai,Maharashtra,55+,Female,Organic Search
+CUST01735,2024-08-26,Pune,Maharashtra,45-54,Male,Organic Search
+CUST02842,2025-05-18,Jaipur,Rajasthan,25-34,Male,Organic Search
+CUST02545,2024-01-27,Indore,Madhya Pradesh,25-34,Male,Direct
+CUST01371,2024-06-21,Pune,Maharashtra,35-44,Female,Social Media
+CUST02285,2025-04-06,Coimbatore,Tamil Nadu,45-54,Male,Organic Search
+CUST01698,2026-06-15,Surat,Gujarat,25-34,Male,Social Media
+CUST02448,2026-01-21,Indore,Madhya Pradesh,25-34,Female,Email Campaign
+CUST02511,2025-07-05,Pune,Maharashtra,35-44,Female,Referral
+CUST02865,2026-03-29,Delhi,Delhi,25-34,Male,Referral
+CUST01300,2024-02-04,Kolkata,West Bengal,55+,Female,Paid Ads
+CUST01596,2025-05-21,Kochi,Kerala,25-34,Male,Organic Search
+CUST00419,2025-06-29,Jaipur,Rajasthan,25-34,Female,Social Media
+CUST01533,2025-03-07,Jaipur,Rajasthan,25-34,Female,Referral
+CUST01315,2024-09-24,Bengaluru,Karnataka,35-44,Male,Organic Search
+CUST01870,2024-10-25,Hyderabad,Telangana,35-44,Male,Organic Search
+CUST01411,2024-10-30,Mumbai,Maharashtra,25-34,Male,Direct
+CUST01144,2025-05-28,Pune,Maharashtra,25-34,Female,Paid Ads
+CUST02150,2026-03-21,Mumbai,Maharashtra,18-24,Female,Social Media
+CUST00108,2025-04-12,Delhi,Delhi,18-24,Male,Referral
+CUST00178,2026-05-06,Surat,Gujarat,45-54,Female,Organic Search
+CUST00345,2025-05-26,Indore,Madhya Pradesh,35-44,Male,Referral
+CUST02893,2026-03-24,Mumbai,Maharashtra,18-24,Male,Organic Search
+CUST02005,2024-07-02,Chandigarh,Chandigarh,45-54,Female,Social Media
+CUST02459,2025-01-11,Coimbatore,Tamil Nadu,25-34,Male,Email Campaign
+CUST00514,2024-07-07,Ahmedabad,Gujarat,45-54,Female,Referral
+CUST00523,2025-09-26,Hyderabad,Telangana,25-34,Female,Organic Search
+CUST01077,2024-01-20,Kolkata,West Bengal,18-24,Other,Organic Search
+CUST01025,2026-05-27,Chandigarh,Chandigarh,25-34,Male,Social Media
+CUST00633,2024-05-26,  surat  ,Gujarat,18-24,Female,Referral
+CUST01770,2025-05-15,Kochi,Kerala,35-44,Female,Paid Ads
+CUST02299,2025-01-17,Kolkata,West Bengal,45-54,Female,Social Media
+CUST02437,2024-07-13,Ahmedabad,Gujarat,45-54,Female,Social Media
+CUST01211,2025-11-06,Lucknow,Uttar Pradesh,25-34,Male,Organic Search
+CUST01677,2026-06-21,Kolkata,West Bengal,25-34,Female,Organic Search
+CUST01664,2025-05-14,Mumbai,Maharashtra,25-34,Female,Paid Ads
+CUST01257,2024-10-04,Kolkata,West Bengal,18-24,Female,Social Media
+CUST01821,2024-01-07,Indore,Madhya Pradesh,25-34,Male,Organic Search
+CUST00218,2024-06-10,Jaipur,Rajasthan,18-24,Female,Direct
+CUST02246,2024-02-07,Delhi,Delhi,25-34,Other,Social Media
+CUST02718,2026-04-25,Coimbatore,Tamil Nadu,45-54,Female,Paid Ads
+CUST00974,2025-02-24,Indore,Madhya Pradesh,35-44,Female,Paid Ads
+CUST00961,2025-01-09,Pune,Maharashtra,35-44,Female,Organic Search
+CUST01788,2025-04-22,Jaipur,Rajasthan,25-34,Female,Organic Search
+CUST01959,2025-04-06,Delhi,Delhi,35-44,Male,Organic Search
+CUST00412,2026-02-21,Ahmedabad,Gujarat,25-34,Female,Referral
+CUST00195,2026-02-03,Jaipur,Rajasthan,45-54,Female,Organic Search
+CUST01448,2025-08-20,Hyderabad,Telangana,25-34,Female,Paid Ads
+CUST02960,2024-03-25,Lucknow,Uttar Pradesh,25-34,Male,Paid Ads
+CUST00290,2026-05-03,Jaipur,Rajasthan,35-44,Male,Social Media
+CUST01799,2024-05-10,Chandigarh,Chandigarh,18-24,Female,Organic Search
+CUST01339,2024-10-10,Delhi,Delhi,35-44,Male,Social Media
+CUST00021,2025-08-21,Kochi,Kerala,25-34,Female,Social Media
+CUST02512,2025-09-13,Mumbai,Maharashtra,25-34,Female,Social Media
+CUST01934,2026-02-19,Mumbai,Maharashtra,25-34,Female,Paid Ads
+CUST00250,2024-07-29,Lucknow,Uttar Pradesh,18-24,Female,Organic Search
+CUST00286,2025-11-14,Jaipur,Rajasthan,25-34,Male,Direct
+CUST00539,2024-11-30,Chandigarh,Chandigarh,18-24,Male,Direct
+CUST02257,2026-02-08,Kochi,Kerala,35-44,Female,Referral
+CUST01506,2024-05-26,Delhi,Delhi,25-34,Female,Direct
+CUST00629,2025-12-13,Mumbai,Maharashtra,25-34,Male,Email Campaign
+CUST00325,2025-09-24,Chandigarh,Chandigarh,18-24,Male,Organic Search
+CUST01958,2025-12-21,BENGALURU,Karnataka,18-24,Female,Referral
+CUST01189,2024-09-09,Coimbatore,Tamil Nadu,25-34,Female,Referral
+CUST01158,2025-06-23,Surat,Gujarat,18-24,Male,Social Media
+CUST00251,2026-04-12,  hyderabad  ,Telangana,45-54,Male,Organic Search
+CUST02069,2026-05-01,Hyderabad,Telangana,35-44,Female,Paid Ads
+CUST00287,2024-01-08,Mumbai,Maharashtra,25-34,Female,Paid Ads
+CUST01508,2026-05-14,Lucknow,Uttar Pradesh,55+,Male,Email Campaign
+CUST01676,2024-11-06,Ahmedabad,Gujarat,25-34,Female,Direct
+CUST01540,2026-05-14,Kochi,Kerala,35-44,Female,Organic Search
+CUST00097,2025-07-15,Pune,Maharashtra,45-54,Male,Organic Search
+CUST02142,2024-07-08,Ahmedabad,Gujarat,45-54,Male,Referral
+CUST01259,2024-02-21,Ahmedabad,Gujarat,18-24,Male,Paid Ads
+CUST00387,2024-05-12,Chandigarh,Chandigarh,25-34,Female,Organic Search
+CUST01647,2026-06-16,Pune,Maharashtra,35-44,Male,Paid Ads
+CUST01752,2024-03-03,Chennai,Tamil Nadu,25-34,Female,Organic Search
+CUST01114,2024-02-29,Kochi,Kerala,45-54,Male,Organic Search
+CUST02731,2025-12-27,Mumbai,Maharashtra,25-34,Male,Social Media
+CUST00600,2025-01-10,Indore,Madhya Pradesh,25-34,Female,Paid Ads
+CUST01082,2024-09-29,Mumbai,Maharashtra,35-44,Male,Social Media
+CUST02643,2025-05-17,Ahmedabad,Gujarat,18-24,Female,Referral
+CUST01771,2025-10-28,Surat,Gujarat,18-24,Male,Email Campaign
+CUST00858,2025-07-17,Hyderabad,Telangana,35-44,Male,Organic Search
+CUST00985,2024-04-10,Lucknow,Uttar Pradesh,25-34,Male,Paid Ads
+CUST01528,2024-01-28,Lucknow,Uttar Pradesh,35-44,Female,Social Media
+CUST00765,2025-02-24,Coimbatore,Tamil Nadu,25-34,Female,Referral
+CUST01557,2024-01-21,Chandigarh,Chandigarh,18-24,Female,Social Media
+CUST01867,2025-10-16,Ahmedabad,Gujarat,45-54,Male,Organic Search
+CUST01095,2025-07-03,Kochi,Kerala,35-44,Male,Organic Search
+CUST00080,2026-04-10,Chandigarh,Chandigarh,18-24,Male,Organic Search
+CUST00134,2024-11-15,Coimbatore,Tamil Nadu,35-44,Female,Social Media
+CUST02573,2026-06-15,Lucknow,Uttar Pradesh,18-24,Male,Referral
+CUST01491,2024-05-29,Delhi,Delhi,45-54,Female,Direct
+CUST01832,2024-02-17,Hyderabad,Telangana,35-44,Female,Email Campaign
+CUST01066,2025-01-09,Chennai,Tamil Nadu,25-34,Male,Organic Search
+CUST02393,2024-05-10,Kolkata,West Bengal,35-44,Female,Email Campaign
+CUST00890,2024-03-04,Indore,Madhya Pradesh,35-44,Male,Paid Ads
+CUST02886,2025-08-07,Indore,Madhya Pradesh,18-24,Male,Organic Search
+CUST02325,2025-01-23,Chandigarh,Chandigarh,25-34,Male,Organic Search
+CUST00530,2026-06-07,  coimbatore  ,Tamil Nadu,35-44,Female,Organic Search
+CUST01449,2024-01-24,Hyderabad,Telangana,18-24,Female,Paid Ads
+CUST00274,2025-07-23,Indore,Madhya Pradesh,25-34,Female,Referral
+CUST02988,2025-08-10,Pune,Maharashtra,35-44,Female,Paid Ads
+CUST02845,2025-09-16,Ahmedabad,Gujarat,35-44,Male,Organic Search
+CUST01498,2025-03-10,Pune,Maharashtra,25-34,Male,Organic Search
+CUST00181,2025-03-22,Lucknow,Uttar Pradesh,35-44,Female,Organic Search
+CUST01098,2024-02-10,Chennai,Tamil Nadu,25-34,Male,Social Media
+CUST01408,2025-04-19,Ahmedabad,Gujarat,35-44,Female,Social Media
+CUST00133,2026-04-18,Chandigarh,Chandigarh,18-24,Male,Referral
+CUST02835,2026-01-26,Kochi,Kerala,25-34,Female,Email Campaign
+CUST02158,2025-05-18,Delhi,Delhi,18-24,Male,Organic Search
+CUST02950,2024-11-20,Hyderabad,Telangana,45-54,Male,Paid Ads
+CUST00937,2024-09-13,Delhi,Delhi,18-24,Female,Social Media
+CUST00506,2026-06-22,Jaipur,Rajasthan,25-34,Male,Direct
+CUST00281,2025-01-13,Bengaluru,Karnataka,25-34,Male,Direct
+CUST01524,2025-08-08,Jaipur,Rajasthan,25-34,Female,Organic Search
+CUST01459,2024-10-06,Coimbatore,Tamil Nadu,25-34,Female,Paid Ads
+CUST01840,2024-02-07,Surat,Gujarat,25-34,Female,Social Media
+CUST00137,2026-03-26,Delhi,Delhi,55+,Female,Social Media
+CUST02640,2024-10-08,Surat,Gujarat,35-44,Male,Direct
+CUST01229,2025-09-22,  chandigarh  ,Chandigarh,55+,Male,Social Media
+CUST00113,2024-09-01,Surat,Gujarat,25-34,Male,Social Media
+CUST00155,2025-08-26,  kochi  ,Kerala,55+,Female,Social Media
+CUST02408,2024-05-25,Bengaluru,Karnataka,45-54,Female,Organic Search
+CUST00331,2026-02-26,Ahmedabad,Gujarat,25-34,Male,Referral
+CUST00370,2024-02-03,Lucknow,Uttar Pradesh,35-44,Female,Direct
+CUST01121,2025-06-30,Bengaluru,Karnataka,55+,Male,Social Media
+CUST01745,2024-11-20,Jaipur,Rajasthan,25-34,Male,Direct
+CUST01043,2024-04-08,  surat  ,Gujarat,25-34,Male,Social Media
+CUST02190,2025-06-18,Delhi,Delhi,25-34,Female,Paid Ads
+CUST00674,2024-01-10,Coimbatore,Tamil Nadu,55+,Male,Paid Ads
+CUST02200,2024-12-31,Mumbai,Maharashtra,35-44,Female,Referral
+CUST00070,2024-12-17,  kochi  ,Kerala,25-34,Female,Organic Search
+CUST01566,2025-08-26,Indore,Madhya Pradesh,18-24,Female,Paid Ads
+CUST00114,2024-12-09,Chennai,Tamil Nadu,25-34,Female,Organic Search
+CUST00995,2025-04-02,Hyderabad,Telangana,35-44,Female,Organic Search
+CUST01167,2024-08-29,Chennai,Tamil Nadu,55+,Other,Organic Search
+CUST02968,2025-01-14,Pune,Maharashtra,25-34,Female,Organic Search
+CUST00648,2025-03-09,Pune,Maharashtra,35-44,Male,Referral
+CUST01340,2024-09-21,Mumbai,Maharashtra,55+,Male,Social Media
+CUST02428,2024-09-13,Lucknow,Uttar Pradesh,18-24,Female,Organic Search
+CUST01223,2024-03-30,Jaipur,Rajasthan,25-34,Female,Direct
+CUST00593,2026-05-12,Kolkata,West Bengal,25-34,Male,Social Media
+CUST00747,2024-09-28,Surat,Gujarat,18-24,Female,Organic Search
+CUST01536,2026-02-22,Chandigarh,Chandigarh,35-44,Male,Social Media
+CUST01723,2026-06-02,Jaipur,Rajasthan,25-34,Female,Social Media
+CUST01925,2025-06-17,Pune,Maharashtra,25-34,Male,Organic Search
+CUST02050,2026-03-28,INDORE,Madhya Pradesh,25-34,Male,Social Media
+CUST00431,2026-06-07,Chandigarh,Chandigarh,35-44,Female,Paid Ads
+CUST01470,2024-05-18,Kochi,Kerala,25-34,Male,Social Media
+CUST01748,2024-07-04,Kolkata,West Bengal,18-24,Male,Social Media
+CUST01792,2024-09-12,Delhi,Delhi,18-24,Male,Organic Search
+CUST01578,2025-02-26,Kochi,Kerala,45-54,Male,Social Media
+CUST02754,2024-11-28,  mumbai  ,Maharashtra,35-44,Male,Referral
+CUST01352,2026-05-23,Jaipur,Rajasthan,55+,Male,Social Media
+CUST00839,2024-10-24,Indore,Madhya Pradesh,25-34,Female,Social Media
+CUST00822,2026-04-11,Bengaluru,Karnataka,25-34,Male,Paid Ads
+CUST02755,2024-04-03,Surat,Gujarat,55+,Male,Referral
+CUST00686,2024-04-02,  delhi  ,Delhi,18-24,Female,Paid Ads
+CUST02433,2026-03-19,Chandigarh,Chandigarh,18-24,Female,Referral
+CUST02099,2026-04-09,Chandigarh,Chandigarh,18-24,Female,Referral
+CUST01468,2024-05-02,Indore,Madhya Pradesh,25-34,Female,Organic Search
+CUST00578,2024-04-21,Surat,Gujarat,35-44,Male,Direct
+CUST01039,2024-01-10,Chandigarh,Chandigarh,18-24,Female,Direct
+CUST01740,2026-02-07,Hyderabad,Telangana,25-34,Female,Organic Search
+CUST00184,2026-02-17,Indore,Madhya Pradesh,35-44,Male,Social Media
+CUST00725,2024-01-02,Kochi,Kerala,55+,Female,Social Media
+CUST00012,2024-04-13,Indore,Madhya Pradesh,25-34,Male,Email Campaign
+CUST00101,2024-12-09,Lucknow,Uttar Pradesh,18-24,Female,Organic Search
+CUST02888,2026-06-27,Chennai,Tamil Nadu,35-44,Male,Organic Search
+CUST02250,2025-05-26,Kochi,Kerala,35-44,Male,Social Media
+CUST02531,2025-12-17,Ahmedabad,Gujarat,18-24,Male,Paid Ads
+CUST00318,2025-09-01,Bengaluru,Karnataka,35-44,Male,Referral
+CUST01173,2025-07-09,Ahmedabad,Gujarat,18-24,Female,Referral
+CUST00201,2026-03-05,Indore,Madhya Pradesh,25-34,Male,Social Media
+CUST00077,2024-02-10,Indore,Madhya Pradesh,45-54,Male,Organic Search
+CUST01246,2025-03-30,Delhi,Delhi,25-34,Female,Email Campaign
+CUST00559,2025-02-06,  chandigarh  ,Chandigarh,25-34,Female,Organic Search
+CUST02855,2024-02-10,Indore,Madhya Pradesh,35-44,Female,Direct
+CUST00595,2025-10-30,Jaipur,Rajasthan,25-34,Female,Social Media
+CUST02891,2024-05-14,  coimbatore  ,Tamil Nadu,25-34,Male,Organic Search
+CUST00711,2024-06-29,Bengaluru,Karnataka,25-34,Male,Paid Ads
+CUST01963,2024-12-16,Delhi,Delhi,18-24,Male,Social Media
+CUST02094,2025-12-01,Chandigarh,Chandigarh,25-34,Female,Social Media
+CUST01921,2024-02-10,Chandigarh,Chandigarh,25-34,Other,Referral
+CUST01155,2024-12-05,Mumbai,Maharashtra,25-34,Female,Organic Search
+CUST02925,2025-01-25,MUMBAI,Maharashtra,45-54,Male,Referral
+CUST02326,2024-05-02,Ahmedabad,Gujarat,18-24,Female,Paid Ads
+CUST00920,2024-03-30,Mumbai,Maharashtra,18-24,Male,Organic Search
+CUST01872,2024-04-23,Bengaluru,Karnataka,18-24,Male,Paid Ads
+CUST00496,2025-07-29,Mumbai,Maharashtra,25-34,Male,Referral
+CUST02566,2024-11-22,Ahmedabad,Gujarat,35-44,Male,Social Media
+CUST00815,2024-02-08,Mumbai,Maharashtra,25-34,Female,Direct
+CUST01045,2024-12-25,Delhi,Delhi,45-54,Other,Organic Search
+CUST00257,2025-08-30,Jaipur,Rajasthan,18-24,Female,Direct
+CUST02238,2025-07-02,Ahmedabad,Gujarat,35-44,Male,Paid Ads
+CUST01904,2026-04-15,Delhi,Delhi,25-34,Female,Organic Search
+CUST01168,2025-10-02,Mumbai,Maharashtra,25-34,Male,Direct
+CUST00468,2024-06-02,Jaipur,Rajasthan,18-24,Female,Social Media
+CUST02771,2025-11-03,Pune,Maharashtra,25-34,Female,Paid Ads
+CUST01701,2024-05-30,Coimbatore,Tamil Nadu,35-44,Male,Organic Search
+CUST00005,2025-04-04,Hyderabad,Telangana,35-44,Female,Organic Search
+CUST02653,2024-02-15,Ahmedabad,Gujarat,25-34,Male,Referral
+CUST02829,2025-07-04,Chennai,Tamil Nadu,25-34,Female,Organic Search
+CUST00867,2024-12-29,Kolkata,West Bengal,45-54,Other,Social Media
+CUST01742,2026-04-29,Hyderabad,Telangana,35-44,Female,Social Media
+CUST01999,2024-10-17,Lucknow,Uttar Pradesh,18-24,Female,Paid Ads
+CUST02679,2026-06-17,COIMBATORE,Tamil Nadu,25-34,Female,Email Campaign
+CUST02391,2025-07-26,Coimbatore,Tamil Nadu,18-24,Female,Organic Search
+CUST02045,2026-01-01,Hyderabad,Telangana,25-34,Female,Paid Ads
+CUST01843,2024-10-29,Delhi,Delhi,25-34,Male,Referral
+CUST00577,2024-02-15,Chennai,Tamil Nadu,45-54,Male,Email Campaign
+CUST02709,2025-12-25,Coimbatore,Tamil Nadu,35-44,Male,Paid Ads
+CUST01417,2025-07-06,Hyderabad,Telangana,18-24,Male,Direct
+CUST00612,2026-05-13,Chandigarh,Chandigarh,35-44,Female,Referral
+CUST02897,2025-07-12,Chennai,Tamil Nadu,25-34,Female,Paid Ads
+CUST02878,2024-01-27,Chandigarh,Chandigarh,25-34,Female,Organic Search
+CUST01252,2024-02-17,Coimbatore,Tamil Nadu,18-24,Female,Paid Ads
+CUST02749,2025-04-05,Indore,Madhya Pradesh,18-24,Female,Social Media
+CUST02521,2025-03-07,Pune,Maharashtra,25-34,Male,Social Media
+CUST00565,2025-02-14,Lucknow,Uttar Pradesh,25-34,Female,Email Campaign
+CUST00916,2025-10-03,Mumbai,Maharashtra,18-24,Female,Paid Ads
+CUST02334,2026-02-18,Lucknow,Uttar Pradesh,25-34,Female,Paid Ads
+CUST01403,2025-06-27,Pune,Maharashtra,25-34,Female,Paid Ads
+CUST02593,2025-07-13,Chandigarh,Chandigarh,35-44,Male,Referral
+CUST00292,2025-08-12,Kolkata,West Bengal,25-34,Male,Referral
+CUST02538,2026-01-22,Indore,Madhya Pradesh,45-54,Female,Social Media
+CUST00508,2024-02-16,Pune,Maharashtra,35-44,Male,Organic Search
+CUST01423,2026-04-08,Kochi,Kerala,55+,Female,Organic Search
+CUST00036,2025-09-13,Indore,Madhya Pradesh,25-34,Male,Referral
+CUST02174,2024-01-03,Kolkata,West Bengal,25-34,Female,Social Media
+CUST02001,2024-10-07,Delhi,Delhi,55+,Female,Social Media
+CUST02801,2025-05-13,Lucknow,Uttar Pradesh,25-34,Male,Social Media
+CUST01621,2024-07-03,Lucknow,Uttar Pradesh,25-34,Male,Paid Ads
+CUST02474,2024-01-22,Delhi,Delhi,25-34,Male,Organic Search
+CUST02592,2024-01-18,Pune,Maharashtra,55+,Female,Direct
+CUST02963,2025-10-25,Ahmedabad,Gujarat,45-54,Male,Social Media
+CUST00219,2025-10-16,Chennai,Tamil Nadu,55+,Female,Social Media
+CUST00585,2024-09-25,Delhi,Delhi,35-44,Female,Direct
+CUST00715,2024-08-26,Mumbai,Maharashtra,35-44,Male,Social Media
+CUST01017,2024-11-19,Chandigarh,Chandigarh,25-34,Male,Referral
+CUST02772,2024-09-27,Hyderabad,Telangana,18-24,Female,Organic Search
+CUST02885,2025-11-15,Lucknow,Uttar Pradesh,35-44,Male,Paid Ads
+CUST00601,2025-07-13,Ahmedabad,Gujarat,25-34,Male,Paid Ads
+CUST02927,2026-02-15,Ahmedabad,Gujarat,25-34,Female,Organic Search
+CUST02999,2025-03-27,Bengaluru,Karnataka,35-44,Female,Organic Search
+CUST02636,2026-06-16,Jaipur,Rajasthan,55+,Female,Social Media
+CUST01943,2026-02-08,Chandigarh,Chandigarh,35-44,Female,Social Media
+CUST01489,2024-01-11,Surat,Gujarat,35-44,Female,Email Campaign
+CUST01875,2025-08-24,Chennai,Tamil Nadu,25-34,Female,Social Media
+CUST01931,2026-06-02,Chennai,Tamil Nadu,35-44,Male,Direct
+CUST02933,2026-04-05,Kochi,Kerala,25-34,Female,Organic Search
+CUST02760,2025-03-30,Lucknow,Uttar Pradesh,55+,Female,Direct
+CUST00439,2024-10-04,Jaipur,Rajasthan,55+,Female,Organic Search
+CUST00682,2026-05-01,Kochi,Kerala,35-44,Male,Organic Search
+CUST00764,2024-04-13,  chandigarh  ,Chandigarh,35-44,Female,Email Campaign
+CUST02958,2025-06-29,Kolkata,West Bengal,25-34,Male,Social Media
+CUST00651,2026-05-04,Chandigarh,Chandigarh,35-44,Female,Social Media
+CUST01563,2026-04-06,Chandigarh,Chandigarh,25-34,Female,Paid Ads
+CUST00277,2025-12-11,Indore,Madhya Pradesh,25-34,Male,Paid Ads
+CUST02492,2025-07-23,Indore,Madhya Pradesh,25-34,Male,Direct
+CUST01754,2025-08-23,Jaipur,Rajasthan,35-44,Male,Referral
+CUST02028,2025-07-03,Indore,Madhya Pradesh,35-44,Female,Organic Search
+CUST01856,2025-04-30,Hyderabad,Telangana,25-34,Female,Referral
+CUST00493,2026-03-15,Pune,Maharashtra,25-34,Female,Social Media
+CUST02995,2024-01-05,Mumbai,Maharashtra,25-34,Male,Paid Ads
+CUST00993,2024-09-16,Ahmedabad,Gujarat,55+,Female,Paid Ads
+CUST01068,2024-01-09,Jaipur,Rajasthan,35-44,Female,Paid Ads
+CUST01889,2024-12-17,Pune,Maharashtra,35-44,Female,Social Media
+CUST01009,2026-04-15,Kolkata,West Bengal,25-34,Female,Organic Search
+CUST02033,2025-07-29,Delhi,Delhi,25-34,Female,Organic Search
+CUST00914,2024-02-14,Ahmedabad,Gujarat,25-34,Female,Social Media
+CUST00324,2026-01-26,Indore,Madhya Pradesh,45-54,Male,Social Media
+CUST00368,2024-05-26,Mumbai,Maharashtra,45-54,Female,Social Media
+CUST01483,2024-06-25,Kolkata,West Bengal,35-44,Male,Paid Ads
+CUST02716,2025-07-01,Delhi,Delhi,18-24,Female,Referral
+CUST02558,2026-05-27,Jaipur,Rajasthan,35-44,Male,Social Media
+CUST02675,2025-01-01,Bengaluru,Karnataka,25-34,Male,Organic Search
+CUST00311,2024-03-27,Kochi,Kerala,25-34,Male,Organic Search
+CUST02137,2024-04-18,Lucknow,Uttar Pradesh,35-44,Female,Direct
+CUST01152,2026-02-14,Bengaluru,Karnataka,35-44,Male,Paid Ads
+CUST00166,2025-09-27,Lucknow,Uttar Pradesh,18-24,Other,Organic Search
+CUST01330,2024-01-09,Surat,Gujarat,45-54,Male,Organic Search
+CUST00238,2024-12-01,Jaipur,Rajasthan,45-54,Male,Organic Search
+CUST00511,2025-07-17,Ahmedabad,Gujarat,35-44,Female,Organic Search
+CUST01212,2024-01-07,Lucknow,Uttar Pradesh,25-34,Female,Referral
+CUST02883,2026-05-27,Bengaluru,Karnataka,35-44,Female,Social Media
+CUST01822,2024-05-25,Delhi,Delhi,25-34,Male,Referral
+CUST01987,2025-07-01,Bengaluru,Karnataka,35-44,Female,Paid Ads
+CUST01204,2025-09-18,Jaipur,Rajasthan,55+,Male,Social Media
+CUST01149,2025-08-31,Kolkata,West Bengal,35-44,Female,Organic Search
+CUST02808,2025-05-14,Bengaluru,Karnataka,18-24,Female,Referral
+CUST02601,2025-12-07,Chennai,Tamil Nadu,25-34,Female,Social Media
+CUST01658,2024-11-04,Delhi,Delhi,35-44,Male,Social Media
+CUST02985,2026-01-17,Pune,Maharashtra,18-24,Male,Direct
+CUST00782,2025-12-06,Indore,Madhya Pradesh,18-24,Male,Organic Search
+CUST00620,2026-05-22,Lucknow,Uttar Pradesh,25-34,Male,Paid Ads
+CUST00670,2025-07-31,Chennai,Tamil Nadu,35-44,Female,Organic Search
+CUST00475,2026-02-26,Bengaluru,Karnataka,18-24,Female,Paid Ads
+CUST00635,2025-02-25,Coimbatore,Tamil Nadu,35-44,Male,Organic Search
+CUST00837,2024-09-19,Coimbatore,Tamil Nadu,35-44,Male,Direct
+CUST00263,2025-06-27,Lucknow,Uttar Pradesh,25-34,Female,Social Media
+CUST00067,2025-06-25,Surat,Gujarat,18-24,Female,Social Media
+CUST01789,2024-08-17,Kochi,Kerala,18-24,Female,Referral
+CUST01985,2024-11-30,Bengaluru,Karnataka,45-54,Female,Organic Search
+CUST00871,2026-04-24,Ahmedabad,Gujarat,35-44,Female,Organic Search
+CUST02031,2025-09-05,  indore  ,Madhya Pradesh,35-44,Male,Social Media
+CUST02947,2026-06-03,Chandigarh,Chandigarh,25-34,Male,Social Media
+CUST00864,2026-04-25,Kolkata,West Bengal,18-24,Male,Social Media
+CUST00329,2024-09-01,Jaipur,Rajasthan,25-34,Female,Social Media
+CUST02677,2026-01-18,Pune,Maharashtra,25-34,Female,Organic Search
+CUST02030,2026-02-10,Chandigarh,Chandigarh,25-34,Female,Organic Search
+CUST01612,2025-03-22,Kolkata,West Bengal,45-54,Male,Direct
+CUST01109,2024-02-02,Delhi,Delhi,35-44,Female,Paid Ads
+CUST02889,2025-11-06,Kochi,Kerala,25-34,Female,Social Media
+CUST02470,2025-02-24,Coimbatore,Tamil Nadu,35-44,Female,Organic Search
+CUST02722,2024-01-23,Pune,Maharashtra,18-24,Female,Paid Ads
+CUST01221,2024-10-08,Indore,Madhya Pradesh,25-34,Male,Organic Search
+CUST01690,2024-06-24,Jaipur,Rajasthan,18-24,Male,Paid Ads
+CUST00261,2024-03-23,Delhi,Delhi,25-34,Male,Organic Search
+CUST02426,2026-01-20,Chandigarh,Chandigarh,35-44,Male,Email Campaign
+CUST01809,2024-11-15,Bengaluru,Karnataka,35-44,Female,Paid Ads
+CUST01363,2025-09-25,Ahmedabad,Gujarat,18-24,Female,Organic Search
+CUST01044,2025-07-24,Jaipur,Rajasthan,55+,Male,Organic Search
+CUST00770,2025-05-18,Indore,Madhya Pradesh,45-54,Female,Direct
+CUST01626,2024-12-03,Mumbai,Maharashtra,55+,Female,Direct
+CUST01706,2025-06-07,Delhi,Delhi,35-44,Female,Paid Ads
+CUST02234,2024-03-11,BENGALURU,Karnataka,25-34,Male,Email Campaign
+CUST02945,2024-09-11,Kolkata,West Bengal,25-34,Female,Social Media
+CUST00755,2025-08-08,Chandigarh,Chandigarh,35-44,Female,Organic Search
+CUST02111,2026-01-30,Kolkata,West Bengal,35-44,Female,Social Media
+CUST02510,2025-08-01,Hyderabad,Telangana,25-34,Female,Referral
+CUST01606,2024-05-15,Kolkata,West Bengal,55+,Female,Referral
+CUST02767,2026-04-11,Chennai,Tamil Nadu,25-34,Female,Paid Ads
+CUST03000,2026-04-13,Bengaluru,Karnataka,45-54,Male,Organic Search
+CUST02106,2024-09-09,Pune,Maharashtra,25-34,Male,Organic Search
+CUST00289,2024-06-28,Pune,Maharashtra,18-24,Female,Organic Search
+CUST00227,2024-04-09,Surat,Gujarat,45-54,Female,Social Media
+CUST01996,2026-03-26,Surat,Gujarat,18-24,Female,Referral
+CUST00955,2026-01-23,Bengaluru,Karnataka,35-44,Female,Organic Search
+CUST01768,2024-05-16,Kochi,Kerala,35-44,Male,Social Media
+CUST00545,2024-04-14,  chennai  ,Tamil Nadu,18-24,Male,Social Media
+CUST02327,2026-05-20,Coimbatore,Tamil Nadu,55+,Male,Social Media
+CUST01219,2025-01-12,KOLKATA,West Bengal,45-54,Female,Paid Ads
+CUST01513,2024-08-24,Ahmedabad,Gujarat,35-44,Male,Organic Search
+CUST02614,2024-01-11,Ahmedabad,Gujarat,25-34,Male,Social Media
+CUST01199,2024-05-18,Jaipur,Rajasthan,25-34,Male,Organic Search
+CUST01108,2024-07-01,Bengaluru,Karnataka,45-54,Male,Social Media
+CUST00689,2024-11-02,Surat,Gujarat,25-34,Other,Organic Search
+CUST02078,2025-10-20,Coimbatore,Tamil Nadu,25-34,Female,Direct
+CUST01953,2026-01-15,Coimbatore,Tamil Nadu,45-54,Male,Referral
+CUST02085,2026-04-11,Jaipur,Rajasthan,25-34,Other,Paid Ads
+CUST01163,2024-11-19,Delhi,Delhi,25-34,Female,Organic Search
+CUST02930,2025-10-15,MUMBAI,Maharashtra,18-24,Female,Email Campaign
+CUST02555,2024-09-08,Mumbai,Maharashtra,18-24,Male,Direct
+CUST02575,2024-01-22,Kochi,Kerala,45-54,Male,Paid Ads
+CUST02096,2026-02-18,Delhi,Delhi,25-34,Female,Paid Ads
+CUST00349,2025-07-21,Jaipur,Rajasthan,18-24,Female,Organic Search
+CUST01767,2024-08-03,Kolkata,West Bengal,25-34,Female,Organic Search
+CUST01438,2025-01-13,Chennai,Tamil Nadu,18-24,Female,Organic Search
+CUST00332,2026-04-16,Bengaluru,Karnataka,18-24,Female,Email Campaign
+CUST00157,2025-12-26,Mumbai,Maharashtra,25-34,Male,Direct
+CUST01338,2025-11-14,Coimbatore,Tamil Nadu,35-44,Male,Organic Search
+CUST02874,2025-03-05,Bengaluru,Karnataka,18-24,Female,Direct
+CUST01514,2026-04-30,Mumbai,Maharashtra,18-24,Female,Direct
+CUST01655,2024-01-15,Bengaluru,Karnataka,18-24,Female,Paid Ads
+CUST01511,2025-11-13,Ahmedabad,Gujarat,35-44,Male,Social Media
+CUST00088,2024-07-01,  chennai  ,Tamil Nadu,35-44,Other,Organic Search
+CUST00043,2025-08-13,Lucknow,Uttar Pradesh,25-34,Female,Paid Ads
+CUST00164,2025-09-02,Lucknow,Uttar Pradesh,35-44,Male,Referral
+CUST01989,2025-10-21,Delhi,Delhi,25-34,Female,Paid Ads
+CUST01630,2025-02-12,Delhi,Delhi,25-34,Male,Paid Ads
+CUST00006,2024-06-12,Chandigarh,Chandigarh,35-44,Male,Organic Search
+CUST01818,2025-05-22,Mumbai,Maharashtra,25-34,Male,Organic Search
+CUST01281,2025-08-17,Coimbatore,Tamil Nadu,45-54,Female,Organic Search
+CUST01887,2025-02-23,Kolkata,West Bengal,25-34,Male,Referral
+CUST02216,2025-04-16,Chandigarh,Chandigarh,25-34,Male,Organic Search
+CUST01928,2024-07-28,Chandigarh,Chandigarh,25-34,Male,Paid Ads
+CUST00022,2025-06-05,BENGALURU,Karnataka,25-34,Female,Email Campaign
+CUST00753,2025-05-01,Indore,Madhya Pradesh,35-44,Male,Social Media
+CUST00776,2026-06-19,Jaipur,Rajasthan,35-44,Male,Email Campaign
+CUST02379,2024-10-17,Coimbatore,Tamil Nadu,35-44,Female,Direct
+CUST02487,2026-02-28,Hyderabad,Telangana,25-34,Male,Social Media
+CUST00992,2026-03-13,Jaipur,Rajasthan,35-44,Male,Referral
+CUST01023,2024-09-12,Indore,Madhya Pradesh,45-54,Male,Paid Ads
+CUST02358,2025-04-28,Hyderabad,Telangana,18-24,Female,Referral
+CUST01583,2025-10-05,Hyderabad,Telangana,25-34,Female,Organic Search
+CUST01373,2025-01-20,Lucknow,Uttar Pradesh,35-44,Male,Social Media
+CUST02002,2024-08-08,Indore,Madhya Pradesh,25-34,Female,Social Media
+CUST00922,2025-10-07,Ahmedabad,Gujarat,25-34,Male,Social Media
+CUST00336,2024-08-15,Delhi,Delhi,45-54,Female,Direct
+CUST00214,2025-08-02,Pune,Maharashtra,35-44,Male,Organic Search
+CUST00662,2024-08-21,Delhi,Delhi,35-44,Male,Email Campaign
+CUST02946,2025-10-12,Kochi,Kerala,25-34,Female,Organic Search
+CUST02628,2025-03-11,Ahmedabad,Gujarat,35-44,Male,Referral
+CUST02009,2024-07-18,Coimbatore,Tamil Nadu,35-44,Female,Organic Search
+CUST01319,2025-08-14,Hyderabad,Telangana,35-44,Male,Referral
+CUST01973,2025-01-12,Hyderabad,Telangana,25-34,Female,Email Campaign
+CUST00179,2025-11-19,Chandigarh,Chandigarh,45-54,Female,Paid Ads
+CUST02455,2024-01-27,Mumbai,Maharashtra,35-44,Female,Referral
+CUST00608,2024-10-26,Kochi,Kerala,25-34,Male,Email Campaign
+CUST02788,2025-04-15,Ahmedabad,Gujarat,35-44,Female,Organic Search
+CUST01207,2024-11-11,Pune,Maharashtra,25-34,Female,Social Media
+CUST02493,2025-09-16,Chennai,Tamil Nadu,35-44,Female,Social Media
+CUST02014,2025-08-12,Indore,Madhya Pradesh,18-24,Female,Email Campaign
+CUST02442,2026-04-28,Chennai,Tamil Nadu,25-34,Female,Organic Search
+CUST00923,2025-07-01,  delhi  ,Delhi,18-24,Female,Organic Search
+CUST00060,2025-11-04,Pune,Maharashtra,35-44,Female,Direct
+CUST00248,2024-04-03,Ahmedabad,Gujarat,35-44,Female,Referral
+CUST02859,2024-05-06,Ahmedabad,Gujarat,45-54,Male,Social Media
+CUST00304,2025-04-25,Delhi,Delhi,25-34,Male,Organic Search
+CUST00288,2024-09-18,Chandigarh,Chandigarh,25-34,Male,Social Media
+CUST01673,2026-03-29,Ahmedabad,Gujarat,55+,Male,Organic Search
+CUST01932,2025-01-21,Pune,Maharashtra,18-24,Male,Referral
+CUST00521,2025-05-29,Mumbai,Maharashtra,45-54,Female,Paid Ads
+CUST01645,2024-03-24,Lucknow,Uttar Pradesh,35-44,Male,Paid Ads
+CUST01521,2025-07-24,Bengaluru,Karnataka,35-44,Female,Email Campaign
+CUST01838,2025-01-17,Kochi,Kerala,25-34,Female,Direct
+CUST01574,2024-09-18,Pune,Maharashtra,25-34,Female,Paid Ads
+CUST02450,2025-12-20,Lucknow,Uttar Pradesh,45-54,Female,Social Media
+CUST00700,2024-09-08,Lucknow,Uttar Pradesh,35-44,Female,Email Campaign
+CUST02813,2025-09-16,Chennai,Tamil Nadu,25-34,Female,Social Media
+CUST02913,2025-04-24,Ahmedabad,Gujarat,25-34,Female,Social Media
+CUST02048,2025-06-28,Delhi,Delhi,18-24,Female,Organic Search
+CUST02553,2025-12-23,Delhi,Delhi,35-44,Male,Email Campaign
+CUST02054,2025-09-14,Chennai,Tamil Nadu,18-24,Male,Social Media
+CUST00404,2026-04-13,Bengaluru,Karnataka,25-34,Female,Social Media
+CUST00026,2025-07-03,Coimbatore,Tamil Nadu,35-44,Female,Social Media
+CUST01395,2025-03-04,  ahmedabad  ,Gujarat,18-24,Male,Email Campaign
+CUST01994,2026-01-24,Lucknow,Uttar Pradesh,18-24,Male,Referral
+CUST01040,2025-10-07,Indore,Madhya Pradesh,25-34,Female,Paid Ads
+CUST02015,2025-03-13,Pune,Maharashtra,35-44,Male,Organic Search
+CUST02951,2025-02-19,Surat,Gujarat,25-34,Female,Organic Search
+CUST02936,2025-11-14,Indore,Madhya Pradesh,25-34,Female,Referral
+CUST00220,2024-07-22,Chennai,Tamil Nadu,55+,Female,Organic Search
+CUST02674,2025-03-07,Bengaluru,Karnataka,25-34,Male,Email Campaign
+CUST01293,2024-05-08,Surat,Gujarat,18-24,Male,Organic Search
+CUST00708,2024-09-10,Delhi,Delhi,35-44,Male,Paid Ads
+CUST00243,2024-06-07,Kochi,Kerala,45-54,Female,Email Campaign
+CUST02948,2026-03-10,Kolkata,West Bengal,45-54,Female,Email Campaign
+CUST02851,2026-05-26,Chennai,Tamil Nadu,25-34,Female,Social Media
+CUST00317,2024-12-24,Bengaluru,Karnataka,25-34,Female,Paid Ads
+CUST01896,2026-01-01,Hyderabad,Telangana,18-24,Female,Organic Search
+CUST02784,2026-06-05,Pune,Maharashtra,45-54,Female,Email Campaign
+CUST01426,2026-06-14,Bengaluru,Karnataka,25-34,Female,Organic Search
+CUST00002,2024-04-14,Kochi,Kerala,35-44,Female,Organic Search
+CUST02986,2026-02-16,Chandigarh,Chandigarh,55+,Female,Organic Search
+CUST02622,2024-05-09,Delhi,Delhi,35-44,Female,Paid Ads
+CUST01185,2025-04-30,Ahmedabad,Gujarat,18-24,Male,Organic Search
+CUST02464,2025-11-01,Lucknow,Uttar Pradesh,45-54,Other,Organic Search
+CUST01088,2024-05-05,Jaipur,Rajasthan,25-34,Female,Organic Search
+CUST00626,2025-02-09,Mumbai,Maharashtra,35-44,Female,Paid Ads
+CUST02401,2025-10-05,Chennai,Tamil Nadu,25-34,Other,Organic Search
+CUST00437,2024-02-13,Chennai,Tamil Nadu,25-34,Female,Social Media
+CUST02082,2024-03-27,Hyderabad,Telangana,25-34,Female,Social Media
+CUST01907,2025-02-02,Mumbai,Maharashtra,25-34,Male,Paid Ads
+CUST01213,2026-04-19,Jaipur,Rajasthan,45-54,Male,Organic Search
+CUST00913,2026-04-21,Jaipur,Rajasthan,35-44,Female,Referral
+CUST02815,2024-06-09,Surat,Gujarat,25-34,Female,Social Media
+CUST02689,2025-12-04,Jaipur,Rajasthan,25-34,Male,Social Media
+CUST01780,2025-08-05,Chennai,Tamil Nadu,25-34,Male,Organic Search
+CUST00450,2024-12-09,Delhi,Delhi,25-34,Other,Referral
+CUST01793,2024-04-09,Surat,Gujarat,18-24,Male,Organic Search
+CUST00699,2024-10-13,Chennai,Tamil Nadu,25-34,Male,Referral
+CUST02792,2025-07-04,Kochi,Kerala,45-54,Other,Organic Search
+CUST00032,2025-01-06,Delhi,Delhi,45-54,Female,Social Media
+CUST00769,2024-01-21,Kolkata,West Bengal,25-34,Female,Social Media
+CUST00396,2025-05-24,Mumbai,Maharashtra,45-54,Female,Referral
+CUST02828,2025-08-23,Lucknow,Uttar Pradesh,25-34,Male,Referral
+CUST02120,2025-05-09,Delhi,Delhi,25-34,Female,Referral
+CUST00315,2025-11-25,Jaipur,Rajasthan,25-34,Male,Email Campaign
+CUST02910,2024-08-19,Lucknow,Uttar Pradesh,45-54,Female,Organic Search
+CUST01611,2024-09-26,Coimbatore,Tamil Nadu,35-44,Female,Organic Search
+CUST01812,2025-08-23,Jaipur,Rajasthan,35-44,Male,Organic Search
+CUST01923,2024-07-29,  hyderabad  ,Telangana,25-34,Female,Paid Ads
+CUST00501,2025-05-05,Hyderabad,Telangana,25-34,Female,Social Media
+CUST00267,2025-03-13,  kolkata  ,West Bengal,25-34,Male,Direct
+CUST00732,2025-01-30,Mumbai,Maharashtra,25-34,Male,Organic Search
+CUST02926,2025-08-22,Pune,Maharashtra,18-24,Female,Email Campaign
+CUST00028,2024-09-26,Kochi,Kerala,55+,Female,Referral
+CUST00273,2024-06-07,Hyderabad,Telangana,35-44,Male,Organic Search
+CUST00229,2024-11-30,Chennai,Tamil Nadu,35-44,Male,Organic Search
+CUST01559,2025-11-04,Surat,Gujarat,45-54,Male,Email Campaign
+CUST02766,2026-01-01,Jaipur,Rajasthan,18-24,Female,Paid Ads
+CUST00772,2024-10-02,Kolkata,West Bengal,35-44,Female,Organic Search
+CUST00976,2025-04-09,Kolkata,West Bengal,35-44,Male,Social Media
+CUST02693,2025-06-30,Pune,Maharashtra,18-24,Female,Paid Ads
+CUST02153,2025-07-10,Mumbai,Maharashtra,35-44,Female,Organic Search
+CUST01956,2024-01-02,Ahmedabad,Gujarat,18-24,Female,Social Media
+CUST00210,2025-12-01,SURAT,Gujarat,45-54,Other,Paid Ads
+CUST01937,2025-05-07,Lucknow,Uttar Pradesh,18-24,Male,Social Media
+CUST01935,2024-11-03,Coimbatore,Tamil Nadu,35-44,Male,Paid Ads
+CUST01845,2025-01-11,Pune,Maharashtra,45-54,Male,Social Media
+CUST02961,2025-07-15,Hyderabad,Telangana,18-24,Other,Organic Search
+CUST00709,2026-01-24,Coimbatore,Tamil Nadu,18-24,Other,Organic Search
+CUST01936,2025-01-24,Chennai,Tamil Nadu,25-34,Male,Social Media
+CUST00636,2024-04-12,Coimbatore,Tamil Nadu,18-24,Male,Paid Ads
+CUST00241,2024-08-28,Delhi,Delhi,45-54,Male,Social Media
+CUST02347,2024-04-27,Hyderabad,Telangana,18-24,Male,Organic Search
+CUST01750,2024-05-03,Indore,Madhya Pradesh,18-24,Male,Referral
+CUST00945,2025-10-23,Bengaluru,Karnataka,35-44,Female,Email Campaign
+CUST02620,2025-07-28,Chennai,Tamil Nadu,25-34,Female,Organic Search
+CUST01398,2025-06-18,Indore,Madhya Pradesh,25-34,Other,Referral
+CUST02803,2026-04-05,Lucknow,Uttar Pradesh,35-44,Female,Direct
+CUST02427,2025-01-28,Kochi,Kerala,35-44,Male,Organic Search
+CUST01644,2025-11-07,Ahmedabad,Gujarat,35-44,Female,Social Media
+CUST00573,2024-12-19,Bengaluru,Karnataka,55+,Female,Social Media
+CUST02569,2026-05-21,Hyderabad,Telangana,35-44,Male,Paid Ads
+CUST00212,2025-12-11,Bengaluru,Karnataka,25-34,Male,Social Media
+CUST01681,2024-06-03,Chennai,Tamil Nadu,45-54,Female,Referral
+CUST00500,2024-07-11,Delhi,Delhi,45-54,Female,Paid Ads
+CUST01005,2024-09-01,Kolkata,West Bengal,35-44,Other,Organic Search
+CUST02283,2026-03-25,Ahmedabad,Gujarat,18-24,Male,Direct
+CUST01607,2024-06-22,Chennai,Tamil Nadu,25-34,Female,Email Campaign
+CUST00534,2024-03-19,Coimbatore,Tamil Nadu,25-34,Female,Referral
+CUST01546,2026-04-23,Surat,Gujarat,35-44,Male,Direct
+CUST00659,2025-12-30,Chennai,Tamil Nadu,55+,Female,Social Media
+CUST02678,2025-09-07,Kolkata,West Bengal,25-34,Female,Social Media
+CUST00269,2026-02-01,Delhi,Delhi,35-44,Female,Referral
+CUST01526,2024-12-27,Surat,Gujarat,35-44,Male,Organic Search
+CUST00228,2024-02-04,Ahmedabad,Gujarat,35-44,Female,Organic Search
+CUST02690,2026-05-01,Pune,Maharashtra,25-34,Male,Email Campaign
+CUST01801,2024-10-28,Mumbai,Maharashtra,45-54,Male,Referral
+CUST00931,2024-05-06,Bengaluru,Karnataka,18-24,Female,Social Media
+CUST02087,2026-06-10,Coimbatore,Tamil Nadu,35-44,Male,Social Media
+CUST00889,2026-03-15,Chandigarh,Chandigarh,18-24,Male,Organic Search
+CUST02721,2024-03-21,Kochi,Kerala,25-34,Female,Social Media
+CUST02207,2024-06-13,Kochi,Kerala,55+,Female,Direct
+CUST00745,2024-07-30,Mumbai,Maharashtra,18-24,Male,Organic Search
+CUST01024,2024-03-21,Delhi,Delhi,35-44,Female,Referral
+CUST00151,2025-07-20,Ahmedabad,Gujarat,25-34,Male,Paid Ads
+CUST02419,2024-05-23,Chandigarh,Chandigarh,25-34,Female,Social Media
+CUST02466,2024-07-29,Jaipur,Rajasthan,25-34,Female,Social Media
+CUST00609,2025-11-26,Coimbatore,Tamil Nadu,45-54,Male,Paid Ads
+CUST00897,2025-10-10,Hyderabad,Telangana,35-44,Female,Paid Ads
+CUST02364,2025-05-10,Lucknow,Uttar Pradesh,18-24,Female,Paid Ads
+CUST01379,2024-11-04,Chandigarh,Chandigarh,25-34,Male,Organic Search
+CUST00898,2026-01-26,Jaipur,Rajasthan,35-44,Female,Direct
+CUST01623,2024-05-04,SURAT,Gujarat,25-34,Female,Direct
+CUST02101,2025-02-14,Bengaluru,Karnataka,18-24,Other,Email Campaign
+CUST01719,2025-02-16,Jaipur,Rajasthan,35-44,Female,Social Media
+CUST02500,2024-03-20,Delhi,Delhi,25-34,Male,Organic Search
+CUST02451,2025-03-02,Delhi,Delhi,35-44,Female,Organic Search
+CUST01641,2024-06-01,Chennai,Tamil Nadu,55+,Female,Social Media
+CUST02938,2024-09-01,Chandigarh,Chandigarh,25-34,Female,Email Campaign
+CUST01367,2024-07-26,Chandigarh,Chandigarh,25-34,Female,Direct
+CUST00192,2025-10-25,Delhi,Delhi,45-54,Female,Paid Ads
+CUST02522,2026-03-02,Coimbatore,Tamil Nadu,18-24,Male,Social Media
+CUST02875,2026-04-08,Kochi,Kerala,45-54,Male,Email Campaign
+CUST02656,2024-03-29,  kochi  ,Kerala,35-44,Male,Organic Search
+CUST00677,2024-10-13,Kochi,Kerala,18-24,Female,Email Campaign
+CUST02724,2024-07-15,Chandigarh,Chandigarh,35-44,Other,Referral
+CUST01876,2024-01-08,Hyderabad,Telangana,55+,Male,Paid Ads
+CUST00826,2024-04-20,Surat,Gujarat,35-44,Male,Paid Ads
+CUST01890,2024-09-13,Mumbai,Maharashtra,18-24,Female,Social Media
+CUST01693,2025-04-14,Pune,Maharashtra,55+,Female,Paid Ads
+CUST00165,2025-03-29,  ahmedabad  ,Gujarat,25-34,Female,Social Media
+CUST01010,2025-02-17,Coimbatore,Tamil Nadu,35-44,Male,Social Media
+CUST01460,2024-05-20,Chandigarh,Chandigarh,18-24,Female,Social Media
+CUST02144,2026-04-17,Bengaluru,Karnataka,25-34,Female,Organic Search
+CUST02824,2024-08-08,Chandigarh,Chandigarh,35-44,Male,Organic Search
+CUST01475,2024-04-08,Kolkata,West Bengal,25-34,Male,Organic Search
+CUST02603,2025-06-10,Ahmedabad,Gujarat,35-44,Female,Paid Ads
+CUST00865,2026-02-24,Jaipur,Rajasthan,35-44,Male,Paid Ads
+CUST01160,2024-03-09,Mumbai,Maharashtra,25-34,Male,Email Campaign
+CUST00679,2025-08-17,Delhi,Delhi,18-24,Male,Paid Ads
+CUST01326,2025-10-29,Coimbatore,Tamil Nadu,45-54,Male,Organic Search
+CUST01980,2026-06-16,Jaipur,Rajasthan,35-44,Female,Referral
+CUST02444,2025-06-14,Indore,Madhya Pradesh,55+,Female,Social Media
+CUST02252,2024-06-29,Delhi,Delhi,25-34,Male,Referral
+CUST01046,2025-10-27,Lucknow,Uttar Pradesh,35-44,Male,Paid Ads
+CUST02743,2024-08-11,Pune,Maharashtra,25-34,Male,Social Media
+CUST01295,2024-05-20,Delhi,Delhi,35-44,Male,Social Media
+CUST00872,2024-02-17,Pune,Maharashtra,45-54,Female,Referral
+CUST01795,2024-09-01,Ahmedabad,Gujarat,55+,Female,Paid Ads
+CUST00915,2024-04-08,Delhi,Delhi,18-24,Female,Referral
+CUST01656,2026-05-29,Hyderabad,Telangana,18-24,Female,Organic Search
+CUST02633,2025-12-12,Ahmedabad,Gujarat,35-44,Female,Referral
+CUST01828,2025-01-13,Hyderabad,Telangana,45-54,Female,Direct
+CUST02791,2025-06-03,Kolkata,West Bengal,18-24,Female,Referral
+CUST02187,2024-01-12,Bengaluru,Karnataka,25-34,Male,Direct
+CUST00738,2024-12-12,Delhi,Delhi,35-44,Female,Social Media
+CUST00191,2024-04-05,Pune,Maharashtra,25-34,Female,Organic Search
+CUST01445,2025-12-06,Kolkata,West Bengal,18-24,Male,Organic Search
+CUST01518,2025-07-09,Chennai,Tamil Nadu,25-34,Female,Referral
+CUST00433,2024-10-31,Hyderabad,Telangana,35-44,Female,Paid Ads
+CUST02812,2024-11-08,Jaipur,Rajasthan,25-34,Female,Organic Search
+CUST01431,2025-11-12,Lucknow,Uttar Pradesh,35-44,Female,Social Media
+CUST00014,2025-10-25,Surat,Gujarat,18-24,Female,Referral
+CUST02008,2025-02-04,Pune,Maharashtra,18-24,Female,Social Media
+CUST01608,2024-04-01,Bengaluru,Karnataka,25-34,Female,Organic Search
+CUST01633,2025-05-17,Chennai,Tamil Nadu,45-54,Female,Email Campaign
+CUST02997,2025-09-27,Surat,Gujarat,25-34,Female,Direct
+CUST02270,2025-06-13,Kolkata,West Bengal,18-24,Male,Paid Ads
+CUST01072,2025-01-22,Indore,Madhya Pradesh,25-34,Male,Referral
+CUST01547,2026-04-08,Jaipur,Rajasthan,35-44,Female,Social Media
+CUST00204,2024-12-05,Lucknow,Uttar Pradesh,45-54,Female,Social Media
+CUST01447,2025-04-01,Hyderabad,Telangana,25-34,Male,Referral
+CUST00650,2026-04-07,Hyderabad,Telangana,18-24,Male,Referral
+CUST00892,2025-07-29,  kochi  ,Kerala,45-54,Female,Referral
+CUST02210,2025-12-30,Mumbai,Maharashtra,35-44,Male,Organic Search
+CUST01346,2024-06-04,Chennai,Tamil Nadu,35-44,Female,Referral
+CUST01846,2025-03-28,Bengaluru,Karnataka,25-34,Female,Social Media
+CUST02508,2026-04-30,Pune,Maharashtra,35-44,Female,Organic Search
+CUST00004,2025-07-28,Mumbai,Maharashtra,18-24,Female,Referral
+CUST02890,2025-06-16,Lucknow,Uttar Pradesh,25-34,Other,Organic Search
+CUST02763,2024-02-03,Kochi,Kerala,35-44,Male,Referral
+CUST00372,2024-11-17,PUNE,Maharashtra,35-44,Male,Organic Search
+CUST02992,2025-10-10,Surat,Gujarat,18-24,Male,Organic Search
+CUST00528,2026-05-15,Ahmedabad,Gujarat,25-34,Female,Referral
+CUST00069,2026-01-30,Delhi,Delhi,35-44,Male,Referral
+CUST00586,2025-09-03,Kolkata,West Bengal,25-34,Male,Organic Search
+CUST00045,2026-06-03,Ahmedabad,Gujarat,35-44,Female,Direct
+CUST01826,2024-04-13,Coimbatore,Tamil Nadu,18-24,Female,Social Media
+CUST00949,2025-07-18,Mumbai,Maharashtra,25-34,Female,Referral
+CUST00098,2025-08-16,Chandigarh,Chandigarh,35-44,Male,Social Media
+CUST00610,2024-03-01,Pune,Maharashtra,55+,Female,Organic Search
+CUST02556,2024-07-19,Surat,Gujarat,25-34,Male,Paid Ads
+CUST02104,2025-03-12,Kolkata,West Bengal,25-34,Female,Referral
+CUST00144,2026-02-07,Hyderabad,Telangana,25-34,Female,Social Media
+CUST02684,2024-11-12,Delhi,Delhi,35-44,Male,Social Media
+CUST00384,2025-02-24,Jaipur,Rajasthan,35-44,Female,Organic Search
+CUST02921,2024-01-12,Kolkata,West Bengal,35-44,Female,Referral
+CUST01908,2025-10-27,Chennai,Tamil Nadu,35-44,Male,Email Campaign
+CUST01231,2024-09-17,Chennai,Tamil Nadu,35-44,Male,Referral
+CUST00190,2024-09-02,Chandigarh,Chandigarh,35-44,Male,Organic Search
+CUST01123,2025-10-10,Chandigarh,Chandigarh,25-34,Female,Referral
+CUST02753,2025-05-30,Lucknow,Uttar Pradesh,55+,Female,Paid Ads
+CUST01541,2026-03-31,Lucknow,Uttar Pradesh,25-34,Male,Social Media
+CUST00627,2025-11-02,Pune,Maharashtra,18-24,Male,Organic Search
+CUST00073,2024-09-25,Surat,Gujarat,18-24,Male,Paid Ads
+CUST02604,2024-04-17,Coimbatore,Tamil Nadu,25-34,Male,Organic Search
+CUST01394,2025-08-05,Kochi,Kerala,18-24,Male,Email Campaign
+CUST00401,2025-01-14,Chandigarh,Chandigarh,25-34,Male,Organic Search
+CUST02203,2026-04-06,  jaipur  ,Rajasthan,35-44,Male,Paid Ads
+CUST02498,2024-09-22,Kochi,Kerala,55+,Male,Email Campaign
+CUST00989,2024-11-19,Chandigarh,Chandigarh,25-34,Male,Social Media
+CUST02917,2025-02-04,Hyderabad,Telangana,35-44,Female,Social Media
+CUST01558,2026-06-06,Chennai,Tamil Nadu,18-24,Female,Email Campaign
+CUST01512,2024-05-30,Chennai,Tamil Nadu,35-44,Male,Organic Search
+CUST00252,2025-09-02,Coimbatore,Tamil Nadu,18-24,Female,Organic Search
+CUST00751,2025-02-27,Jaipur,Rajasthan,55+,Female,Referral
+CUST01791,2024-01-26,Chandigarh,Chandigarh,55+,Male,Paid Ads
+CUST00972,2026-01-15,Kochi,Kerala,35-44,Male,Organic Search
+CUST01195,2025-03-26,CHENNAI,Tamil Nadu,25-34,Male,Paid Ads
+CUST02513,2024-07-18,Chennai,Tamil Nadu,45-54,Male,Organic Search
+CUST01918,2025-05-25,  kolkata  ,West Bengal,25-34,Male,Organic Search
+CUST00611,2024-05-15,Indore,Madhya Pradesh,25-34,Female,Paid Ads
+CUST02116,2025-04-30,Kochi,Kerala,55+,Male,Paid Ads
+CUST00279,2025-02-14,Surat,Gujarat,18-24,Female,Direct
+CUST02118,2026-02-16,Coimbatore,Tamil Nadu,45-54,Female,Direct
+CUST01881,2024-09-12,Pune,Maharashtra,18-24,Female,Social Media
+CUST00614,2026-02-26,Coimbatore,Tamil Nadu,18-24,Female,Organic Search
+CUST00666,2024-10-04,Kolkata,West Bengal,45-54,Female,Organic Search
+CUST02060,2025-09-15,Surat,Gujarat,25-34,Male,Social Media
+CUST02680,2025-03-07,Delhi,Delhi,25-34,Male,Referral
+CUST00053,2026-03-14,Chandigarh,Chandigarh,25-34,Male,Direct
+CUST01264,2024-05-14,Lucknow,Uttar Pradesh,18-24,Female,Paid Ads
+CUST00291,2024-02-13,Kochi,Kerala,25-34,Male,Organic Search
+CUST01191,2025-08-31,Lucknow,Uttar Pradesh,25-34,Female,Paid Ads
+CUST02940,2025-03-26,Chandigarh,Chandigarh,45-54,Female,Referral
+CUST00365,2026-01-14,Mumbai,Maharashtra,45-54,Male,Direct
+CUST00509,2025-07-20,Chennai,Tamil Nadu,55+,Female,Social Media
+CUST02852,2025-10-31,Ahmedabad,Gujarat,35-44,Female,Referral
+CUST00296,2026-06-10,Pune,Maharashtra,25-34,Male,Social Media
+CUST01642,2025-06-19,Hyderabad,Telangana,25-34,Female,Referral
+CUST02610,2025-07-31,Kolkata,West Bengal,35-44,Male,Referral
+CUST01203,2025-01-06,Surat,Gujarat,18-24,Female,Paid Ads
+CUST00425,2025-11-28,Indore,Madhya Pradesh,25-34,Female,Paid Ads
+CUST02655,2025-07-28,Chennai,Tamil Nadu,25-34,Male,Referral
+CUST02370,2025-11-26,  coimbatore  ,Tamil Nadu,25-34,Male,Referral
+CUST00025,2026-05-31,Jaipur,Rajasthan,55+,Female,Organic Search
+CUST00047,2024-07-15,Hyderabad,Telangana,18-24,Male,Social Media
+CUST01891,2025-04-20,Kochi,Kerala,25-34,Male,Referral
+CUST00527,2025-05-02,Jaipur,Rajasthan,18-24,Male,Organic Search
+CUST01250,2025-12-31,Pune,Maharashtra,45-54,Male,Social Media
+CUST01942,2025-08-02,Coimbatore,Tamil Nadu,18-24,Female,Direct
+CUST02809,2024-06-16,Ahmedabad,Gujarat,18-24,Female,Paid Ads
+CUST02581,2025-02-11,Jaipur,Rajasthan,35-44,Male,Social Media
+CUST02199,2025-05-10,Chandigarh,Chandigarh,18-24,Male,Direct
+CUST00256,2024-04-26,Jaipur,Rajasthan,35-44,Male,Paid Ads
+CUST02353,2026-05-23,Chennai,Tamil Nadu,45-54,Male,Social Media
+CUST00512,2025-05-15,Indore,Madhya Pradesh,55+,Female,Social Media
+CUST00710,2026-03-27,Indore,Madhya Pradesh,25-34,Female,Direct
+CUST02516,2025-01-05,Pune,Maharashtra,18-24,Female,Organic Search
+CUST01348,2026-01-15,Indore,Madhya Pradesh,35-44,Female,Referral
+CUST00018,2024-08-04,Delhi,Delhi,45-54,Female,Paid Ads
+CUST01414,2025-01-07,Surat,Gujarat,45-54,Male,Social Media
+CUST02472,2024-08-03,Jaipur,Rajasthan,18-24,Female,Paid Ads
+CUST02296,2024-11-15,Lucknow,Uttar Pradesh,18-24,Male,Paid Ads
+CUST02654,2025-10-12,Bengaluru,Karnataka,35-44,Female,Organic Search
+CUST00903,2025-09-03,KOLKATA,West Bengal,18-24,Female,Referral
+CUST02083,2025-05-14,Coimbatore,Tamil Nadu,18-24,Female,Organic Search
+CUST02095,2026-01-25,Lucknow,Uttar Pradesh,18-24,Female,Social Media
+CUST00744,2026-04-23,Chennai,Tamil Nadu,35-44,Female,Organic Search
+CUST02934,2025-11-12,Pune,Maharashtra,25-34,Other,Paid Ads
+CUST01240,2024-10-14,Bengaluru,Karnataka,45-54,Male,Social Media
+CUST01061,2024-11-29,Indore,Madhya Pradesh,45-54,Male,Email Campaign
+CUST00592,2024-06-26,Coimbatore,Tamil Nadu,35-44,Female,Organic Search
+CUST01602,2025-09-03,Kochi,Kerala,25-34,Male,Organic Search
+CUST01139,2024-11-08,Mumbai,Maharashtra,25-34,Male,Referral
+CUST00844,2025-12-07,Pune,Maharashtra,45-54,Female,Referral
+CUST02044,2025-10-06,Delhi,Delhi,35-44,Other,Paid Ads
+CUST02862,2024-06-28,Delhi,Delhi,25-34,Female,Referral
+CUST01759,2024-10-23,Lucknow,Uttar Pradesh,35-44,Male,Organic Search
+CUST01051,2024-12-17,Bengaluru,Karnataka,25-34,Male,Social Media
+CUST00771,2024-05-17,Hyderabad,Telangana,25-34,Female,Paid Ads
+CUST02226,2025-04-21,Indore,Madhya Pradesh,18-24,Male,Organic Search
+CUST00446,2026-01-26,  jaipur  ,Rajasthan,35-44,Female,Email Campaign
+CUST01372,2025-08-18,Coimbatore,Tamil Nadu,18-24,Male,Email Campaign
+CUST00202,2026-04-10,Coimbatore,Tamil Nadu,25-34,Other,Paid Ads
+CUST00471,2024-02-29,Lucknow,Uttar Pradesh,35-44,Female,Social Media
+CUST01239,2026-03-29,Kolkata,West Bengal,45-54,Female,Organic Search
+CUST01402,2024-02-11,Mumbai,Maharashtra,55+,Female,Referral
+CUST01256,2025-07-27,Lucknow,Uttar Pradesh,25-34,Male,Social Media
+CUST02615,2024-11-15,MUMBAI,Maharashtra,35-44,Male,Organic Search
+CUST02374,2025-12-02,Coimbatore,Tamil Nadu,18-24,Female,Referral
+CUST02663,2026-06-23,Chennai,Tamil Nadu,18-24,Other,Organic Search
+CUST02836,2026-02-04,Ahmedabad,Gujarat,45-54,Male,Social Media
+CUST02987,2025-05-21,Coimbatore,Tamil Nadu,35-44,Male,Organic Search
+CUST00105,2024-05-31,Hyderabad,Telangana,35-44,Male,Paid Ads
+CUST00276,2025-11-22,Lucknow,Uttar Pradesh,35-44,Male,Email Campaign
+CUST01070,2024-01-08,Chandigarh,Chandigarh,25-34,Male,Email Campaign
+CUST01728,2025-08-26,CHANDIGARH,Chandigarh,25-34,Female,Social Media
+CUST02696,2025-02-11,Chandigarh,Chandigarh,45-54,Female,Organic Search
+CUST02251,2026-04-28,Kolkata,West Bengal,25-34,Female,Paid Ads
+CUST01786,2025-10-18,Pune,Maharashtra,35-44,Female,Email Campaign
+CUST02205,2025-04-19,Surat,Gujarat,18-24,Female,Direct
+CUST00975,2025-09-30,Bengaluru,Karnataka,35-44,Male,Paid Ads
+CUST02912,2024-10-30,Pune,Maharashtra,25-34,Female,Social Media
+CUST01509,2025-05-26,Kochi,Kerala,25-34,Female,Referral
+CUST01866,2025-01-30,Jaipur,Rajasthan,18-24,Male,Referral
+CUST00553,2024-04-19,Ahmedabad,Gujarat,18-24,Male,Social Media
+CUST02308,2026-05-30,Chandigarh,Chandigarh,35-44,Female,Referral
+CUST01962,2024-06-19,Surat,Gujarat,18-24,Male,Organic Search
+CUST02204,2025-08-23,Ahmedabad,Gujarat,45-54,Male,Organic Search
+CUST02810,2026-06-01,Delhi,Delhi,25-34,Female,Referral
+CUST00830,2025-03-04,Bengaluru,Karnataka,45-54,Male,Paid Ads
+CUST01539,2025-02-15,Lucknow,Uttar Pradesh,45-54,Female,Direct
+CUST02148,2026-04-30,Chandigarh,Chandigarh,35-44,Male,Organic Search
+CUST02630,2024-12-29,Ahmedabad,Gujarat,25-34,Female,Referral
+CUST00874,2024-01-05,Ahmedabad,Gujarat,25-34,Male,Direct
+CUST02530,2025-10-07,Pune,Maharashtra,25-34,Female,Social Media
+CUST02217,2025-03-28,Coimbatore,Tamil Nadu,35-44,Male,Organic Search
+CUST01784,2025-11-25,INDORE,Madhya Pradesh,18-24,Other,Paid Ads
+CUST01294,2026-06-25,Kochi,Kerala,25-34,Male,Direct
+CUST02844,2026-03-28,Bengaluru,Karnataka,25-34,Female,Referral
+CUST02006,2025-11-06,Indore,Madhya Pradesh,45-54,Male,Organic Search
+CUST02922,2025-10-05,Chandigarh,Chandigarh,35-44,Male,Social Media
+CUST00357,2025-07-10,Indore,Madhya Pradesh,25-34,Male,Referral
+CUST02631,2025-09-11,Coimbatore,Tamil Nadu,45-54,Female,Direct
+CUST01140,2025-05-29,Kolkata,West Bengal,35-44,Male,Paid Ads
+CUST01421,2026-04-29,Jaipur,Rajasthan,18-24,Female,Paid Ads
+CUST01362,2024-03-14,  coimbatore  ,Tamil Nadu,18-24,Male,Paid Ads
+CUST02365,2024-05-31,Mumbai,Maharashtra,55+,Female,Paid Ads
+CUST02916,2024-05-27,Bengaluru,Karnataka,25-34,Male,Direct
+CUST01661,2025-08-06,Chennai,Tamil Nadu,45-54,Male,Social Media
+CUST00603,2024-12-22,Chennai,Tamil Nadu,45-54,Male,Email Campaign
+CUST00515,2025-06-20,Mumbai,Maharashtra,18-24,Female,Direct
+CUST00684,2024-06-17,Delhi,Delhi,25-34,Male,Organic Search
+CUST02906,2024-07-22,Mumbai,Maharashtra,35-44,Male,Referral
+CUST02699,2025-05-07,  indore  ,Madhya Pradesh,18-24,Female,Social Media
+CUST01113,2026-01-31,Jaipur,Rajasthan,55+,Male,Social Media
+CUST02186,2026-06-21,Mumbai,Maharashtra,35-44,Female,Organic Search
+CUST02794,2025-10-28,Kochi,Kerala,45-54,Male,Paid Ads
+CUST00932,2024-03-28,Jaipur,Rajasthan,25-34,Female,Email Campaign
+CUST00188,2024-07-27,Mumbai,Maharashtra,25-34,Male,Social Media
+CUST01589,2024-08-17,Lucknow,Uttar Pradesh,18-24,Male,Referral
+CUST02834,2024-05-23,Mumbai,Maharashtra,35-44,Male,Paid Ads
+CUST00673,2024-01-25,Pune,Maharashtra,25-34,Male,Email Campaign
+CUST00702,2026-06-24,Surat,Gujarat,35-44,Male,Direct
+CUST00485,2025-04-02,Mumbai,Maharashtra,35-44,Female,Organic Search
+CUST02340,2024-01-17,Hyderabad,Telangana,45-54,Male,Organic Search
+CUST01054,2024-07-07,Bengaluru,Karnataka,45-54,Male,Organic Search
+CUST01157,2025-12-12,Bengaluru,Karnataka,35-44,Male,Referral
+CUST02562,2024-08-25,Indore,Madhya Pradesh,45-54,Female,Social Media
+CUST00928,2026-03-27,Chandigarh,Chandigarh,45-54,Male,Referral
+CUST00817,2025-10-03,Mumbai,Maharashtra,35-44,Male,Email Campaign
+CUST02739,2024-01-31,Ahmedabad,Gujarat,18-24,Female,Referral
+CUST02949,2024-12-26,Kolkata,West Bengal,35-44,Female,Email Campaign
+CUST01949,2024-04-04,Chandigarh,Chandigarh,35-44,Female,Social Media
+CUST01138,2025-09-08,Indore,Madhya Pradesh,45-54,Female,Referral
+CUST02291,2024-03-26,Hyderabad,Telangana,35-44,Female,Organic Search
+CUST01237,2026-01-30,Pune,Maharashtra,18-24,Female,Referral
+CUST00999,2024-03-06,Delhi,Delhi,25-34,Male,Referral
+CUST00242,2026-01-30,Surat,Gujarat,35-44,Female,Referral
+CUST00731,2024-03-10,Kochi,Kerala,25-34,Female,Paid Ads
+CUST02317,2026-03-04,Jaipur,Rajasthan,25-34,Female,Social Media
+CUST01067,2026-04-14,Jaipur,Rajasthan,35-44,Male,Social Media
+CUST01262,2024-11-15,Kolkata,West Bengal,25-34,Male,Paid Ads
+CUST01413,2024-12-09,Coimbatore,Tamil Nadu,35-44,Male,Direct
+CUST01102,2025-07-08,Chennai,Tamil Nadu,25-34,Male,Referral
+CUST01164,2025-05-27,Hyderabad,Telangana,55+,Female,Paid Ads
+CUST01254,2024-07-16,HYDERABAD,Telangana,25-34,Female,Paid Ads
+CUST01410,2025-10-04,Indore,Madhya Pradesh,18-24,Female,Social Media
+CUST01479,2026-05-16,Jaipur,Rajasthan,25-34,Female,Paid Ads
+CUST00818,2024-05-12,Chennai,Tamil Nadu,18-24,Female,Social Media
+CUST00649,2024-06-05,Lucknow,Uttar Pradesh,25-34,Male,Referral
+CUST02072,2024-06-21,Ahmedabad,Gujarat,35-44,Female,Referral
+CUST01450,2025-06-08,Delhi,Delhi,25-34,Female,Referral
+CUST00172,2025-03-11,Hyderabad,Telangana,18-24,Male,Organic Search
+CUST01287,2024-03-04,Chennai,Tamil Nadu,25-34,Female,Organic Search
+CUST02091,2024-11-28,Bengaluru,Karnataka,35-44,Female,Social Media
+CUST01643,2024-02-16,Coimbatore,Tamil Nadu,25-34,Female,Social Media
+CUST02261,2025-02-26,Ahmedabad,Gujarat,45-54,Female,Paid Ads
+CUST01912,2026-02-28,Surat,Gujarat,35-44,Male,Referral
+CUST01588,2024-07-05,Kolkata,West Bengal,25-34,Male,Email Campaign
+CUST01148,2025-11-18,Delhi,Delhi,25-34,Male,Organic Search
+CUST00143,2024-09-08,Indore,Madhya Pradesh,45-54,Male,Email Campaign
+CUST01424,2025-04-13,Coimbatore,Tamil Nadu,18-24,Male,Organic Search
+CUST01063,2024-06-30,Jaipur,Rajasthan,35-44,Male,Paid Ads
+CUST00340,2026-04-29,Coimbatore,Tamil Nadu,25-34,Female,Paid Ads
+CUST02131,2024-09-11,Surat,Gujarat,55+,Male,Organic Search
+CUST01653,2024-11-06,Ahmedabad,Gujarat,35-44,Other,Social Media
+CUST02978,2025-08-06,Chennai,Tamil Nadu,25-34,Female,Organic Search
+CUST00722,2024-11-20,Surat,Gujarat,18-24,Other,Paid Ads
+CUST01794,2025-10-03,Chandigarh,Chandigarh,55+,Female,Organic Search
+CUST00942,2026-03-15,Hyderabad,Telangana,25-34,Female,Social Media
+CUST01384,2025-10-22,Mumbai,Maharashtra,25-34,Male,Organic Search
+CUST01685,2024-06-20,Delhi,Delhi,35-44,Female,Email Campaign
+CUST02177,2026-05-05,Bengaluru,Karnataka,45-54,Other,Email Campaign
+CUST02135,2024-12-30,  indore  ,Madhya Pradesh,25-34,Other,Organic Search
+CUST02706,2026-03-10,Kolkata,West Bengal,25-34,Male,Referral
+CUST00278,2024-12-13,Chennai,Tamil Nadu,25-34,Male,Organic Search
+CUST01441,2024-05-28,Chandigarh,Chandigarh,55+,Female,Organic Search
+CUST00217,2024-01-10,Surat,Gujarat,45-54,Male,Social Media
+CUST02797,2025-06-19,Bengaluru,Karnataka,25-34,Male,Organic Search
+CUST00570,2025-03-16,Chandigarh,Chandigarh,18-24,Male,Organic Search
+CUST02841,2024-02-02,Pune,Maharashtra,55+,Female,Social Media
+CUST00322,2026-02-23,Kolkata,West Bengal,25-34,Male,Organic Search
+CUST00418,2026-01-27,Lucknow,Uttar Pradesh,45-54,Female,Referral
+CUST02646,2025-03-05,Delhi,Delhi,45-54,Male,Social Media
+CUST01613,2024-06-03,Chandigarh,Chandigarh,35-44,Female,Referral
+CUST02484,2025-08-09,Pune,Maharashtra,35-44,Female,Organic Search
+CUST02043,2025-11-23,CHENNAI,Tamil Nadu,25-34,Female,Referral
+CUST01234,2026-05-03,Kolkata,West Bengal,25-34,Female,Email Campaign
+CUST00793,2026-06-01,Kolkata,West Bengal,25-34,Female,Direct
+CUST01763,2025-12-16,Pune,Maharashtra,18-24,Male,Referral
+CUST02529,2024-03-16,Mumbai,Maharashtra,35-44,Male,Social Media
+CUST02269,2025-10-13,Bengaluru,Karnataka,25-34,Female,Social Media
+CUST02954,2024-01-17,Kolkata,West Bengal,18-24,Female,Email Campaign
+CUST01482,2025-03-28,Indore,Madhya Pradesh,45-54,Female,Paid Ads
+CUST00978,2025-03-05,Surat,Gujarat,45-54,Female,Organic Search
+CUST00796,2025-11-28,Kolkata,West Bengal,18-24,Male,Social Media
+CUST02007,2024-12-11,Pune,Maharashtra,25-34,Male,Social Media
+CUST02445,2025-07-13,Mumbai,Maharashtra,35-44,Male,Social Media
+CUST02227,2025-02-10,Coimbatore,Tamil Nadu,35-44,Male,Social Media
+CUST00925,2024-04-18,Jaipur,Rajasthan,25-34,Female,Referral
+CUST01979,2025-01-29,Kochi,Kerala,25-34,Male,Organic Search
+CUST02509,2025-10-26,Chandigarh,Chandigarh,18-24,Male,Direct
+CUST01499,2024-05-06,Kolkata,West Bengal,25-34,Female,Social Media
+CUST00175,2025-12-06,Ahmedabad,Gujarat,25-34,Male,Organic Search
+CUST01310,2025-08-15,Ahmedabad,Gujarat,18-24,Male,Direct
+CUST00379,2024-06-10,Indore,Madhya Pradesh,35-44,Female,Referral
+CUST01638,2024-12-15,Jaipur,Rajasthan,55+,Female,Referral
+CUST02411,2025-01-30,Pune,Maharashtra,35-44,Male,Social Media
+CUST00836,2024-04-02,Bengaluru,Karnataka,35-44,Male,Paid Ads
+CUST00355,2025-04-13,Chandigarh,Chandigarh,18-24,Male,Paid Ads
+CUST02609,2026-06-20,Coimbatore,Tamil Nadu,35-44,Female,Referral
+CUST00173,2026-04-26,Chennai,Tamil Nadu,18-24,Male,Paid Ads
+CUST00124,2025-07-31,Lucknow,Uttar Pradesh,35-44,Male,Social Media
+CUST01142,2024-10-23,Pune,Maharashtra,35-44,Male,Social Media
+CUST02793,2025-06-19,Lucknow,Uttar Pradesh,25-34,Male,Paid Ads
+CUST01146,2025-09-22,Jaipur,Rajasthan,55+,Female,Organic Search
+CUST02263,2026-06-19,Chennai,Tamil Nadu,35-44,Male,Email Campaign
+CUST02501,2024-11-29,Hyderabad,Telangana,35-44,Female,Paid Ads
+CUST02496,2024-04-27,Hyderabad,Telangana,35-44,Male,Referral
+CUST00759,2024-11-23,Chennai,Tamil Nadu,45-54,Female,Organic Search
+CUST01349,2025-01-28,Mumbai,Maharashtra,55+,Female,Social Media
+CUST00253,2025-07-07,Bengaluru,Karnataka,25-34,Male,Paid Ads
+CUST02452,2025-05-05,Jaipur,Rajasthan,55+,Male,Organic Search
+CUST02406,2026-05-18,INDORE,Madhya Pradesh,25-34,Female,Paid Ads
+CUST02483,2025-11-25,Kochi,Kerala,25-34,Other,Referral
+CUST00804,2024-11-10,Indore,Madhya Pradesh,25-34,Female,Social Media
+CUST02685,2024-06-18,Pune,Maharashtra,25-34,Female,Organic Search
+CUST01649,2026-06-11,Coimbatore,Tamil Nadu,45-54,Male,Organic Search
+CUST02059,2026-01-12,Coimbatore,Tamil Nadu,35-44,Male,Paid Ads
+CUST02103,2025-06-21,Pune,Maharashtra,25-34,Female,Organic Search
+CUST01224,2024-10-21,Kochi,Kerala,25-34,Female,Organic Search
+CUST01032,2025-01-23,Hyderabad,Telangana,35-44,Male,Referral
+CUST01992,2024-04-01,Delhi,Delhi,25-34,Female,Organic Search
+CUST02403,2026-06-20,Lucknow,Uttar Pradesh,18-24,Male,Organic Search
+CUST02189,2025-12-27,Chennai,Tamil Nadu,25-34,Female,Organic Search
+CUST00003,2024-02-02,Pune,Maharashtra,18-24,Male,Referral
+CUST00991,2024-10-09,Lucknow,Uttar Pradesh,55+,Male,Organic Search
+CUST00643,2024-01-13,Coimbatore,Tamil Nadu,55+,Female,Organic Search
+CUST00907,2024-12-23,Delhi,Delhi,25-34,Male,Social Media
+CUST01597,2026-04-23,Hyderabad,Telangana,25-34,Female,Social Media
+CUST00206,2024-03-17,Bengaluru,Karnataka,25-34,Other,Social Media
+CUST02201,2026-02-08,Kolkata,West Bengal,25-34,Male,Organic Search
+CUST00801,2025-07-25,Coimbatore,Tamil Nadu,18-24,Male,Organic Search
+CUST01305,2025-07-06,Surat,Gujarat,35-44,Male,Organic Search
+CUST01991,2026-04-07,Pune,Maharashtra,25-34,Male,Social Media
+CUST02233,2025-12-01,Chandigarh,Chandigarh,25-34,Male,Organic Search
+CUST01585,2026-05-17,Bengaluru,Karnataka,35-44,Male,Direct
+CUST02241,2024-11-27,Bengaluru,Karnataka,35-44,Female,Paid Ads
+CUST01773,2025-09-07,Indore,Madhya Pradesh,25-34,Male,Paid Ads
+CUST00798,2025-12-26,Lucknow,Uttar Pradesh,55+,Female,Social Media
+CUST01694,2025-03-29,Mumbai,Maharashtra,18-24,Male,Paid Ads
+CUST02468,2025-07-18,Chandigarh,Chandigarh,25-34,Female,Referral
+CUST00562,2026-04-18,Delhi,Delhi,45-54,Female,Paid Ads
+CUST02525,2025-12-07,Mumbai,Maharashtra,18-24,Male,Referral
+CUST02765,2026-01-03,Coimbatore,Tamil Nadu,25-34,Female,Referral
+CUST01966,2024-01-08,Chandigarh,Chandigarh,25-34,Female,Direct
+CUST02858,2026-03-01,Hyderabad,Telangana,25-34,Male,Email Campaign
+CUST02467,2026-05-29,Coimbatore,Tamil Nadu,25-34,Female,Direct
+CUST02825,2024-09-05,Delhi,Delhi,18-24,Female,Direct
+CUST00852,2025-11-16,Hyderabad,Telangana,45-54,Female,Paid Ads
+CUST01544,2025-04-09,Jaipur,Rajasthan,35-44,Female,Email Campaign
+CUST02751,2024-04-10,Surat,Gujarat,25-34,Female,Direct
+CUST00455,2025-02-19,Coimbatore,Tamil Nadu,45-54,Female,Organic Search
+CUST01186,2024-01-16,Chandigarh,Chandigarh,45-54,Female,Organic Search
+CUST02635,2026-02-28,Ahmedabad,Gujarat,35-44,Female,Organic Search
+CUST01020,2024-12-28,Kolkata,West Bengal,25-34,Female,Organic Search
+CUST01169,2025-07-22,Mumbai,Maharashtra,55+,Male,Social Media
+CUST00929,2025-11-24,Chennai,Tamil Nadu,45-54,Other,Email Campaign
+CUST00029,2026-06-10,Delhi,Delhi,35-44,Female,Referral
+CUST01552,2025-12-04,Chennai,Tamil Nadu,35-44,Male,Organic Search
+CUST01405,2026-01-19,Kochi,Kerala,25-34,Male,Social Media
+CUST00382,2025-04-23,Kolkata,West Bengal,45-54,Female,Referral
+CUST01897,2024-02-18,Kochi,Kerala,45-54,Female,Referral
+CUST02619,2026-01-16,Lucknow,Uttar Pradesh,25-34,Female,Social Media
+CUST01172,2024-06-05,LUCKNOW,Uttar Pradesh,25-34,Male,Referral
+CUST00912,2025-01-30,Delhi,Delhi,25-34,Female,Organic Search
+CUST00680,2025-08-29,Delhi,Delhi,35-44,Male,Direct
+CUST02223,2024-01-09,Jaipur,Rajasthan,18-24,Male,Social Media
+CUST01292,2025-01-03,Coimbatore,Tamil Nadu,45-54,Male,Direct
+CUST01100,2025-04-24,Kochi,Kerala,25-34,Female,Email Campaign
+CUST02532,2026-04-19,  coimbatore  ,Tamil Nadu,55+,Male,Email Campaign
+CUST02708,2026-06-10,Pune,Maharashtra,35-44,Male,Social Media
+CUST00835,2024-04-01,Surat,Gujarat,45-54,Female,Paid Ads
+CUST01670,2025-12-02,Lucknow,Uttar Pradesh,25-34,Female,Email Campaign
+CUST01437,2024-04-29,Hyderabad,Telangana,18-24,Male,Organic Search
+CUST00768,2024-08-31,Kochi,Kerala,18-24,Male,Organic Search
+CUST02055,2025-02-02,Chandigarh,Chandigarh,18-24,Female,Paid Ads
+CUST01689,2024-01-07,Chandigarh,Chandigarh,25-34,Female,Social Media
+CUST01251,2025-12-04,Mumbai,Maharashtra,45-54,Female,Social Media
+CUST00099,2024-08-06,Surat,Gujarat,25-34,Female,Direct
+CUST00789,2025-04-22,Hyderabad,Telangana,25-34,Female,Referral
+CUST02154,2024-02-15,  indore  ,Madhya Pradesh,18-24,Male,Referral
+CUST01720,2025-08-21,Chennai,Tamil Nadu,25-34,Male,Social Media
+CUST00757,2024-07-16,Chandigarh,Chandigarh,18-24,Male,Direct
+CUST00952,2025-02-10,Delhi,Delhi,25-34,Male,Organic Search
+CUST00762,2025-03-05,Chandigarh,Chandigarh,18-24,Male,Referral
+CUST00119,2024-11-01,Kolkata,West Bengal,35-44,Female,Direct
+CUST00207,2025-02-11,Kochi,Kerala,35-44,Female,Email Campaign
+CUST02161,2024-12-08,Jaipur,Rajasthan,35-44,Female,Organic Search
+CUST02577,2024-08-03,Jaipur,Rajasthan,25-34,Male,Organic Search
+CUST02982,2024-05-27,Pune,Maharashtra,35-44,Other,Referral
+CUST00305,2024-12-26,Mumbai,Maharashtra,25-34,Male,Social Media
+CUST00828,2024-07-29,Bengaluru,Karnataka,35-44,Female,Social Media
+CUST02068,2026-06-28,Surat,Gujarat,25-34,Male,Organic Search
+CUST02475,2024-11-03,Pune,Maharashtra,45-54,Male,Organic Search
+CUST00743,2025-05-17,Indore,Madhya Pradesh,18-24,Male,Social Media
+CUST02019,2025-09-02,Kochi,Kerala,55+,Female,Social Media
+CUST01418,2026-06-11,  lucknow  ,Uttar Pradesh,55+,Male,Paid Ads
+CUST01407,2025-12-21,Bengaluru,Karnataka,25-34,Female,Referral
+CUST02056,2025-06-28,Chandigarh,Chandigarh,35-44,Female,Social Media
+CUST00842,2024-10-01,Lucknow,Uttar Pradesh,45-54,Male,Paid Ads
+CUST02400,2024-05-19,Ahmedabad,Gujarat,25-34,Female,Email Campaign
+CUST01071,2025-02-08,PUNE,Maharashtra,25-34,Female,Referral
+CUST02683,2024-05-22,Chandigarh,Chandigarh,18-24,Male,Direct
+CUST00424,2025-10-06,Jaipur,Rajasthan,35-44,Female,Social Media
+CUST01335,2025-10-25,Coimbatore,Tamil Nadu,35-44,Other,Email Campaign
+CUST01575,2024-08-03,Chennai,Tamil Nadu,45-54,Male,Social Media
+CUST00451,2026-06-29,Ahmedabad,Gujarat,55+,Female,Social Media
+CUST01388,2025-03-05,Kolkata,West Bengal,18-24,Female,Social Media
+CUST00965,2025-10-20,Jaipur,Rajasthan,25-34,Male,Organic Search
+CUST01242,2026-06-04,Delhi,Delhi,35-44,Male,Email Campaign
+CUST01401,2024-06-01,Lucknow,Uttar Pradesh,45-54,Female,Social Media
+CUST02016,2025-04-30,Kolkata,West Bengal,18-24,Male,Direct
+CUST00200,2024-07-12,Indore,Madhya Pradesh,55+,Male,Social Media
+CUST00423,2025-08-14,Lucknow,Uttar Pradesh,25-34,Male,Social Media
+CUST01027,2024-10-08,Indore,Madhya Pradesh,25-34,Other,Email Campaign
+CUST01419,2024-11-24,Hyderabad,Telangana,25-34,Male,Paid Ads
+CUST02608,2024-01-10,Pune,Maharashtra,25-34,Male,Social Media
+CUST00736,2024-11-22,Mumbai,Maharashtra,25-34,Male,Social Media
+CUST02077,2025-10-08,Kochi,Kerala,35-44,Male,Social Media
+CUST02761,2025-10-18,Jaipur,Rajasthan,18-24,Female,Social Media
+CUST02582,2024-08-23,Mumbai,Maharashtra,35-44,Female,Organic Search
+CUST02734,2024-11-23,Kolkata,West Bengal,25-34,Male,Social Media
+CUST00599,2025-06-07,Jaipur,Rajasthan,18-24,Male,Paid Ads
+CUST00576,2024-04-09,Ahmedabad,Gujarat,25-34,Female,Social Media
+CUST00492,2025-05-22,Jaipur,Rajasthan,18-24,Male,Referral
+CUST00348,2024-03-10,  kolkata  ,West Bengal,55+,Female,Paid Ads
+CUST01501,2024-04-28,Ahmedabad,Gujarat,25-34,Male,Paid Ads
+CUST02543,2025-06-04,Indore,Madhya Pradesh,35-44,Male,Email Campaign
+CUST01766,2025-12-25,Chandigarh,Chandigarh,25-34,Male,Direct
+CUST01895,2024-01-12,Chandigarh,Chandigarh,35-44,Male,Social Media
+CUST02371,2024-11-12,Chennai,Tamil Nadu,18-24,Female,Paid Ads
+CUST00411,2024-07-18,  jaipur  ,Rajasthan,25-34,Male,Social Media
+CUST02219,2025-09-26,  indore  ,Madhya Pradesh,45-54,Male,Social Media
+CUST02876,2026-03-16,Delhi,Delhi,18-24,Female,Social Media
+CUST01864,2025-08-04,Kolkata,West Bengal,35-44,Female,Referral
+CUST00950,2026-03-04,Surat,Gujarat,18-24,Male,Email Campaign
+CUST00564,2026-03-19,Pune,Maharashtra,25-34,Male,Referral
+CUST00778,2025-12-22,Kolkata,West Bengal,18-24,Male,Social Media
+CUST02489,2026-03-01,Chandigarh,Chandigarh,35-44,Male,Referral
+CUST00350,2025-01-17,Pune,Maharashtra,25-34,Male,Paid Ads
+CUST00271,2025-11-12,Indore,Madhya Pradesh,55+,Male,Email Campaign
+CUST01374,2024-01-08,Mumbai,Maharashtra,18-24,Male,Paid Ads
+CUST02192,2025-09-11,Jaipur,Rajasthan,45-54,Female,Social Media
+CUST01086,2024-08-01,Surat,Gujarat,25-34,Female,Social Media
+CUST01930,2024-11-06,Hyderabad,Telangana,25-34,Male,Referral
+CUST00270,2025-07-29,Lucknow,Uttar Pradesh,35-44,Female,Social Media
+CUST00621,2024-02-17,Mumbai,Maharashtra,18-24,Female,Social Media
+CUST00668,2024-03-11,Pune,Maharashtra,45-54,Female,Paid Ads
+CUST00459,2025-12-10,Kolkata,West Bengal,25-34,Female,Social Media
+CUST00116,2024-12-04,Pune,Maharashtra,25-34,Male,Organic Search
+CUST00829,2024-04-13,Surat,Gujarat,35-44,Male,Referral
+CUST01110,2025-09-30,Jaipur,Rajasthan,35-44,Male,Social Media
+CUST01902,2024-03-05,Surat,Gujarat,25-34,Female,Paid Ads
+CUST02097,2024-09-12,Bengaluru,Karnataka,25-34,Male,Organic Search
+CUST01385,2026-04-04,Lucknow,Uttar Pradesh,45-54,Male,Organic Search
+CUST02900,2026-05-26,Surat,Gujarat,25-34,Female,Organic Search
+CUST02185,2026-03-11,Ahmedabad,Gujarat,35-44,Male,Organic Search
+CUST00987,2024-07-12,Chennai,Tamil Nadu,18-24,Female,Organic Search
+CUST02182,2024-03-21,Bengaluru,Karnataka,25-34,Male,Email Campaign
+CUST02410,2024-04-12,Surat,Gujarat,55+,Female,Paid Ads
+CUST02034,2025-06-02,Delhi,Delhi,25-34,Other,Organic Search
+CUST01365,2025-09-17,Ahmedabad,Gujarat,18-24,Female,Paid Ads
+CUST00452,2026-04-08,Hyderabad,Telangana,18-24,Male,Social Media
